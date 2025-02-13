@@ -75,7 +75,7 @@ Last updated on 2025-02-13
 
 - **Native language:** Portuguese  
 - **Other languages:**
-  - **English:** Fluent (Reading, Writing, Speaking)  
+  - **English:** Advanced (Reading, Writing, Speaking)  
   - **Spanish:** Basic (Reading, Writing)
 
 ------------------------------------------------------------------------
@@ -99,8 +99,8 @@ Last updated on 2025-02-13
   Croatia  
 - **Visiting Professor, University of Minho** *(2017)*, Guimarães,
   Portugal  
-- **Professor Doutor 1 (Adjunct Professor 1), University of São Paulo**
-  *(2014–2021)*, São Carlos-SP, Brazil  
+- **Professor Doutor 1 (Adjunct Professor MS-3.1), University of São
+  Paulo** *(2014–2021)*, São Carlos-SP, Brazil  
 - **Laboratory Specialist, University of São Paulo** *(2013–2014)*, São
   Carlos-SP, Brazil  
 - **Consultant, TECTRAN Transport Engineering** *(2012–2013)*, Belo
@@ -123,9 +123,10 @@ Last updated on 2025-02-13
 - Multiple grants from **CNPq, CAPES**, and international funding
   agencies  
 - Notable projects:
-  - **AI for Urban Mobility** *(2023-2026)*
-  - **Graph-Based Traffic Analysis** *(2023-2026)*  
-  - **Truck Classification Using Computer Vision** *(2019-2022)*
+  - **AI for Urban Mobility** *(2023-2026)*, CNPq 311964/2022-2
+  - **Graph-Based Traffic Analysis** *(2023-2026)*, CNPq 409087/2023-8  
+  - **Truck Classification Using Computer Vision** *(2019-2022)*, CNPq
+    436954/2018-4
 
 ------------------------------------------------------------------------
 

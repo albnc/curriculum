@@ -98,7 +98,9 @@ Last updated on 2025-02-13
 - **Visiting Professor, University of Zagreb** *(2018, 2022)*, Zagreb,
   Croatia  
 - **Visiting Professor, University of Minho** *(2017)*, Guimarães,
-  Portugal  
+  Portugal
+- **Visiting Professor, Technical University of Munich** *(2016)*,
+  Munich, Germany
 - **Professor Doutor 1 (Adjunct Professor MS-3.1), University of São
   Paulo** *(2014–2021)*, São Carlos-SP, Brazil  
 - **Laboratory Specialist, University of São Paulo** *(2013–2014)*, São

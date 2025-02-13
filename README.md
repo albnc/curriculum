@@ -1,6 +1,9 @@
 # Curriculum Vitae \[EN\]
-André Luiz Barbosa Nunes da Cunha, last updated
-2025-02-13
+ANDRÉ LUIZ BARBOSA NUNES DA CUNHA
+
+<!-- **ANDRÉ LUIZ BARBOSA NUNES DA CUNHA** -->
+
+Last updated on 2025-02-13
 
 # Personal Details
 

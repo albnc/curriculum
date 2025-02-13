@@ -2,50 +2,6 @@
 André Luiz Barbosa Nunes da Cunha
 2025-02-13
 
-- [<span class="toc-section-number">1</span> Personal
-  Details](#personal-details)
-- [<span class="toc-section-number">2</span> Degrees](#degrees)
-  - [<span class="toc-section-number">2.1</span> **Doctorate in
-    Transport Engineering**](#doctorate-in-transport-engineering)
-  - [<span class="toc-section-number">2.2</span> **Master’s in Transport
-    Engineering**](#masters-in-transport-engineering)
-  - [<span class="toc-section-number">2.3</span> **Bachelor’s in Civil
-    Engineering**](#bachelors-in-civil-engineering)
-- [<span class="toc-section-number">3</span> Other Education and
-  Expertise](#other-education-and-expertise)
-  - [<span class="toc-section-number">3.1</span> **Postdoctoral Research
-    in Transport
-    Engineering**](#postdoctoral-research-in-transport-engineering)
-- [<span class="toc-section-number">4</span> Language
-  Skills](#language-skills)
-- [<span class="toc-section-number">5</span> Current
-  Employment](#current-employment)
-- [<span class="toc-section-number">6</span> Previous Work
-  Experience](#previous-work-experience)
-- [<span class="toc-section-number">7</span> Career
-  Breaks](#career-breaks)
-- [<span class="toc-section-number">8</span> Research Funding and
-  Grants](#research-funding-and-grants)
-- [<span class="toc-section-number">9</span> Research
-  Output](#research-output)
-  - [<span class="toc-section-number">9.1</span> Journal](#journal)
-  - [<span class="toc-section-number">9.2</span> Chapter](#chapter)
-  - [<span class="toc-section-number">9.3</span> Open
-    Access](#open-access)
-- [<span class="toc-section-number">10</span> Research Supervision and
-  Leadership](#research-supervision-and-leadership)
-- [<span class="toc-section-number">11</span> Teaching
-  Merits](#teaching-merits)
-- [<span class="toc-section-number">12</span> Awards and
-  Honours](#awards-and-honours)
-- [<span class="toc-section-number">13</span> Other Key Academic
-  Merits](#other-key-academic-merits)
-- [<span class="toc-section-number">14</span> Scientific and Societal
-  Impact](#scientific-and-societal-impact)
-- [<span class="toc-section-number">15</span> Other
-  Merits](#other-merits)
-- [<span class="toc-section-number">16</span> Appendices](#appendices)
-
 # Personal Details
 
 - **Surname:** Barbosa Nunes da Cunha  

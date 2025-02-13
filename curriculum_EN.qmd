@@ -1,12 +1,12 @@
 ---
   title: "Curriculum Vitae"
   author: "André Luiz Barbosa Nunes da Cunha"
-  date: "`r Sys.Date()`"
+  date: "Last Updated `r Sys.Date()`"
   
   engine: knitr
   format: 
     gfm:
-      toc: true
+      #toc: true
       number-sections: true
 ---
 

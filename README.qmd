@@ -171,7 +171,7 @@ Last updated on `{r} Sys.Date()`
 
 # Teaching Merits
 
-- **Courses taught:** Transport Engineering, Traffic Simulation, Machine Learning for Transport  
+- **Courses taught:** Transport Engineering, Traffic Simulation, Machine Learning for Transport, Statistics, Logistics  
 - **Awards:** Best Lecturer (2016, 2017, 2018) at USP  
 - Developed online teaching materials in transport engineering  
 

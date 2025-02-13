@@ -120,9 +120,9 @@ André Luiz Barbosa Nunes da Cunha, last updated
 - Multiple grants from **CNPq, CAPES**, and international funding
   agencies  
 - Notable projects:
-  - **AI for Urban Mobility** (*2023-2026*)
-  - **Graph-Based Traffic Analysis** (*2023-2026*)  
-  - **Truck Classification Using Computer Vision** (*2019-2022*)
+  - **AI for Urban Mobility** *(2023-2026)*
+  - **Graph-Based Traffic Analysis** *(2023-2026)*  
+  - **Truck Classification Using Computer Vision** *(2019-2022)*
 
 ------------------------------------------------------------------------
 
@@ -134,8 +134,8 @@ André Luiz Barbosa Nunes da Cunha, last updated
     Behaviour and Society, 2017)  
   - *Measuring Urban Road Network Vulnerability to Extreme Events*
     (Transport Research Part D, 2021)  
-- **Software and methods developed:** Traffic Simulation Models, Deep
-  Learning Applications for Traffic Analysis  
+- **Software and methods developed:** Parameters Calibration of Traffic
+  Simulation Models, Deep Learning Applications for Traffic Analysis  
   <!-- - **Patents:** Pending on AI-based traffic monitoring system   -->
 
 <!-- ## Journal -->
@@ -182,8 +182,9 @@ André Luiz Barbosa Nunes da Cunha, last updated
 
 # Research Supervision and Leadership
 
-- **PhD Supervisions:** 4 ongoing, 6 completed  
-- **Master’s Supervisions:** 8 ongoing, 12 completed  
+- **PhD Supervisions:** 5 ongoing, 0 completed  
+- **Master’s Supervisions:** 3 ongoing, 12 completed  
+- **Capstone Projects:** 1 ongoing, ?? completed
 - **Leadership:** Principal Investigator in multiple transport
   engineering research projects
 
@@ -236,7 +237,8 @@ André Luiz Barbosa Nunes da Cunha, last updated
 
 ------------------------------------------------------------------------
 
-# Appendices
+<!-- # Appendices -->
 
-- **Full list of publications available upon request**  
-- **Links to open-access articles provided**
+<!-- - **Full list of publications available upon request**   -->
+
+<!-- - **Links to open-access articles provided**   -->

@@ -1,5 +1,5 @@
-# Curriculum Vitae
-André Luiz Barbosa Nunes da Cunha
+# Curriculum Vitae \[EN\]
+André Luiz Barbosa Nunes da Cunha, last updated
 2025-02-13
 
 # Personal Details
@@ -11,6 +11,7 @@ André Luiz Barbosa Nunes da Cunha
   - Google Scholar:
     [HI0CQJMAAAAJ](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en)
   - Lattes: [7996696632908127](http://lattes.cnpq.br/7996696632908127)
+  - Linktree: [prof_alcunha](https://linktr.ee/prof_alcunha)
 
 ------------------------------------------------------------------------
 

@@ -1,7 +1,7 @@
 ---
-  title: "Curriculum Vitae"
-  author: "André Luiz Barbosa Nunes da Cunha"
-  date: "Last Updated `r Sys.Date()`"
+  title: "Curriculum Vitae [EN]"
+  author: "André Luiz Barbosa Nunes da Cunha, last updated "
+  date: "`r Sys.Date()`"
   
   engine: knitr
   format: 
@@ -18,6 +18,7 @@
     - ORCID: [0000-0002-0520-0621](https://orcid.org/0000-0002-0520-0621)
     - Google Scholar: [HI0CQJMAAAAJ](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en)
     - Lattes: [7996696632908127](http://lattes.cnpq.br/7996696632908127)
+    - Linktree: [prof_alcunha](https://linktr.ee/prof_alcunha)
 
 
 ---

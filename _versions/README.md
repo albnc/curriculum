@@ -1,15 +1,3 @@
----
-  title: "Curriculum Vitae"
-  author: "André Luiz Barbosa Nunes da Cunha"
-  date: "13 February, 2025"
-  
-  engine: knitr
-  format: 
-    html:
-      toc: true
-      number-sections: true
-      with_updated: true
----
 
 # Personal Details
 
@@ -19,6 +7,7 @@
     - ORCID: [0000-0002-0520-0621](https://orcid.org/0000-0002-0520-0621)
     - Google Scholar: [HI0CQJMAAAAJ](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en)
     - Lattes: [7996696632908127](http://lattes.cnpq.br/7996696632908127)
+
 
 ---
 
@@ -207,4 +196,4 @@ Vehicle Segmentation in Highway Traffic Videos”, In: arXiv. <arxiv.org/abs/181
 # Appendices
 
 - **Full list of publications available upon request**  
-- **Links to open-access articles provided**  
+- **Links to open-access articles provided** 

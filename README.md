@@ -188,7 +188,8 @@ Last updated on 2025-02-13
 
 - **PhD Supervisions:** 5 ongoing, 0 completed  
 - **Master’s Supervisions:** 3 ongoing, 12 completed  
-- **Capstone Projects:** 1 ongoing, ?? completed
+- **Scientific Initiation:** 2 ongoing, 14 completed
+- **Capstone Projects:** 1 ongoing, 15 completed
 - **Leadership:** Principal Investigator in multiple transport
   engineering research projects
 

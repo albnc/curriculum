@@ -27,21 +27,21 @@
 
 ## **Doctorate in Transport Engineering**  
 - **Year:** 2013  
-- **Institution:** University of São Paulo, Brazil  
-- **Thesis:** Automatic System for Obtaining Vehicle Traffic Parameters from Video Images Using OpenCV  
-- **Supervisor:** José Reynaldo Anselmo Setti  
+- **Institution:** University of São Paulo [USP-EESC], São Carlos-SP, Brazil  
+- **Thesis:** ["*Automatic System for Obtaining Vehicle Traffic Parameters from Video Images Using OpenCV*"](https://doi.org/10.11606/T.18.2013.tde-19112013-165611) (in portuguese)
+- **Supervisor:** Full Professor [José Reynaldo Anselmo Setti]( http://lattes.cnpq.br/1214389619505648)  
 - **Funding:** CNPq Scholarship  
 
 ## **Master's in Transport Engineering**  
 - **Year:** 2007  
-- **Institution:** University of São Paulo, Brazil  
-- **Thesis:** Evaluation of the Impact of Performance Measures on the Truck Passenger Car Equivalent  
-- **Supervisor:** José Reynaldo Anselmo Setti  
+- **Institution:** University of São Paulo [USP-EESC], São Carlos-SP, Brazil  
+- **Thesis:** ["*Evaluation of the Impact of Performance Measures on the Truck Passenger Car Equivalent*"](https://doi.org/10.11606/D.18.2007.tde-27112007-094400) (in portuguese)
+- **Supervisor:** Full Professor [José Reynaldo Anselmo Setti]( http://lattes.cnpq.br/1214389619505648)
 - **Funding:** CNPq Scholarship  
 
 ## **Bachelor’s in Civil Engineering**  
 - **Year:** 2003  
-- **Institution:** Federal University of Mato Grosso do Sul, Brazil  
+- **Institution:** Federal University of Mato Grosso do Sul [UFMS], Campo Grande-MS, Brazil
 
 ---
 
@@ -49,11 +49,12 @@
 
 ## **Postdoctoral Research in Transport Engineering**  
 - **Year:** 2020  
-- **Institution:** University of Melbourne, Australia  
-- **Research Topic:** Graph-Based Approach for Spatio-Temporal Traffic Network Analysis  
+- **Institution:** University of Melbourne, Melbourne-VIC, Australia  
+- **Research Topic:** "*Graph-Based Approach for Spatio-Temporal Traffic Network Analysis*"
 - **Funding:** CAPES  
 
-- Various advanced courses in Python, Machine Learning, Deep Learning, and Transport Engineering  
+## **Courses and workshops**
+- Various advanced courses in Python, Machine Learning, Deep Learning, and Transport Engineering (*2011-2024*)  
 
 ---
 
@@ -69,22 +70,22 @@
 # Current Employment
 
 - **Professor Doutor 2 (Adjunct Professor 2), University of São Paulo** *(2021–Present)*  
-  - Department of Transport Engineering, School of Engineering of São Carlos  
+  - Department of Transport Engineering [STT], School of Engineering of São Carlos [EESC]
   - Full-time faculty (RDIDP)  
-  - Research career stage: III (Established Researcher)  
+  - Research career stage: MS-3.2 (Established Researcher)  
 
 ---
 
 # Previous Work Experience
 
-- **Visiting Researcher, University of Melbourne** *(2020)*  
-- **Visiting Professor, University of Zagreb** *(2018, 2022)*  
-- **Visiting Professor, University of Minho** *(2017)*  
-- **Professor Doutor 1 (Adjunct  Professor 1), University of São Paulo** *(2014–2021)*  
-- **Laboratory Specialist, University of São Paulo** *(2013–2014)*  
-- **Consultant, TECTRAN Transport Engineering** *(2012–2013)*  
-- **Assistant Professor, UNESP** *(2010)*  
-- **Various internships in civil and transport engineering firms**  
+- **Visiting Researcher, University of Melbourne** *(2020)*, Melbourne-VIC, Australia  
+- **Visiting Professor, University of Zagreb** *(2018, 2022)*, Zagreb, Croatia  
+- **Visiting Professor, University of Minho** *(2017)*, Guimarães, Portugal  
+- **Professor Doutor 1 (Adjunct  Professor 1), University of São Paulo** *(2014–2021)*, São Carlos-SP, Brazil  
+- **Laboratory Specialist, University of São Paulo** *(2013–2014)*, São Carlos-SP, Brazil  
+- **Consultant, TECTRAN Transport Engineering** *(2012–2013)*, Belo Horizonte-MG, Brazil  
+- **Assistant Professor, UNESP** *(2010)*, Bauru-SP, Brazil.  
+- **Various internships in civil and transport engineering firms** in Brazil
 
 ---
 
@@ -100,9 +101,9 @@
 
 - Multiple grants from **CNPq, CAPES**, and international funding agencies  
 - Notable projects:  
-  - **AI for Urban Mobility**  
-  - **Graph-Based Traffic Analysis**  
-  - **Truck Classification Using Computer Vision**  
+  - **AI for Urban Mobility** (*2023-2026*) 
+  - **Graph-Based Traffic Analysis** (*2023-2026*)  
+  - **Truck Classification Using Computer Vision** (*2019-2022*)  
 
 ---
 
@@ -113,44 +114,44 @@
   - *Estimating Motorized Travel Mode Choice Using Classifiers* (Travel Behaviour and Society, 2017)  
   - *Measuring Urban Road Network Vulnerability to Extreme Events* (Transport Research Part D, 2021)  
 - **Software and methods developed:** Traffic Simulation Models, Deep Learning Applications for Traffic Analysis  
-- **Patents:** Pending on AI-based traffic monitoring system  
+<!-- - **Patents:** Pending on AI-based traffic monitoring system   -->
 
 
-## Journal
-1. 2023 Oliveira, G.J.; Lavieri, P.S.; CUNHA, A.L., “Integrating a non-gridded space representation into a graph neural networks model for citywide short-term crash risk prediction”, Urban Informatics, v.2, n.7, 2023. [DOI: 10.1007/s44212-023-00032-6](https://doi.org/10.1007/s44212-023-00032-6)
+<!-- ## Journal -->
+<!-- 1. 2023 Oliveira, G.J.; Lavieri, P.S.; CUNHA, A.L., “Integrating a non-gridded space representation into a graph neural networks model for citywide short-term crash risk prediction”, Urban Informatics, v.2, n.7, 2023. [DOI: 10.1007/s44212-023-00032-6](https://doi.org/10.1007/s44212-023-00032-6) -->
 
-1. 2023 Fleury, M.P.; Kamakura, G.K.; Pitombo, C.S.; CUNHA, A.L.B.N. ; Silva, J.L., “Prediction of non-woven geotextiles’ reduction factors for damage caused by the drop of backfill materials”, Geotextiles and Geomembranes, n.1, p. 1 – 11, 2023. [DOI: 10.1016/j.geotexmem.2023.05.004](https://doi.org/10.1016/j.geotexmem.2023.05.004)
+<!-- 1. 2023 Fleury, M.P.; Kamakura, G.K.; Pitombo, C.S.; CUNHA, A.L.B.N. ; Silva, J.L., “Prediction of non-woven geotextiles’ reduction factors for damage caused by the drop of backfill materials”, Geotextiles and Geomembranes, n.1, p. 1 – 11, 2023. [DOI: 10.1016/j.geotexmem.2023.05.004](https://doi.org/10.1016/j.geotexmem.2023.05.004) -->
 
-1. 2022 Silva, F.A.; Bessa Jr, J.E.; Costa, A.L.; CUNHA, A.L. ; Velho, D.M.C., “Analysis of no-passing zones to assess the level of service on two-lane rural highways in Brazil”, Case Studies on Transport Policy, v. 10, n.1, p. 248 – 256, 2022. [DOI: 10.1016/j.cstp.2021.12.006](https://doi.org/10.1016/j.cstp.2021.12.006)
+<!-- 1. 2022 Silva, F.A.; Bessa Jr, J.E.; Costa, A.L.; CUNHA, A.L. ; Velho, D.M.C., “Analysis of no-passing zones to assess the level of service on two-lane rural highways in Brazil”, Case Studies on Transport Policy, v. 10, n.1, p. 248 – 256, 2022. [DOI: 10.1016/j.cstp.2021.12.006](https://doi.org/10.1016/j.cstp.2021.12.006) -->
 
-1. 2021 Morelli, A.B.; CUNHA, A.L., “Measuring urban road network vulnerability to extreme events: an application for floods”, Transportation Research Part D: Transport and Environment,, v. 93, p. 1 – 11, 2021. [DOI: 10.1016/j.trd.2021.102770]
+<!-- 1. 2021 Morelli, A.B.; CUNHA, A.L., “Measuring urban road network vulnerability to extreme events: an application for floods”, Transportation Research Part D: Transport and Environment,, v. 93, p. 1 – 11, 2021. [DOI: 10.1016/j.trd.2021.102770] -->
 
-1. 2021 Morelli, A.B.; CUNHA, A.L., “Verifying the vulnerability in transport networks: a graph theory approach”, Transportes, v. 29, n. 1, p. 161 - 172, 2021. [DOI: 10.14295/transportes.v29i1.2250]
+<!-- 1. 2021 Morelli, A.B.; CUNHA, A.L., “Verifying the vulnerability in transport networks: a graph theory approach”, Transportes, v. 29, n. 1, p. 161 - 172, 2021. [DOI: 10.14295/transportes.v29i1.2250] -->
 
-1. 2020 Martins, D.O.; Oliveira, G.J.M.; Moraes, F.R.; Silva, I.; CUNHA, A. L., “Geomatics data management system”, Revista Brasileira de Geomatica, v.8, p.056 - 069. [DOI: 10.3895/rbgeo.v8n1.10141]
+<!-- 1. 2020 Martins, D.O.; Oliveira, G.J.M.; Moraes, F.R.; Silva, I.; CUNHA, A. L., “Geomatics data management system”, Revista Brasileira de Geomatica, v.8, p.056 - 069. [DOI: 10.3895/rbgeo.v8n1.10141] -->
 
-1. 2017 Lindner, A.; Pitombo, C.S.; CUNHA, A.L., “Estimating motorized travel mode choice using classifiers: An application for high-dimensional multicollinear data”, Travel Behaviour and Society, v.6, p.100 - 109. [DOI: 10.1016/j.tbs.2016.08.003]
+<!-- 1. 2017 Lindner, A.; Pitombo, C.S.; CUNHA, A.L., “Estimating motorized travel mode choice using classifiers: An application for high-dimensional multicollinear data”, Travel Behaviour and Society, v.6, p.100 - 109. [DOI: 10.1016/j.tbs.2016.08.003] -->
 
-1. 2016 Andrade, G. R.; Pitombo, C.; CUNHA, A.L. ; Setti, J.R., “A Model for Estimating Free-Flow Speed on Brazilian Expressways”, Transportation Research Procedia, v.15, p.378-388. [DOI:10.1016/j.trpro.2016.06.032]
+<!-- 1. 2016 Andrade, G. R.; Pitombo, C.; CUNHA, A.L. ; Setti, J.R., “A Model for Estimating Free-Flow Speed on Brazilian Expressways”, Transportation Research Procedia, v.15, p.378-388. [DOI:10.1016/j.trpro.2016.06.032] -->
 
-## Chapter
-1. 2011 CUNHA, A.L. ; Setti, J.R., “Truck Equivalence Factors for Divided, Multilane Highways in Brazil”, In: 6th International Symposium on Highway Capacity and Quality of Service, Stockholm. Procedia Social and Behavioral Sciences, v.16. p.248-258. [DOI:10.1016/j.sbspro.2011.04.447]
+<!-- ## Chapter -->
+<!-- 1. 2011 CUNHA, A.L. ; Setti, J.R., “Truck Equivalence Factors for Divided, Multilane Highways in Brazil”, In: 6th International Symposium on Highway Capacity and Quality of Service, Stockholm. Procedia Social and Behavioral Sciences, v.16. p.248-258. [DOI:10.1016/j.sbspro.2011.04.447] -->
 
-2. 2009 CUNHA, A.L. ; Bessa Junior, J.E.; Setti, J.R. , “Genetic Algorithm for the Calibration of Vehicle Performance Models of Microscopic Traffic Simulators”, In: Artificial Intelligence in Transportation and Urban Mobility (AITUM), 2009, Aveiro, Portugal. Lecture Notes in Computer Science: Progress in Artificial Intelligence, Berlin: Springer, v.5816. p.3 - 14. [DOI: 10.1007/978-3-642-04686-5 1]
+<!-- 2. 2009 CUNHA, A.L. ; Bessa Junior, J.E.; Setti, J.R. , “Genetic Algorithm for the Calibration of Vehicle Performance Models of Microscopic Traffic Simulators”, In: Artificial Intelligence in Transportation and Urban Mobility (AITUM), 2009, Aveiro, Portugal. Lecture Notes in Computer Science: Progress in Artificial Intelligence, Berlin: Springer, v.5816. p.3 - 14. [DOI: 10.1007/978-3-642-04686-5 1] -->
 
-## Open Access
-1. 2024 Morelli, A.B.; CUNHA, A.L., “Incorporating Competition into Dual Accessibility Assessment: The Competitive Equilibrium Method”, In: arXiv. [arxiv.org/abs/2403.04879]
+<!-- ## Open Access -->
+<!-- 1. 2024 Morelli, A.B.; CUNHA, A.L., “Incorporating Competition into Dual Accessibility Assessment: The Competitive Equilibrium Method”, In: arXiv. [arxiv.org/abs/2403.04879] -->
 
-2. 2023 Morelli, A.B.; CUNHA, A.L., “Resilience in Highways: Proposal of Roadway Redundancy Indicators and Application in Segments of the Brazilian Network”, In: arXiv. [arxiv.org/abs/2312.00731]
+<!-- 2. 2023 Morelli, A.B.; CUNHA, A.L., “Resilience in Highways: Proposal of Roadway Redundancy Indicators and Application in Segments of the Brazilian Network”, In: arXiv. [arxiv.org/abs/2312.00731] -->
 
-3. 2023 Morelli, A.B.; Fiedler, A.C.; CUNHA, A.L., “A database of formal jobs georeferenced in Brazilian cities” (In portuguese), In: arXiv. [arxiv.org/abs/2303.09602]
+<!-- 3. 2023 Morelli, A.B.; Fiedler, A.C.; CUNHA, A.L., “A database of formal jobs georeferenced in Brazilian cities” (In portuguese), In: arXiv. [arxiv.org/abs/2303.09602] -->
 
-4. 2022 Marcomini, L.A.; CUNHA, A.L., “Truck Axle Detection with Convolution Neural Networks”, In: arXiv. [arxiv.org/abs/2204.01868]
+<!-- 4. 2022 Marcomini, L.A.; CUNHA, A.L., “Truck Axle Detection with Convolution Neural Networks”, In: arXiv. [arxiv.org/abs/2204.01868] -->
 
-5. 2020 Morelli, A.B.; CUNHA, A.L., “Measuring urban resilience: a road network-oriented method”, In: arXiv. <arxiv.org/abs/1912.01739>
+<!-- 5. 2020 Morelli, A.B.; CUNHA, A.L., “Measuring urban resilience: a road network-oriented method”, In: arXiv. <arxiv.org/abs/1912.01739> -->
 
-6. 2018 Marcomini, L.A.; CUNHA, A.L., “A Comparison between Background Modelling Methods for
-Vehicle Segmentation in Highway Traffic Videos”, In: arXiv. <arxiv.org/abs/1810.02835>
+<!-- 6. 2018 Marcomini, L.A.; CUNHA, A.L., “A Comparison between Background Modelling Methods for -->
+<!-- Vehicle Segmentation in Highway Traffic Videos”, In: arXiv. <arxiv.org/abs/1810.02835> -->
 
 
 ---

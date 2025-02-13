@@ -57,7 +57,7 @@ Last updated on `{r} Sys.Date()`
 - **Funding:** CAPES  
 
 ## **Courses and workshops**
-- Various advanced courses in Python, Machine Learning, Deep Learning, and Transport Engineering (*2011-2024*)  
+- Various advanced courses in C++, Python, R, SQL, Machine Learning, Deep Learning, and Transport Engineering (*2011-2024*)  
 
 ---
 

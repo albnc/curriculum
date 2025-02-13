@@ -66,8 +66,8 @@ Last updated on 2025-02-13
 
 ## **Courses and workshops**
 
-- Various advanced courses in Python, Machine Learning, Deep Learning,
-  and Transport Engineering (*2011-2024*)
+- Various advanced courses in C++, Python, R, SQL, Machine Learning,
+  Deep Learning, and Transport Engineering (*2011-2024*)
 
 ------------------------------------------------------------------------
 

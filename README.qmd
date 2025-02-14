@@ -3,7 +3,6 @@
   author: "ANDRÉ LUIZ BARBOSA NUNES DA CUNHA"
   # date: "`r Sys.Date()`"
   
-  engine: knitr
   format: 
     gfm:
       #toc: true

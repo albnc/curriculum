@@ -95,8 +95,8 @@ Last updated on `{r} Sys.Date()`
 
 # Career Breaks
 
-- **Paternity leave**, 5-days *(May, 2020)*
 - **Bereavement leave**, 3-days *(October, 2022)*
+- **Paternity leave**, 5-days *(May, 2020)*
 
 
 ---

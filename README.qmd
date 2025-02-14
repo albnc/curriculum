@@ -1,15 +1,17 @@
 ---
   title: "Curriculum Vitae"
-  author: "ANDRÉ LUIZ BARBOSA NUNES DA CUNHA"
-  # date: "`r Sys.Date()`"
+  author: "André Luiz Barbosa Nunes da Cunha"
+  #date: "`r Sys.Date()`"
   
-  format: 
-    gfm:
-      #toc: true
+  engine: knitr
+  format: gfm
 ---
+
+Last updated on `{r} Sys.Date()`
 
 # Curriculum versions
 
-1. [English version](curriculum_EN.html)
+1. [English version](curriculum_EN.md)
 2. [Portuguese version]()
-3. [FAPESP - Sumula]()
+3. [FAPESP - Sumula - EN]()
+3. [FAPESP - Sumula - PT]()

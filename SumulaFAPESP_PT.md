@@ -28,43 +28,26 @@ ANDRÉ LUIZ BARBOSA NUNES DA CUNHA
 
 # Indicadores quantitativos
 
-1)  livros publicados;
-
-2)  publicações em periódicos com seletiva política editorial;
-
-3)  capítulos de livros;
-
-4)  dissertações de Mestrado:
-
-4.a) orientadas e já defendidas, e
-
-4.b) em andamento;
-
-5)  teses de Doutorado:
-
-5.a) orientadas e já defendidas, e
-
-5.b) em andamento;
-
-6)  supervisões de Pós-Doutorado:
-
-6.a) concluídas e,
-
-6.b) em andamento;
-
-7)  quantidade de citações recebidas na literatura científica
-    internacional, segundo o Web of Science, Scopus ou Google Scholar;
-
-8)  patentes solicitadas, concedidas e licenciadas;
-
-9)  produtos desenvolvidos e lançados no mercado;
-
-10) processos otimizados implementados em empresas ou organizações
-    sociais;
-
-11) empresas criadas ou apoiadas;
-
-12) consultorias técnicas e científicas relevantes.
+|  |  |
+|:---|---:|
+| 1\) livros publicados |  |
+| 2\) publicações em periódicos com seletiva política editorial |  |
+| 3\) capítulos de livros |  |
+| 4\) dissertações de Mestrado: |  |
+| 4.a) orientadas e já defendidas |  |
+| 4.b) em andamento |  |
+| 5\) teses de Doutorado: |  |
+| 5.a) orientadas e já defendidas |  |
+| 5.b) em andamento |  |
+| 6\) supervisões de Pós-Doutorado: |  |
+| 6.a) concluídas |  |
+| 6.b) em andamento |  |
+| 7\) quantidade de citações recebidas na literatura científica internacional, segundo o Web of Science, Scopus ou Google Scholar |  |
+| 8\) patentes solicitadas, concedidas e licenciadas |  |
+| 9\) produtos desenvolvidos e lançados no mercado |  |
+| 10\) processos otimizados implementados em empresas ou organizações sociais |  |
+| 11\) empresas criadas ou apoiadas |  |
+| 12\) consultorias técnicas e científicas relevantes |  |
 
 # Links
 

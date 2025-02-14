@@ -53,7 +53,7 @@ Atualizado em `{r} Sys.Date()`
 ## **Pós-Doutorado em Engenharia de Transportes**  
 - **Ano:** 2020  
 - **Instituição:** University of Melbourne, Melbourne-VIC, Austrália  
-- **Tópico de Pesquisa:** "*Abordagem Baseada em Grafos para Análise Espaço-Temporal de Redes de Trânsito*"  
+- **Tópico de Pesquisa:** "*Graph-Based Approach for Spatio-Temporal Traffic Network Analysis*"  
 - **Financiamento:** CAPES  
 
 ## **Cursos e Workshops**

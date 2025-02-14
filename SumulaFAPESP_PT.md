@@ -3,7 +3,7 @@ ANDRÉ LUIZ BARBOSA NUNES DA CUNHA
 
 # Formação
 
-| Período | Duração em meses | Título ou atividade | Instituição e orientador | Título do trabalho |
+| Período | Duração em meses | Título ou atividade | Instituição e orientador/supervisor | Título do trabalho |
 |:---|---:|:---|:---|:---|
 | 1998 - 2003 | 60 | **Graduação** | Universidade Federal do Mato Grosso do Sul (UFMS) |  |
 | 2005 - 2007 | 32 | **Mestrado** | Universidade de São Paulo (USP), Escola de Engenharia de São Carlos</br>[Prof. José Reynaldo Anselmo Setti](http://lattes.cnpq.br/1214389619505648) | [“*Avaliação do Impacto das Medidas de Desempenho na Equivalência de Caminhões a Automóveis de Passeio*”](https://doi.org/10.11606/D.18.2007.tde-27112007-094400) |

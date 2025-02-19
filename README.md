@@ -3,7 +3,7 @@ André Luiz Barbosa Nunes da Cunha
 
 Last updated on 2025-02-14
 
-# Curriculum versions
+## Versions
 
 1.  [English version](curriculum_EN.md)
 2.  [Portuguese version](curriculum_PT.md)

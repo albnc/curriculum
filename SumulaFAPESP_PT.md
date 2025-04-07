@@ -22,9 +22,6 @@ ORCID
 Currículo Lattes
 : [7996696632908127](http://lattes.cnpq.br/7996696632908127)
 
-Web of Science
-: []()
-
 Google Scholar
 : [HI0CQJMAAAAJ](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=pt)
 

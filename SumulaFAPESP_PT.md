@@ -1,15 +1,3 @@
----
-papersize: a4
-fontsize: 10pt
-geometry: 
-  - left=25mm
-  - right=20mm
-  - top=20mm
-  - bottom=20mm
-numbersections: true
-urlcolor: "blue"
----
-
 <!-- Source: https://fapesp.br/sumula -->
 # SÚMULA CURRICULAR {-}
 
@@ -28,7 +16,7 @@ Google Scholar
 # Formação
 
 | **Período** | **Duração em meses** | **Título ou Atividade** | **Instituição e orientador/supervisor** | **Título do trabalho** |
-|:-----|:-----:|:--------------------|:-------------------------------|:----------------------------|
+|:-------|:-----:|:------------|:-------------------------------|:----------------------------|
 | 1998--2003 | 60 | Graduação | Universidade Federal do Mato Grosso do Sul (UFMS) | |
 | 2005--2007 | 32 | Mestrado  | Universidade de São Paulo (USP-EESC) / [Prof. José Reynaldo Anselmo Setti](http://lattes.cnpq.br/1214389619505648) | ["*Avaliação do impacto da medida de desempenho no equivalente veicular de caminhões*"](https://doi.org/10.11606/D.18.2007.tde-27112007-094400) |
 | 2007--2013 | 74 | Doutorado | Universidade de São Paulo (USP-EESC) / [Prof. José Reynaldo Anselmo Setti](http://lattes.cnpq.br/1214389619505648) | ["*Sistema automático para obtenção de parâmetros do tráfego veicular a partir de imagens de vídeo usando OpenCV*"](https://doi.org/10.11606/T.18.2013.tde-19112013-165611) |

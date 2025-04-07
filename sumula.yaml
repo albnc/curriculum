@@ -1,0 +1,12 @@
+---
+papersize: a4
+fontsize: 10pt
+geometry: 
+  - left=25mm
+  - right=20mm
+  - top=20mm
+  - bottom=20mm
+numbersections: true
+urlcolor: "blue"
+---
+  

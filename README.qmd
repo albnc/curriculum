@@ -9,11 +9,11 @@
 
 Last updated on `{r} Sys.Date()`
 
-# Curriculum versions
+## Versions
 
-1. [English version](curriculum_EN.md)
+1. [Full curriculum](curriculum_EN.md)
 
-2. [Portuguese version](curriculum_PT.md)
+2. [Currículo completo](curriculum_PT.md)
 
 3.  Súmula Curricular FAPESP (<https://fapesp.br/sumula>):
     - [Português](SumulaFAPESP_PT.md) | [PDF](Sumula_AndreLuizCunha.pdf)

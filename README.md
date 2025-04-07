@@ -3,14 +3,15 @@ André Luiz Barbosa Nunes da Cunha
 
 Last updated on 2025-04-07
 
-# Curriculum versions
+## Versions
 
-1.  [English version](curriculum_EN.md)
+1.  Currículo Completo (*Full curriculum*)
 
-2.  [Portuguese version](curriculum_PT.md)
+    - [Português](curriculum_PT.md) \| [PDF-PT]()
+    - [English](curriculum_EN.md) \| [PDF-EN]()
 
-3.  Súmula Curricular FAPESP (<https://fapesp.br/sumula>):
+2.  Súmula Curricular (*Curriculum Summary*) -- FAPESP (<https://fapesp.br/sumula>):
 
     - [Português](SumulaFAPESP_PT.md) \|
-      [PDF](Sumula_AndreLuizCunha.pdf)
-    - [English](SumulaFAPESP_EN.md) \| [PDF](SC_AndreLuizCunha.pdf)
+      [PDF-PT](Sumula_AndreLuizCunha.pdf)
+    - [English](SumulaFAPESP_EN.md) \| [PDF-EN](SC_AndreLuizCunha.pdf)

@@ -771,8 +771,7 @@ DOI: [10.11606/D.18.2019.tde-20082019-084513](https://doi.org/10.11606/D.18.2019
 8. [Andre Borgato Morelli](https://lattes.cnpq.br/5248357327146113). *Análise exploratória de resiliência em redes viárias urbanas*. -- 22/10/2019.\
 DOI: [10.11606/D.18.2020.tde-13012020-153303](https://doi.org/10.11606/D.18.2020.tde-13012020-153303)
 
-9. Jessica Tong. *Measuring the temporal and spatial impacts of short-term events on pedestrian flows*. The University of Melbourne. (coorientador) -- 05/11/2020.
-
+9. [Jessica Tong](https://www.linkedin.com/in/jessicaytong/), [Hans Gao](https://www.linkedin.com/in/hansgao/), and [Marcus Rzanovski](https://www.linkedin.com/in/marcus-rzanovski-01644928b/). *Measuring the temporal and spatial impacts of short-term events on pedestrian flows*. The University of Melbourne. (coorientador) -- 05/11/2020.
 
 10. [Alceu Dal Bosco Junior](https://lattes.cnpq.br/7512695029586698). *Usabilidade de pontos de interesse e centralidades de rede de mapas colaborativos para análise de atração de viagens: estudo de caso de Curitiba*. -- 10/12/2020.\
 DOI: [10.11606/D.18.2020.tde-18042022-143053](https://doi.org/10.11606/D.18.2020.tde-18042022-143053)

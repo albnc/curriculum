@@ -1,5 +1,5 @@
-Perfil Profissional e Acadêmico
-===============================
+Currículo Acadêmico-Profissional
+=================================
 
 
 Dados Pessoais

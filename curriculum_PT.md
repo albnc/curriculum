@@ -738,8 +738,6 @@ Orientações Acadêmicas
 
 ### Orientações e supervisões concluídas
 
-O docente apresenta 1 coorientação de doutorado concluído pela University of Melbourne, Austrália. Pelo Programa de Pós-graduação em Engenharia de Transportes (PPG-ET), da USP-EESC, o docente apresenta 12 trabalhos de mestrado e 1 supervisão de mobilidade internacional concluídos. Na graduação foram 14 Iniciações Científicas e 25 Trabalhos de Conclusão de Curso.
-
 
 #### Doutorado
 
@@ -876,8 +874,6 @@ DOI: [10.11606/D.18.2024.tde-31102024-114415](https://doi.org/10.11606/D.18.2024
 
 
 ### Orientações e supervisões em andamento
-
-Pelo Programa de Pós-graduação em Engenharia de Transportes (PPG-ET), o docente tem atualmente 3 orientações de mestrado e 5 de doutorado em andamento.
 
 
 #### Doutorado

@@ -381,8 +381,8 @@ Atividades de Ensino
 13. Disciplinas ministradas no 2º semestre de 2021 (9:04 h/semana):
 
 > 1800078 - Estágio Supervisionado em Engenharia Civil;\
-> STT0628 - Engenharia de Tráfego e Simulação de Tráfego Rodoviário;
-> STT0630 - Ferramentas computacionais aplicadas à Engenharia Civil.\
+> STT0628 - Engenharia de Tráfego e Simulação de Tráfego Rodoviário;\
+> STT0630 - Ferramentas computacionais aplicadas à Engenharia Civil.
 
 
 14. Disciplinas ministradas no 1º semestre de 2022 (9:01 h/semana):
@@ -393,8 +393,8 @@ Atividades de Ensino
 
 15. Disciplinas ministradas no 2º semestre de 2022 (6:06 h/semana):
 
-> STT0628 - Engenharia de Tráfego e Simulação de Tráfego Rodoviário;
-> STT0630 - Ferramentas computacionais aplicadas à Engenharia Civil.\
+> STT0628 - Engenharia de Tráfego e Simulação de Tráfego Rodoviário;\
+> STT0630 - Ferramentas computacionais aplicadas à Engenharia Civil.
 
 16. Disciplinas ministradas no 1º semestre de 2023 (8:25 h/semana):
 
@@ -406,8 +406,8 @@ Atividades de Ensino
 
 > 1800094 - Projeto Final de Curso II;\
 > 1800122 - Estágio Supervisionado;\
-> STT0628 - Engenharia de Tráfego e Simulação de Tráfego Rodoviário;
-> STT0630 - Ferramentas computacionais aplicadas à Engenharia Civil.\
+> STT0628 - Engenharia de Tráfego e Simulação de Tráfego Rodoviário;\
+> STT0630 - Ferramentas computacionais aplicadas à Engenharia Civil.
 
 
 18. Disciplinas ministradas no 1º semestre de 2024 (12:52 h/semana):
@@ -419,8 +419,8 @@ Atividades de Ensino
 19. Disciplinas ministradas no 2º semestre de 2024 (7:36 h/semana):
 
 > 1800122 - Estágio Supervisionado;\
-> STT0628 - Engenharia de Tráfego e Simulação de Tráfego Rodoviário;
-> STT0630 - Ferramentas computacionais aplicadas à Engenharia Civil.\
+> STT0628 - Engenharia de Tráfego e Simulação de Tráfego Rodoviário;\
+> STT0630 - Ferramentas computacionais aplicadas à Engenharia Civil.
 
 
 20. Disciplinas ministradas no 1º semestre de 2025 (6:36 h/semana):
@@ -484,7 +484,7 @@ Atividades de Ensino
 > STT5859 - Tecnologia dos Transportes;\
 > STT5874 - Tópicos Avançados de Engenharia de Tráfego;\
 > STT5898 - Estatística Aplicada à Engenharia de Transportes;\
-> STT5900 - Análise de Dados Multivariados Aplicados à Engenharia de Transportes;\
+> STT5900 - Análise de Dados Multivariados Aplicados à Engenharia de Transportes;
 
 8. Disciplinas ministradas em 2023 (7:24 h/semana):
 

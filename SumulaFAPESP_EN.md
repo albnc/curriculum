@@ -14,7 +14,7 @@ Google Scholar
 
 # Education
 
-| **Period** | **Duration (months)** | **Degree/Activity** | **Institution and advisor/supervisor** | **Thesis/Dissertation Title** |
+| **Period** | **Duration (months)** | **Degree** | **Institution and advisor/supervisor** | **Thesis/Dissertation Title** |
 |:-------|:-----:|:------------|:-------------------------------|:----------------------------|
 | 1998-2003 | 60 | Undergraduate | Federal University of Mato Grosso do Sul (UFMS) | |
 | 2005-2007 | 32 | Master's  | University of São Paulo (USP-EESC) / [Prof. José Reynaldo Anselmo Setti](http://lattes.cnpq.br/1214389619505648) | ["*Evaluation of performance measurement impact on truck passenger car equivalents*"](https://doi.org/10.11606/D.18.2007.tde-27112007-094400) |

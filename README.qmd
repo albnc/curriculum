@@ -15,8 +15,8 @@ Last updated on `{r} Sys.Date()`
 2. [Portuguese version](curriculum_PT.md)
 s
 3.  [Súmula Curricular FAPESP](https://fapesp.br/sumula)
-    - [Português](SumulaFAPESP_PT.md)
-    - [PDF: Português](Sumula_AndreLuizCunha.pdf)
+    - [Português](SumulaFAPESP_PT.md) | [PDF](Sumula_AndreLuizCunha.pdf)
+    - [English](SumulaFAPESP_EN.md) | [PDF](SC_AndreLuizCunha.pdf)
   
   <!-- [FAPESP - Sumula - EN]() -->
 

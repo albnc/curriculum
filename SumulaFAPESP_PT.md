@@ -1,4 +1,3 @@
-<!-- Source: https://fapesp.br/sumula -->
 # SÚMULA CURRICULAR {-}
 
 Nome

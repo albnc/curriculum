@@ -14,7 +14,7 @@ Google Scholar
 
 # Education
 
-| **Period** | **Duration (months)** | **Degree** | **Institution and advisor/supervisor** | **Thesis/Dissertation Title** |
+| **Period** | **Duration (months)** | **Degree/Activity** | **Institution and advisor/supervisor** | **Thesis/Dissertation Title** |
 |:-------|:-----:|:------------|:-------------------------------|:----------------------------|
 | 1998-2003 | 60 | Undergraduate | Federal University of Mato Grosso do Sul (UFMS) | |
 | 2005-2007 | 32 | Master's  | University of São Paulo (USP-EESC) / [Prof. José Reynaldo Anselmo Setti](http://lattes.cnpq.br/1214389619505648) | ["*Evaluation of performance measurement impact on truck passenger car equivalents*"](https://doi.org/10.11606/D.18.2007.tde-27112007-094400) |
@@ -32,11 +32,11 @@ Google Scholar
 
 # Professional/Academic History
 
-- [03/02/2010 - 12/20/2010] **Substitute Professor** at São Paulo State University (UNESP) "Júlio de Mesquita Filho", Faculty of Engineering of Bauru (FEB), Bauru, SP, Brazil. (Workload: 12h/week).
+- [03/02/2010 - 12/20/2010] **Substitute Lecturer**, São Paulo State University (UNESP) "Júlio de Mesquita Filho", Faculty of Engineering of Bauru (FEB), Bauru, SP, Brazil. (Workload: 12h/week).
 
-- [02/14/2013 - 06/30/2014] **Laboratory Specialist** (Superior 1A) at the Department of Transportation Engineering (STT), São Carlos School of Engineering (USP-EESC), São Carlos, SP, Brazil. Public tender under Announcement EESC/USP 11/2012 (Workload: 40h/week).
+- [02/14/2013 - 06/30/2014] **Senior Laboratory Specialist** (Superior 1A), Department of Transportation Engineering (STT), São Carlos School of Engineering (USP-EESC), São Carlos, SP, Brazil. Public exam: EESC/USP 11/2012 (Workload: 40h/week).
 
-- [07/01/2014 - Present] **Professor** (MS-3.2) at the Department of Transportation Engineering (STT), São Carlos School of Engineering (USP-EESC), São Carlos, SP, Brazil. Public tender under Announcement ATAc-56/2013 (Workload: Full Dedication to Teaching and Research Regime - RDIDP).
+- [07/01/2014 - Present] **Professor** (MS-3.2) at the Department of Transportation Engineering (STT), São Carlos School of Engineering (USP-EESC), São Carlos, SP, Brazil. Public exam: ATAc-56/2013 (Workload: Full Dedication to Teaching and Research Regime - RDIDP).
 
 
 # Scientific Contributions (Scientific, Technological or Innovation)

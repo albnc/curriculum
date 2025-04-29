@@ -8,7 +8,7 @@ Last updated on 2025-04-07
 1.  Currículo Completo (*Full curriculum*)
 
     - [Português](curriculum_PT.md) \| [PDF-PT](curriculum_PT.pdf)
-    - [English](curriculum_EN.md) \| PDF-EN
+    - [English](curriculum_EN.md) \| [PDF-EN](curriculum_EN.pdf)
 
 2.  Súmula Curricular (*Curriculum Summary*) -- FAPESP (<https://fapesp.br/sumula>):
 

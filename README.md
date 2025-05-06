@@ -7,14 +7,14 @@ Last updated on 2025-05-05
 
 1.  Currículo (*Curriculum*)
 
-    - [Português](curriculum_PT.md) \| [PDF-PT](curriculum_PT.pdf)
-    - [English](curriculum_EN.md) \| [PDF-EN](curriculum_EN.pdf)
+    - [Português](CV/curriculum_PT.md) \| [PDF-PT](CV/curriculum_PT.pdf)
+    - [English](CV/curriculum_EN.md) \| [PDF-EN](CV/curriculum_EN.pdf)
 
 2.  Súmula Curricular (*Curriculum Summary*) -- FAPESP (<https://fapesp.br/sumula>):
 
-    - [Português](SumulaFAPESP_PT.md) \|
-      [PDF-PT](Sumula_AndreLuizCunha.pdf)
-    - [English](SumulaFAPESP_EN.md) \| [PDF-EN](SC_AndreLuizCunha.pdf)
+    - [Português](FAPESP/SumulaFAPESP_PT.md) \|
+      [PDF-PT](FAPESP/SC_PT.pdf)
+    - [English](SumulaFAPESP_EN.md) \| [PDF-EN](SC_EN.pdf)
 
 3. Currículo Completo (*Full curriculum*)
 

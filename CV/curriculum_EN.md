@@ -1,12 +1,5 @@
----
-title: "ANDRÉ LUIZ CUNHA"
-author: "alcunha@usp.br | +55 (16) 9 8119 2339"
-output: pdf_document
----
-
 # PERSONAL DETAILS
-
----
+\hrulefill
 
 Dr. André Luiz Barbosa Nunes da Cunha   
 Adjunct Professor, Departament of Transport Engineering   
@@ -26,8 +19,7 @@ São Carlos, São Paulo, Brazil
 
 
 # RESEARCH FOCUS
-
----
+\hrulefill
 
 - AI-driven traffic modeling for smart cities.
 
@@ -35,9 +27,9 @@ São Carlos, São Paulo, Brazil
 
 - Data science applications in transport policy.
 
-# EDUCATION
 
----
+# EDUCATION
+\hrulefill
 
 1. **Ph.D. in Transportation Engineering** \hfill Nov. 2013\
 University of São Paulo (USP), São Carlos School of Engineering (EESC), Brazil\
@@ -61,6 +53,7 @@ Federal University of Mato Grosso do Sul (UFMS), Campo Grande, Brazil\
 
 
 # EXPERIENCE
+\hrulefill
 
 ## Academic Appointments
 
@@ -98,19 +91,38 @@ TUM-USP `Workshop on Sustainable Mobility` funded by BAYLAT/FAPESP Call
 Faculty of Engineering of Bauru (FEB), Civil Engineering undergraduate course.
 
 1. **University of São Paulo (USP-EESC)** \hfill Feb. 2009 -- Jun. 2009\
-*Graduate assistant \hfill São Carlos, Brazil*\
+*Graduate Assistant \hfill São Carlos, Brazil*\
 
 1. **University of São Paulo (USP-EESC)** \hfill Feb. 2006 -- Jun. 2006\
-*Graduate assistant \hfill São Carlos, Brazil*\
+*Graduate Assistant \hfill São Carlos, Brazil*\
 
 
 ## Professional Experience
 
-7. Civil Engineering Freelance Service at the Institute of Mathematical and Computer Sciences (ICMC), USP. São Carlos, SP, Brazil. -- March 1, 2012 to April 1, 2012:\
-*Activities performed*: infrastructure digitization in AutoCAD, building maintenance, and management of ongoing construction projects at ICMC.
+1. **Canhedo Beppu Engenheiros Associados Ltda** \hfill Jun. 2023 -- Dec. 2023\
+*Technical Consultant – Transportation Engineering Projects \hfill São Paulo, Brazil*\
+Evaluated site conditions to determine optimal placement of truck escape ramps on Via Dutra’s new descending lane, in Rio de Janeiro (BR-116 highway). Simulated operational scenarios to validate design effectiveness.
 
-8. External Consultant in Transportation Engineering at Técnicos em Transportes Ltda (TECTRAN), Belo Horizonte, MG, Brazil. -- April 2, 2012 to December 1, 2012:\
-*Activities performed*: creation of a database for the EPELT (Transport Logistics Planning Office) of the Minas Gerais State Secretariat.
 
-9. Laboratory Specialist (Superior 1A) at the Department of Transportation Engineering (STT), São Carlos School of Engineering (USP-EESC), São Carlos, SP, Brazil. Public tender under Announcement EESC/USP 11/2012 (Workload: 40h/week). -- February 14, 2013 to June 30, 2014:\
-*Activities performed*:  
+2. **ARTERIS Autopista Litoral Sul (ALS)** \hfill Nov. 2019 -- Dec. 2019\
+*Technical Consultant – Transportation Engineering Projects \hfill Curitiba, Brazil*\
+Oversaw the execution of operational tests on the truck escape ramp at km 667 of BR-376 (Curitiba–Joinville corridor)[^ALS]. Delivered a detailed technical assessment of ramp functionality under real-world conditions.
+
+[^ALS]: Interview featured on Rede Globo’s Jornal Hoje program (<https://globoplay.globo.com/v/8165879/>).
+
+
+3. **University of São Paulo (USP-EESC)** \hfill Feb. 2013 -- Jun. 2014\
+*Research Assistant (Laboratory Specialist) \hfill São Carlos, Brazil*\
+Develop scientific research in projects led by faculty, with didactic-scientific and extension focus.
+
+
+4. **Técnicos em Transportes Ltda (TECTRAN)** \hfill Apr. 2012 -- Dec. 2012\
+*Consultant in Transport Planning and Engineering \hfill Belo Horizonte, Brazil*\
+Led the development and integration of structured databases to support EPELT, the Transport Logistics Planning Office of the Minas Gerais State Secretariat.
+
+
+5. **Institute of Mathematical and Computer Sciences (ICMC-USP)** \hfill Mar. 2012 -- Apr. 2012\
+*Civil Engineer \hfill São Carlos, Brazil*\
+Executed AutoCAD-based infrastructure digitization, oversaw routine building maintenance, and participated in the supervision of ongoing construction projects at ICMC.
+
+

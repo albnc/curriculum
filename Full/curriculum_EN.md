@@ -206,7 +206,7 @@ Professional Experience
 22. Host Professor for Prof. Edouard Ivanjko from University of Zagreb (UNIZG), Zagreb, Croatia. ERASMUS+ Program: Virtual Teaching Mobility (online) - Mobility Agreement -- April 25-29, 2022:\
 *Activities performed:* organize and accompany the online lectures by Prof. Edouard Ivanjko for undergraduate and graduate courses at the São Carlos School of Engineering (EESC-USP).
 
-23. Technical Advisory for Canhedo Beppu Engenheiros Associados Ltda on BR-116/RJ highway, Via Dutra, Serra das Araras. -- June to December 2019:\
+23. Technical Advisory for Canhedo Beppu Engenheiros Associados Ltda on BR-116/RJ highway, Via Dutra, Serra das Araras. -- June to December 2023:\
 *Activities performed*: 
     
     - Analysis of the location of escape areas for trucks without brakes in the project of the new descending lane of Via Dutra; 

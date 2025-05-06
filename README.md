@@ -18,5 +18,5 @@ Last updated on 2025-05-05
 
 3. Currículo Completo (*Full curriculum*)
 
-    - [Português](Fullcurriculum_PT.md) \| [PDF-PT](Fullcurriculum_PT.pdf)
-    - [English](Fullcurriculum_EN.md) \| [PDF-EN](Fullcurriculum_EN.pdf)
+    - [Português](Full/curriculum_PT.md) \| [PDF-PT](Full/curriculum_PT.pdf)
+    - [English](Full/curriculum_EN.md) \| [PDF-EN](Full/curriculum_EN.pdf)

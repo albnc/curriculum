@@ -4,6 +4,7 @@
 #author: "alcunha@usp.br | +55 16 98119 2339"
 
 format:
+  gfm: default
   pdf:
     papersize: a4
     fontsize: 10pt
@@ -15,7 +16,6 @@ format:
     numbersections: false
     urlcolor: "blue"
   
-  gfm: default
 ---
 
 **André Luiz Barbosa Nunes da Cunha**, Ph.D.   

@@ -1,9 +1,9 @@
 
 
-# PERSONAL DETAILS 
-
 **André Luiz Barbosa Nunes da Cunha**, Ph.D.  
 *Professor of Civil Engineering*
+
+# PERSONAL DETAILS 
 
 E-mail  
 <alcunha@usp.br>
@@ -79,7 +79,7 @@ Vulnerability, Smart Cities, Simulation
 1.  **University of São Paulo (USP-EESC)** Jul. 2014 – present  
     *Assistant Professor (MS-3.2) São Carlos, Brazil*  
     Tenure-track position, Full Dedication to Teaching and Research
-    Regime (RDIDP).
+    Regime (RDIDP)
 
 2.  **University of Zagreb (UNIZG)** Apr. 2022  
     *Visiting Lecturer Zagreb, Croatia*  

@@ -12,9 +12,8 @@ Last updated on 2025-05-05
 
 2.  Súmula Curricular (*Curriculum Summary*) -- FAPESP (<https://fapesp.br/sumula>):
 
-    - [Português](FAPESP/SumulaFAPESP_PT.md) \|
-      [PDF-PT](FAPESP/SC_PT.pdf)
-    - [English](SumulaFAPESP_EN.md) \| [PDF-EN](SC_EN.pdf)
+    - [Português](FAPESP/SumulaFAPESP_PT.md) \| [PDF-PT](FAPESP/SC_PT.pdf)
+    - [English](FAPESP/SumulaFAPESP_EN.md) \| [PDF-EN](FAPESP/SC_EN.pdf)
 
 3. Currículo Completo (*Full curriculum*)
 

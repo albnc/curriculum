@@ -1,6 +1,6 @@
 ---
-# title: "André Luiz Cunha, Ph.D."
-# author: "Professor of Civil Engineering"
+title: "André Luiz Cunha, Ph.D."
+author: "Professor em Engenharia Civil"
 #author: "alcunha@usp.br | +55 16 98119 2339"
 
 format:
@@ -18,8 +18,8 @@ format:
   
 ---
 
-**André Luiz Barbosa Nunes da Cunha**, Ph.D.   
-*Professor em Engenharia Civil*
+<!-- **André Luiz Barbosa Nunes da Cunha, Ph.D.**    -->
+<!-- *Professor em Engenharia Civil* -->
 
 # DADOS PESSOAIS \hrulefill
 
@@ -42,7 +42,7 @@ Links
 [LinkTree](https://linktr.ee/prof_alcunha) [^ltree]
 
 Palavras-chave
-: Transport Modelling, Artificial Intelligence, Mobility, Accessibility, Vulnerability, Smart Cities, Simulation
+: Modelagem de Transporte, Inteligência Artificial, Mobildade, Accessibilidade, Vulnerabilidade, Smart Cities, Simulação
 
 
 <!-- <alcunha@usp.br> | -->
@@ -127,7 +127,7 @@ College of Engineering Bauru (FEB), Civil Engineering undergraduate course.
 *Graduate Assistant \hfill São Carlos, Brasil*
 
 
-## Professional Experience
+## Profissional
 
 1. **CCR Highway RioSP (Via Dutra)** \hfill Jun. 2023 -- Dec. 2023\
 *Technical Consultant – Transportation Engineering Projects \hfill São Paulo, Brasil*\

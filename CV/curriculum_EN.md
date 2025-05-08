@@ -1,7 +1,8 @@
+# André Luiz Barbosa Nunes da Cunha, Ph.D.
+Professor of Civil Engineering
 
-
-**André Luiz Barbosa Nunes da Cunha**, Ph.D.  
-*Professor of Civil Engineering*
+<!-- **André Luiz Barbosa Nunes da Cunha**, Ph.D.    -->
+<!-- *Professor of Civil Engineering* -->
 
 # PERSONAL DETAILS 
 
@@ -32,15 +33,10 @@ Transport Modelling, Artificial Intelligence, Mobility, Accessibility,
 Vulnerability, Smart Cities, Simulation
 
 <!-- <alcunha@usp.br> | -->
-
 <!-- [Google Scholar](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en) [^gscholar] | -->
-
 <!-- [ORCID](https://orcid.org/0000-0002-0520-0621) [^orcid] |  -->
-
 <!-- [LinkedIn](https://www.linkedin.com/in/prof-alcunha/) [^linkedin] | -->
-
 <!-- <!-- [Lattes](http://lattes.cnpq.br/7996696632908127) [^lattes] | -->
-
 <!-- [LinkTree](https://linktr.ee/prof_alcunha) [^ltree] -->
 
 # EDUCATION 

@@ -1,6 +1,6 @@
 ---
-# title: "André Luiz Cunha, Ph.D."
-# author: "Professor of Civil Engineering"
+title: "André Luiz Barbosa Nunes da Cunha, Ph.D."
+author: "Professor of Civil Engineering"
 #author: "alcunha@usp.br | +55 16 98119 2339"
 
 format:
@@ -18,8 +18,8 @@ format:
   
 ---
 
-**André Luiz Barbosa Nunes da Cunha**, Ph.D.   
-*Professor of Civil Engineering*
+<!-- **André Luiz Barbosa Nunes da Cunha**, Ph.D.    -->
+<!-- *Professor of Civil Engineering* -->
 
 # PERSONAL DETAILS \hrulefill
 

@@ -141,14 +141,12 @@ Vulnerability, Smart Cities, Simulation
     concessionaire safety standards[^5]. Delivered a detailed technical
     assessment of ramp functionality under real-world conditions.
 
-<!-- -->
-
-1.  **University of São Paulo (USP-EESC)** Feb. 2013 – Jun. 2014  
+4.  **University of São Paulo (USP-EESC)** Feb. 2013 – Jun. 2014  
     *Research Assistant (Laboratory Specialist) São Carlos, Brazil*  
     Develop scientific research in projects led by faculty, with
     didactic-scientific and extension focus.
 
-2.  **Transport Engineering Consultants Ltd. (TECTRAN)** Apr. 2012 –
+5.  **Transport Engineering Consultants Ltd. (TECTRAN)** Apr. 2012 –
     Dec. 2012  
     *Consultant in Transport Planning and Engineering Belo Horizonte,
     Brazil*  
@@ -156,7 +154,7 @@ Vulnerability, Smart Cities, Simulation
     support EPELT, the Transport Logistics Planning Office of the Minas
     Gerais State Secretariat.
 
-3.  **Institute of Mathematical and Computer Sciences (ICMC-USP)**
+6.  **Institute of Mathematical and Computer Sciences (ICMC-USP)**
     Mar. 2012 – Apr. 2012  
     *Civil Engineer São Carlos, Brazil*  
     Executed AutoCAD-based infrastructure digitization, oversaw routine

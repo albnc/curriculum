@@ -143,8 +143,6 @@ Evaluated site conditions to determine optimal placement of truck escape ramps o
 *Technical Consultant – Transportation Engineering Projects \hfill Curitiba, Brazil*\
 Directed field testing of BR-376's km 667 truck escape ramp, developing protocols and analyzing performance metrics for loaded vehicles at multiple approach speeds, with findings implemented in concessionaire safety standards[^ALS]. Delivered a detailed technical assessment of ramp functionality under real-world conditions.
 
-[^ALS]: Interview featured on Rede Globo’s Jornal Hoje program (<https://globoplay.globo.com/v/8165879/>).
-
 
 1. **University of São Paulo (USP-EESC)** \hfill Feb. 2013 -- Jun. 2014\
 *Research Assistant (Laboratory Specialist) \hfill São Carlos, Brazil*\
@@ -160,6 +158,7 @@ Led the development and integration of structured databases to support EPELT, th
 *Civil Engineer \hfill São Carlos, Brazil*\
 Executed AutoCAD-based infrastructure digitization, oversaw routine building maintenance, and participated in the supervision of ongoing construction projects at ICMC.
 
+[^ALS]: Interview featured on Rede Globo’s Jornal Hoje program (<https://globoplay.globo.com/v/8165879/>).
 
 # TEACHING EXPERIENCE \hrulefill
 

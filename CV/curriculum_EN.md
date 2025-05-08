@@ -118,7 +118,13 @@ Vulnerability, Smart Cities, Simulation
 
 ## Professional Experience
 
-1.  **CCR Highway RioSP (Via Dutra)** Jun. 2023 – Dec. 2023  
+1.  **CCR Highway RioSP (Via Dutra)** Apr. 2025 – Jul. 2025  
+    *Technical Consultant – Transportation Engineering Projects São
+    Paulo, Brazil*  
+    Validate the operational speed of trucks on Via Dutra’s new
+    descending lane, in Rio de Janeiro (BR-116 highway).
+
+2.  **CCR Highway RioSP (Via Dutra)** Jun. 2023 – Dec. 2023  
     *Technical Consultant – Transportation Engineering Projects São
     Paulo, Brazil*  
     Evaluated site conditions to determine optimal placement of truck
@@ -126,7 +132,7 @@ Vulnerability, Smart Cities, Simulation
     (BR-116 highway). Simulated operational scenarios to validate design
     effectiveness.
 
-2.  **ARTERIS Autopista Litoral Sul (ALS)** Nov. 2019 – Dec. 2019  
+3.  **ARTERIS Autopista Litoral Sul (ALS)** Nov. 2019 – Dec. 2019  
     *Technical Consultant – Transportation Engineering Projects
     Curitiba, Brazil*  
     Directed field testing of BR-376’s km 667 truck escape ramp,
@@ -137,12 +143,12 @@ Vulnerability, Smart Cities, Simulation
 
 <!-- -->
 
-3.  **University of São Paulo (USP-EESC)** Feb. 2013 – Jun. 2014  
+1.  **University of São Paulo (USP-EESC)** Feb. 2013 – Jun. 2014  
     *Research Assistant (Laboratory Specialist) São Carlos, Brazil*  
     Develop scientific research in projects led by faculty, with
     didactic-scientific and extension focus.
 
-4.  **Transport Engineering Consultants Ltd. (TECTRAN)** Apr. 2012 –
+2.  **Transport Engineering Consultants Ltd. (TECTRAN)** Apr. 2012 –
     Dec. 2012  
     *Consultant in Transport Planning and Engineering Belo Horizonte,
     Brazil*  
@@ -150,7 +156,7 @@ Vulnerability, Smart Cities, Simulation
     support EPELT, the Transport Logistics Planning Office of the Minas
     Gerais State Secretariat.
 
-5.  **Institute of Mathematical and Computer Sciences (ICMC-USP)**
+3.  **Institute of Mathematical and Computer Sciences (ICMC-USP)**
     Mar. 2012 – Apr. 2012  
     *Civil Engineer São Carlos, Brazil*  
     Executed AutoCAD-based infrastructure digitization, oversaw routine

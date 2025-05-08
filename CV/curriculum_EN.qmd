@@ -129,29 +129,34 @@ College of Engineering Bauru (FEB), Civil Engineering undergraduate course.
 
 ## Professional Experience
 
+1. **CCR Highway RioSP (Via Dutra)** \hfill Apr. 2025 -- Jul. 2025\
+*Technical Consultant – Transportation Engineering Projects \hfill São Paulo, Brazil*\
+Validate the operational speed of trucks on Via Dutra’s new descending lane, in Rio de Janeiro (BR-116 highway).
+
+
 1. **CCR Highway RioSP (Via Dutra)** \hfill Jun. 2023 -- Dec. 2023\
 *Technical Consultant – Transportation Engineering Projects \hfill São Paulo, Brazil*\
 Evaluated site conditions to determine optimal placement of truck escape ramps on Via Dutra’s new descending lane, in Rio de Janeiro (BR-116 highway). Simulated operational scenarios to validate design effectiveness.
 
 
-2. **ARTERIS Autopista Litoral Sul (ALS)** \hfill Nov. 2019 -- Dec. 2019\
+1. **ARTERIS Autopista Litoral Sul (ALS)** \hfill Nov. 2019 -- Dec. 2019\
 *Technical Consultant – Transportation Engineering Projects \hfill Curitiba, Brazil*\
 Directed field testing of BR-376's km 667 truck escape ramp, developing protocols and analyzing performance metrics for loaded vehicles at multiple approach speeds, with findings implemented in concessionaire safety standards[^ALS]. Delivered a detailed technical assessment of ramp functionality under real-world conditions.
 
 [^ALS]: Interview featured on Rede Globo’s Jornal Hoje program (<https://globoplay.globo.com/v/8165879/>).
 
 
-3. **University of São Paulo (USP-EESC)** \hfill Feb. 2013 -- Jun. 2014\
+1. **University of São Paulo (USP-EESC)** \hfill Feb. 2013 -- Jun. 2014\
 *Research Assistant (Laboratory Specialist) \hfill São Carlos, Brazil*\
 Develop scientific research in projects led by faculty, with didactic-scientific and extension focus.
 
 
-4. **Transport Engineering Consultants Ltd. (TECTRAN)** \hfill Apr. 2012 -- Dec. 2012\
+1. **Transport Engineering Consultants Ltd. (TECTRAN)** \hfill Apr. 2012 -- Dec. 2012\
 *Consultant in Transport Planning and Engineering \hfill Belo Horizonte, Brazil*\
 Led the development and integration of structured databases to support EPELT, the Transport Logistics Planning Office of the Minas Gerais State Secretariat.
 
 
-5. **Institute of Mathematical and Computer Sciences (ICMC-USP)** \hfill Mar. 2012 -- Apr. 2012\
+1. **Institute of Mathematical and Computer Sciences (ICMC-USP)** \hfill Mar. 2012 -- Apr. 2012\
 *Civil Engineer \hfill São Carlos, Brazil*\
 Executed AutoCAD-based infrastructure digitization, oversaw routine building maintenance, and participated in the supervision of ongoing construction projects at ICMC.
 

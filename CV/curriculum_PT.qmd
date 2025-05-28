@@ -42,7 +42,7 @@ Links
 [LinkTree](https://linktr.ee/prof_alcunha) [^ltree]
 
 Palavras-chave
-: Modelagem de Transporte, Inteligência Artificial, Mobildade, Accessibilidade, Vulnerabilidade, Smart Cities, Simulação
+: Modelagem de Transporte, Inteligência Artificial, Mobilidade, Accessibilidade, Vulnerabilidade, Smart Cities, Simulação
 
 
 <!-- <alcunha@usp.br> | -->
@@ -116,21 +116,21 @@ Missão financiada pela CAPES-FCT n. 39/2014
 *Professor Visitante \hfill Munich, Alemanha*\
 TUM-USP `Workshop on Sustainable Mobility` financiado por BAYLAT/FAPESP
 
-1. **São Paulo State University (UNESP)** \hfill Mar. 2010 -- Dec. 2010\
-*Adjunct Professor \hfill Bauru, Brasil*\
-College of Engineering Bauru (FEB), Civil Engineering undergraduate course.
+1. **Universidade Estadual de São Paulo (UNESP)** \hfill Mar. 2010 -- Dec. 2010\
+*Professor Substituto \hfill Bauru, Brasil*\
+Faculdade de Engenharia de Bauru (FEB), curso de graduação em Engenharia Civil.
 
-1. **Universidade de São Paulo (USP-EESC)** \hfill Feb. 2009 -- Jun. 2009\
-*Graduate Assistant \hfill São Carlos, Brasil*
+1. **Universidade de São Paulo (USP-EESC)** \hfill Fev. 2009 -- Jun. 2009\
+*Monitor no Programa de Aperfeiçoamento de Ensino (PAE) \hfill São Carlos, Brasil*
 
-1. **Universidade de São Paulo (USP-EESC)** \hfill Feb. 2006 -- Jun. 2006\
-*Graduate Assistant \hfill São Carlos, Brasil*
+1. **Universidade de São Paulo (USP-EESC)** \hfill Fev. 2006 -- Jun. 2006\
+*Monitor no Programa de Aperfeiçoamento de Ensino (PAE) \hfill São Carlos, Brasil*
 
 
 ## Profissional
 
-1. **CCR Highway RioSP (Via Dutra)** \hfill Jun. 2023 -- Dec. 2023\
-*Technical Consultant – Transportation Engineering Projects \hfill São Paulo, Brasil*\
+1. **Grupo CCR RioSP (Via Dutra)** \hfill Jun. 2023 -- Dec. 2023\
+*Consultor Técnico – Projeto de Engenharia de Transportes \hfill São Paulo, Brasil*\
 Evaluated site conditions to determine optimal placement of truck escape ramps on Via Dutra’s new descending lane, in Rio de Janeiro (BR-116 highway). Simulated operational scenarios to validate design effectiveness.
 
 
@@ -141,17 +141,17 @@ Directed field testing of BR-376's km 667 truck escape ramp, developing protocol
 [^ALS]: Interview featured on Rede Globo’s Jornal Hoje program (<https://globoplay.globo.com/v/8165879/>).
 
 
-3. **Universidade de São Paulo (USP-EESC)** \hfill Feb. 2013 -- Jun. 2014\
+3. **Universidade de São Paulo (USP-EESC)** \hfill Fev. 2013 -- Jun. 2014\
 *Research Assistant (Laboratory Specialist) \hfill São Carlos, Brasil*\
 Develop scientific research in projects led by faculty, with didactic-scientific and extension focus.
 
 
-4. **Transport Engineering Consultants Ltd. (TECTRAN)** \hfill Apr. 2012 -- Dec. 2012\
+4. **Transport Engineering Consultants Ltd. (TECTRAN)** \hfill Abr. 2012 -- Dec. 2012\
 *Consultant in Transport Planning and Engineering \hfill Belo Horizonte, Brasil*\
 Led the development and integration of structured databases to support EPELT, the Transport Logistics Planning Office of the Minas Gerais State Secretariat.
 
 
-5. **Institute of Mathematical and Computer Sciences (ICMC-USP)** \hfill Mar. 2012 -- Apr. 2012\
+5. **Institute of Mathematical and Computer Sciences (ICMC-USP)** \hfill Mar. 2012 -- Abr. 2012\
 *Civil Engineer \hfill São Carlos, Brasil*\
 Executed AutoCAD-based infrastructure digitization, oversaw routine building maintenance, and participated in the supervision of ongoing construction projects at ICMC.
 

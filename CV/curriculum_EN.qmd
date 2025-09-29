@@ -455,9 +455,9 @@ Academic Secretariat of Civil Engineering (SACivil).
 # TECHNICAL SKILLS \hrulefill
 
 
-- **Programming languages**: C++, R, Python, Julia, Matlab, HTML, CSS, JavaScript
+- **Programming languages**: C++, R, Python, Julia, HTML, CSS, JavaScript, Matlab
 
-- **Tools**: CAD, Civil-3D, OpenCV, TSIS-CORSIM, VISSIM, SUMO, MATSim, QGIS
+- **Tools**: CAD, Civil-3D, OpenCV, TSIS-CORSIM, AIMSUN, SUMO, VISSIM, MATSim, QGIS
 
 - **Languages**: Portuguese (native), English (advanced), Spanish (basic)
 

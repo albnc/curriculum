@@ -164,7 +164,7 @@ Executed AutoCAD-based infrastructure digitization, oversaw routine building mai
 
 # TEACHING EXPERIENCE \hrulefill
 
-## Lecturer at University of São Paulo (USP)
+## Lecturer at the University of São Paulo (USP)
 
 ### Undergratuate
 
@@ -350,6 +350,16 @@ Sponsor: CAPES/FCT Program (Process 39/2017), Brazil
 
 
 ## Conference Proceedings
+
+1. MORELLI, A.B.; ALIZON, G.B.; **CUNHA, A.L.** (2025) Alternative-Route Efficiency in Brazilian Cities: How Flood-Induced Collapse Patterns Differ from Random Blockages. In: XXXIX ANPET – Research and Teaching in Transport Congress, 2025, Goiânia. Proceedings of the 39th ANPET.
+
+1. LOURO, T.V.; ASSIS, L.B.M.; JUNIOR, J.U.P.; **CUNHA, A.L.**; GEURS, K.T (2025) Job Accessibility in the 15-Minute City: A Comparative Analysis of Walking, Cycling, and E-Bikes in Four Brazilian Cities. In: XXXIX ANPET – Research and Teaching in Transport Congress, 2025, Goiânia. Proceedings of the 39th ANPET.
+
+1. ISHIHARA, B.A.; QUINTINO, P.G.; **CUNHA, A.L.**; SETTI, J.R. (2025) Operation of Heavy Vehicles on Long, Steep Downgrades: Brake Thermal Simulation Based on ABNT NBR 10966-2. In: XXXIX ANPET – Research and Teaching in Transport Congress, 2025, Goiânia. Proceedings of the 39th ANPET.
+
+1. RODRIGUES, L.R.; PITOMBO, C.S.; **CUNHA, A.L.**; LAROCCA, A.P.C.; FERRAZ, A.C.P. (2025) Identification of Crime and Traffic Crash Hotspots in the Vicinity of Bus Stops. In: XXXIX ANPET – Research and Teaching in Transport Congress, 2025, Goiânia. Proceedings of the 39th ANPET.
+
+1. DAVOLI, J.P.; PITOMBO, C.S.; **CUNHA, A.L.** (2025) Application of a Random-Forest–Based Variable Selection Method for the Analysis of Post-COVID-19 Active Transportation. In: XXXIX ANPET – Research and Teaching in Transport Congress, 2025, Goiânia. Proceedings of the 39th ANPET.
 
 1. MORELLI, A.B.; **CUNHA, A.L.** (2024) Vulnerability to flooding: how long-trip prevalence reduces the efficiency of alternative routes. In: XXXVIII ANPET – Research and Teaching in Transport Congress, 2024, Florianópolis. Proceedings of the 38th ANPET.
 

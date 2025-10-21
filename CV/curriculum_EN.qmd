@@ -44,7 +44,7 @@ Key links
 [LinkTree](https://linktr.ee/prof_alcunha) [^ltree]
 
 Research Keywords
-: Transport Modelling, Artificial Intelligence, Urban Mobility, Accessibility, Vulnerability, Smart Cities, Simulation, Logistics
+: Transport Modelling, Artificial Intelligence, Computer Vision, Urban Mobility, Accessibility, Vulnerability, Smart Cities, Simulation, Logistics
 
 
 <!-- <alcunha@usp.br> | -->
@@ -91,7 +91,7 @@ Federal University of Mato Grosso do Sul (UFMS), Campo Grande, Brazil\
 
 1. **University of São Paulo (USP-EESC)** \hfill Jul. 2014 -- present\
 *Assistant Professor (MS-3.2) \hfill São Carlos, Brazil*\
-Tenure-track position, Full Dedication to Teaching and Research Regime (RDIDP)
+Tenured-track position, Full Dedication to Teaching and Research Regime (RDIDP)
 
 
 1. **University of Zagreb (UNIZG)** \hfill Apr. 2022\
@@ -131,7 +131,7 @@ College of Engineering Bauru (FEB), Civil Engineering undergraduate course.
 
 ## Professional Experience
 
-1. **CCR Highway RioSP (Via Dutra)** \hfill Apr. 2025 -- Jul. 2025\
+1. **CCR Highway RioSP (Via Dutra)** \hfill Apr. 2025 -- Nov. 2025\
 *Technical Consultant – Transportation Engineering Projects \hfill São Paulo, Brazil*\
 Validate the operational speed of trucks on Via Dutra’s new descending lane, in Rio de Janeiro (BR-116 highway).
 
@@ -234,13 +234,23 @@ Elective course in the Transportation Engineering Program. Coordinate the course
 # RESEARCH INCOME \hrulefill
 
 
-I have secured over **BRL 820,000**[^grants] (approximately USD 143,860 | EUR 126,150 | AUD 221,620) in research funding, during my tenure at USP, with projects spanning intelligent transport systems and sustainable mobility solutions.
+I have secured over **BRL 18,600,000**[^grants] (approximately USD 3,381,818 | EUR 2,952,381 | AUD 5,314,286) in research funding, during my tenure at USP, with projects spanning intelligent transport systems and sustainable mobility solutions.
 
-[^grants]: Exchange rates used: 1 EUR $\approx$ 6.50 BRL; 1 USD $\approx$ 5.70 BRL; 1 AUD $\approx$ 3.70 BRL.
+[^grants]: Exchange rates used: 1 EUR $\approx$ 6.30 BRL; 1 USD $\approx$ 5.50 BRL; 1 AUD $\approx$ 3.50 BRL.
+
+1. **CCD Sustainability and Innovation in Road Infrastructure** \hfill BRL 8,000,000\
+*Pavement Recycling as a Pillar of Decarbonization - Centers for Science for Development (CCD)*\
+Role: Co-Principal Investigator \hfill 2025--2030\
+Sponsor: FAPESP Grant (2025/07146-8), Brazil
 
 1. **Redesign and Validate the Truck Escape Ramp on the BR-116 (Via Dutra)** \hfill BRL 180,000\
 Role: Principal Investigator \hfill 2025--2025\
 Sponsor: Group CCR Highways (RioSP), Brazil
+
+1. **Artificial Intelligence Recreating Environments (IARA)** \hfill BRL 10,000,000\
+*Applied Research Centers Program (CEPID)*\
+Role: Research Collaborator \hfill 2023--2028\
+Sponsor: FAPESP Grant (Process 20/09835-1), Brazil
 
 1. **Rethinking traffic modeling in transport networks for the next generation of smart/connected cities** \hfill BRL 72,000\
 Role: Principal Investigator \hfill 2023--2026\
@@ -250,7 +260,7 @@ Sponsor: CNPq Consolidated Research Groups Grant (Process 409087/2023-8), Brazil
 Role: Principal Investigator \hfill 2023--2026\
 Sponsor: CNPq Research Productivity Grant (Process 311964/2022-2), Brazil 
 
-1. **Evaluation of Truck Escape Ramp on the BR-116 (Via Dutra)** \hfill BRL 72,000\
+1. **Evaluation of Truck Escape Ramp on the BR-116 (Via Dutra)** \hfill BRL 90,000\
 Role: Principal Investigator \hfill 2023--2023\
 Sponsor: Group CCR Highways (RioSP), Brazil
 
@@ -428,28 +438,28 @@ Sponsor: CAPES/FCT Program (Process 39/2017), Brazil
 
 
 - **ANPET Scientific Production Award** \hfill 2023\
-National Agency for Transportation Research and Education (ANPET).
+National Agency for Transportation Research and Education (ANPET), Brazil.
 
 - **Excellence Certificate** \hfill 2017\
 Best professor of the Department of Transportation Engineering (USP-EESC-STT),\
-Academic Secretariat of Civil Engineering (SACivil).
+Academic Secretariat of Civil Engineering (SACivil), Brazil.
 
 - **Excellence Certificate** \hfill 2016\
 Best professor of the Department of Transportation Engineering (USP-EESC-STT),\
-Academic Secretariat of Civil Engineering (SACivil).
+Academic Secretariat of Civil Engineering (SACivil), Brazil.
 
 - **ABCR Innovation Salon Award** \hfill 2015\
 9th Brazilian Congress on Highways and Concessions (CBR&C),\
-5th Innovation Salon of the Brazilian Association of Highway Concessionaires (ABCR).
+5th Innovation Salon of the Brazilian Association of Highway Concessionaires (ABCR), Brazil.
 
 
 # PROFESSIONAL SERVICES \hrulefill
 
 - **Academic Service**: Member of Department Council of Transport Engineering, Research and Innovation Committee (CPqI), Graduate Program Coordination Committee in Transport Engineering (CCP-ET), Culture and University Extension Committee (CCEx), Center for Educational Technology in Engineering (CETEPE),
 
-- **Reviewer**: Transportation Research Part E, Sustainability, Case Studies on Transport Policy, Transportes, Sensors, Promet - Traffic & Transportation Journal, Geo-spatial Information Science, Journal of the International Association of Traffic and Safety Sciences (IATSS), Drones, Engineering Applications of Artificial Intelligence (EAAI),     
+- **Reviewer**: Transportation Research Part E, Sustainability, Case Studies on Transport Policy, Transportes, Sensors, Promet - Traffic & Transportation Journal, Geo-spatial Information Science, Journal of the International Association of Traffic and Safety Sciences (IATSS), Drones, Engineering Applications of Artificial Intelligence (EAAI), Sensors, Sustainable Cities and Society.        
 
-- **Scientific Committee**: Transportation Research Board TRB, IEEE Intelligent Transportation Systems Society (ITSS), National Association for Research and Education in Transportation (ANPET), International Scientific Conference (ZIRP), International Symposium ELMAR, The Science and Development of Transport (TRANSCODE),   
+- **Scientific Committee**: Transportation Research Board TRB, IEEE Intelligent Transportation Systems Society (ITSS), National Association for Research and Education in Transportation (ANPET), International Scientific Conference (ZIRP), International Symposium ELMAR, The Science and Development of Transport (TRANSCODE).
 
 
 # TECHNICAL SKILLS \hrulefill

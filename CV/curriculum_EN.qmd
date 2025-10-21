@@ -17,7 +17,6 @@ format:
       - bottom=20mm
     numbersections: false
     urlcolor: "blue"
-  
 ---
 
 <!-- **André Luiz Barbosa Nunes da Cunha**, Ph.D.    -->
@@ -194,8 +193,14 @@ Executed AutoCAD-based infrastructure digitization, oversaw routine building mai
 5th year compulsory transport course in Civil Engineering curriculum. My role involves supervising and evaluating student internships conducted in professional engineering environments. I oversee each student’s engagement with the host company, assess their performance, and ensure that the internship experience aligns with academic and professional learning objectives. I have supervised 15+ students.
 
 
-8. **STT0610 - Logistics and Transportation \hfill 2025--present**\
+8. **STT0610 - Logistics and Transportation \hfill 2024--2025**\
 4th year elective transport course in Civil Engineering curriculum. Redesigned course curriculum to address contemporary logistics and supply chain challenges: AI-driven logistics tools, GIS-based route planning, and Green logistics best practices. Small classroom of 10+ students. 
+
+9. **STT0631 - Logistics in construction \hfill 2026--present**\
+This elective course integrates theory and practice to prepare students for the efficient management of logistical chains in civil construction projects. Over the semester, students will develop an understanding of the fundamental supply concepts, grasp the scope and challenges of providing the necessary resources based on each project’s scale and characteristics, and learn to identify the factors that impact construction logistics — from cost and scheduling concerns to environmental and regulatory constraints. 
+
+10. **1800123 - Techinical Drawing \hfill 2026--present**\
+1st year compulsory course in Civil Engineering curriculum. The objective of this course is to elucidate the concept and standards of design, as well as to present digital tools for Engineering projects and the use of georeferenced maps, as well as the use of BIM and 3D visualization software. Classroom with 60 students. 
 
 
 ### Graduate

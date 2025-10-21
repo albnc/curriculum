@@ -1,5 +1,5 @@
 # André Luiz Barbosa Nunes da Cunha, Ph.D.
-Professor of Civil Engineering
+Assistant Professor of Civil Engineering
 
 <!-- **André Luiz Barbosa Nunes da Cunha**, Ph.D.    -->
 
@@ -30,8 +30,9 @@ Scholar](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en)
 [LinkTree](https://linktr.ee/prof_alcunha) [^4]
 
 Research Keywords  
-Transport Modelling, Artificial Intelligence, Mobility, Accessibility,
-Vulnerability, Smart Cities, Simulation
+Transport Modelling, Artificial Intelligence, Computer Vision, Urban
+Mobility, Accessibility, Vulnerability, Smart Cities, Simulation,
+Logistics
 
 <!-- <alcunha@usp.br> | -->
 
@@ -80,7 +81,7 @@ Vulnerability, Smart Cities, Simulation
 
 1.  **University of São Paulo (USP-EESC)** Jul. 2014 – present  
     *Assistant Professor (MS-3.2) São Carlos, Brazil*  
-    Tenure-track position, Full Dedication to Teaching and Research
+    Tenured-track position, Full Dedication to Teaching and Research
     Regime (RDIDP)
 
 2.  **University of Zagreb (UNIZG)** Apr. 2022  
@@ -124,7 +125,7 @@ Vulnerability, Smart Cities, Simulation
 
 ## Professional Experience
 
-1.  **CCR Highway RioSP (Via Dutra)** Apr. 2025 – Jul. 2025  
+1.  **CCR Highway RioSP (Via Dutra)** Apr. 2025 – Nov. 2025  
     *Technical Consultant – Transportation Engineering Projects São
     Paulo, Brazil*  
     Validate the operational speed of trucks on Via Dutra’s new
@@ -169,22 +170,22 @@ Vulnerability, Smart Cities, Simulation
 
 # TEACHING EXPERIENCE 
 
-## Lecturer at University of São Paulo (USP)
+## Lecturer at the University of São Paulo (USP)
 
 ### Undergratuate
 
-1.  *STT0618 - Air Transport 2014*  
+1.  **STT0618 - Air Transport 2014**  
     4th year elective transport course in Civil Engineering curriculum.
     Designed the lecturers, exercise and lab sessions. Small classroom
     of 10+ students.
 
-2.  *STT0403 - Airports, Ports and Waterways 2015–present*  
+2.  **STT0403 - Airports, Ports and Waterways 2015–present**  
     5th year compulsory transport course in Civil Engineering
     curriculum. Designed the lecturers and exercise sessions. Taught in
     classes of 50+ students.
 
-3.  *STT0408 - Fundamentals of Transportation Engineering
-    2015–present*  
+3.  **STT0408 - Fundamentals of Transportation Engineering
+    2015–present**  
     3rd year compulsory transport course in Civil Engineering
     curriculum. Designed and delivered this core transport course,
     integrating lectures, exercises, and applied lab sessions. Taught
@@ -193,15 +194,15 @@ Vulnerability, Smart Cities, Simulation
     applied problem-solving. The course received an average student
     rating of 4.5/5.0, reflecting strong satisfaction and engagement.
 
-4.  *STT0628 - Traffic Engineering and Road Traffic Simulation
-    2015–present*  
+4.  **STT0628 - Traffic Engineering and Road Traffic Simulation
+    2015–present**  
     3rd year elective transport course in Civil Engineering curriculum.
     Designed the lecturers, exercise and lab sessions. Small classroom
     of 10+ students. Presents the fundamental theory of traffic
     simulation, while equipping students to apply concepts in practice
     and develop key technical skills.
 
-5.  *1800093 - Final Undergraduate Project 2016–present*  
+5.  **1800093 - Final Undergraduate Project 2016–present**  
     5th year compulsory transport course in Civil Engineering
     curriculum. My role involves supervising and guiding students
     through the development of their final engineering projects, with a
@@ -211,8 +212,8 @@ Vulnerability, Smart Cities, Simulation
     reports, while fostering independent learning and critical thinking.
     I have supervised 25+ projects in this course.
 
-6.  *STT0412 - Computational Tools Applied to Civil Engineering
-    2016–present*  
+6.  **STT0412 - Computational Tools Applied to Civil Engineering
+    2016–present**  
     2nd year elective transport course in Civil Engineering curriculum.
     I designed and implemented this course to introduce students to
     computational thinking and practical toolsets for engineering
@@ -221,7 +222,7 @@ Vulnerability, Smart Cities, Simulation
     CAD, GIS, and programming languages—to real-world challenges in
     civil and transport engineering. Small classroom of 20+ students.
 
-7.  *1800122 - Supervised Internship 2019–present*  
+7.  **1800122 - Supervised Internship 2019–present**  
     5th year compulsory transport course in Civil Engineering
     curriculum. My role involves supervising and evaluating student
     internships conducted in professional engineering environments. I
@@ -230,32 +231,49 @@ Vulnerability, Smart Cities, Simulation
     with academic and professional learning objectives. I have
     supervised 15+ students.
 
-8.  *STT0610 - Logistics and Transportation 2025–present*  
+8.  **STT0610 - Logistics and Transportation 2024–2025**  
     4th year elective transport course in Civil Engineering curriculum.
     Redesigned course curriculum to address contemporary logistics and
     supply chain challenges: AI-driven logistics tools, GIS-based route
     planning, and Green logistics best practices. Small classroom of 10+
     students.
 
+9.  **STT0631 - Logistics in construction 2026–present**  
+    This elective course integrates theory and practice to prepare
+    students for the efficient management of logistical chains in civil
+    construction projects. Over the semester, students will develop an
+    understanding of the fundamental supply concepts, grasp the scope
+    and challenges of providing the necessary resources based on each
+    project’s scale and characteristics, and learn to identify the
+    factors that impact construction logistics — from cost and
+    scheduling concerns to environmental and regulatory constraints.
+
+10. **1800123 - Techinical Drawing 2026–present**  
+    1st year compulsory course in Civil Engineering curriculum. The
+    objective of this course is to elucidate the concept and standards
+    of design, as well as to present digital tools for Engineering
+    projects and the use of georeferenced maps, as well as the use of
+    BIM and 3D visualization software. Classroom with 60 students.
+
 ### Graduate
 
-1.  *STT5874 - Advanced Topics in Traffic Engineering 2015–present*  
+1.  **STT5874 - Advanced Topics in Traffic Engineering 2015–present**  
     Elective course in the Transportation Engineering Program.
     Coordinate the course, designed the lectures and lab sessions. Small
     classroom of 10+ students. Provides a foundation in traffic
     simulation theory and engages students in applying concepts through
     real-world scenarios and hands-on technical training.
 
-2.  *STT5898 - Applied Statistics for Transportation Engineering
-    2015–present*  
+2.  **STT5898 - Applied Statistics for Transportation Engineering
+    2015–present**  
     Elective course in the Transportation Engineering Program.
     Coordinate the course, designed the lectures and exercises. Small
     classroom of 15+ students. This course serves as a foundational
     milestone, equipping students with the core statistical methods
     required for graduate-level study and research.
 
-3.  *STT5900 - Multivariate Data Analysis Applied to Transportation
-    Engineering 2015–present*  
+3.  **STT5900 - Multivariate Data Analysis Applied to Transportation
+    Engineering 2015–present**  
     Elective course in the Transportation Engineering Program.
     Coordinate the course, designed the lectures and exercises. Small
     classroom of 15+ students. Course introducing AI techniques using
@@ -264,7 +282,7 @@ Vulnerability, Smart Cities, Simulation
     culminates in the submission of an article presenting the dataset,
     methodology, and preliminary results.
 
-4.  *STT5859 - Transport Technology 2016–present*  
+4.  **STT5859 - Transport Technology 2016–present**  
     Compulsory course in the Transportation Engineering Program. This
     core course is jointly taught by four professors and provides a
     comprehensive foundation in transportation planning and operations.
@@ -272,16 +290,16 @@ Vulnerability, Smart Cities, Simulation
     level-based approach to essential concepts and methodologies in the
     field. Small classroom of 15+ students.
 
-5.  *STT5905 - Bibliographic Research for Transportation Systems
-    2017–present*  
+5.  **STT5905 - Bibliographic Research for Transportation Systems
+    2017–present**  
     Compulsory course in the Transportation Engineering Program. A core
     course that guides and encourages students to develop a
     comprehensive literature review, fostering critical analysis and
     familiarity with key academic sources in the field. Small classroom
     of 15+ students.
 
-6.  *STT5909 - Data Analysis Laboratory with Open-Source Software R
-    2017*  
+6.  **STT5909 - Data Analysis Laboratory with Open-Source Software R
+    2017**  
     Elective course in the Transportation Engineering Program.
     Coordinate the course, designed the lectures and exercises. Small
     classroom of 10+ students. This course was designed to provide a
@@ -297,63 +315,87 @@ Vulnerability, Smart Cities, Simulation
 
 # RESEARCH INCOME 
 
-I have secured over **BRL 820,000**[^6] (approximately USD 143,860 \|
-EUR 126,150 \| AUD 221,620) in research funding, during my tenure at
-USP, with projects spanning intelligent transport systems and
+I have secured over **BRL 18,600,000**[^6] (approximately USD 3,381,818
+\| EUR 2,952,381 \| AUD 5,314,286) in research funding, during my tenure
+at USP, with projects spanning intelligent transport systems and
 sustainable mobility solutions.
 
-1.  **Redesign and Validate the Truck Escape Ramp on the BR-116 (Via
+1.  **CCD Sustainability and Innovation in Road Infrastructure** BRL
+    8,000,000  
+    *Pavement Recycling as a Pillar of Decarbonization - Centers for
+    Science for Development (CCD)*  
+    Role: Co-Principal Investigator 2025–2030  
+    Sponsor: FAPESP Grant (2025/07146-8), Brazil
+
+2.  **Redesign and Validate the Truck Escape Ramp on the BR-116 (Via
     Dutra)** BRL 180,000  
     Role: Principal Investigator 2025–2025  
     Sponsor: Group CCR Highways (RioSP), Brazil
 
-2.  **Rethinking traffic modeling in transport networks for the next
-    generation of smart and connected cities** BRL 72,000  
+3.  **Artificial Intelligence Recreating Environments (IARA)** BRL
+    10,000,000  
+    *Applied Research Centers Program (CEPID)*  
+    Role: Research Collaborator 2023–2028  
+    Sponsor: FAPESP Grant (Process 20/09835-1), Brazil
+
+4.  **Rethinking traffic modeling in transport networks for the next
+    generation of smart/connected cities** BRL 72,000  
     Role: Principal Investigator 2023–2026  
     Sponsor: CNPq Consolidated Research Groups Grant (Process
     409087/2023-8), Brazil
 
-3.  **Artificial Intelligence: development of tools for urban mobility**
+5.  **Artificial Intelligence: development of tools for urban mobility**
     BRL 40,000  
     Role: Principal Investigator 2023–2026  
     Sponsor: CNPq Research Productivity Grant (Process 311964/2022-2),
     Brazil
 
-4.  **Evaluation of Truck Escape Ramp on the BR-116 (Via Dutra)** BRL
-    72,000  
+6.  **Evaluation of Truck Escape Ramp on the BR-116 (Via Dutra)** BRL
+    90,000  
     Role: Principal Investigator 2023–2023  
     Sponsor: Group CCR Highways (RioSP), Brazil
 
-5.  **Innovative Control Strategies for Sustainable Mobility in Smart
+7.  **Innovative Control Strategies for Sustainable Mobility in Smart
     Cities** EUR 8,000  
     Role: Co-Principal Investigator 2021–2021  
     Sponsor: University of Zagreb (UNIZG), Croatia
 
-6.  **Visiting Professorship** AUD 150,000  
+8.  **Visiting Professorship** AUD 150,000  
     Role: Principal Investigator 2019–2019  
     Sponsor: CAPES-Print Program (Process 88887.371506/2019-00), Brazil
 
-7.  **Site Optimization for Truck Escape Ramps on the BR-376** BRL
+9.  **Site Optimization for Truck Escape Ramps on the BR-376** BRL
     150,000  
     Role: Principal Investigator 2019–2019  
     Sponsor: ARTERIS Autopista Litoral Sul (ALS), Brazil
 
-8.  **Image-based method for axle detection and truck classification**
+10. **Image-based method for axle detection and truck classification**
     BRL 15,000  
     Role: Principal Investigator 2018–2022  
     Sponsor: CNPq Universal Grant (Process 436954/2018-4), Brazil
 
-9.  **Application of deep learning in intelligent traffic control
+11. **Application of deep learning in intelligent traffic control
     system** EUR 8,500  
     Role: Co-Principal Investigator 2018–2018  
     Sponsor: University of Zagreb (UNIZG), Croatia
 
-10. **Studies aimed at promoting sustainable and safe urban mobility**
+12. **Studies aimed at promoting sustainable and safe urban mobility**
     BRL 20,000  
     Role: Co-Principal Investigator 2013–2016  
     Sponsor: CAPES/FCT Program (Process 39/2017), Brazil
 
 # PUBLICATIONS 
+
+## Submitted Manuscripts
+
+1.  LOURO, T.V.; GRIGILON, A.B.; TIRACHINI, A.; **CUNHA, A.L.**; GEURS,
+    K.T. (2025) “How Do E-Bikes Measure Up? Analyzing Speed Differences
+    and Network Impacts of São Paulo’s Bikesharing System”.
+    Transportation.
+
+2.  LOURO, T.V.; GRIGILON, A.B.; **CUNHA, A.L.**; GEURS, K.T. (2025)
+    “E-bikes’ impact on job accessibility and equity in São Paulo and
+    Rio”. Transportation Research Part D: Transport and Environment.
 
 ## Peer-Reviewed Journal
 
@@ -481,168 +523,198 @@ sustainable mobility solutions.
 
 ## Conference Proceedings
 
-1.  MORELLI, A.B.; **CUNHA, A.L.** (2024) Vulnerability to flooding: how
+1.  MORELLI, A.B.; ALIZON, G.B.; **CUNHA, A.L.** (2025)
+    Alternative-Route Efficiency in Brazilian Cities: How Flood-Induced
+    Collapse Patterns Differ from Random Blockages. In: XXXIX ANPET –
+    Research and Teaching in Transport Congress, 2025, Goiânia.
+    Proceedings of the 39th ANPET.
+
+2.  LOURO, T.V.; ASSIS, L.B.M.; JUNIOR, J.U.P.; **CUNHA, A.L.**; GEURS,
+    K.T (2025) Job Accessibility in the 15-Minute City: A Comparative
+    Analysis of Walking, Cycling, and E-Bikes in Four Brazilian Cities.
+    In: XXXIX ANPET – Research and Teaching in Transport Congress, 2025,
+    Goiânia. Proceedings of the 39th ANPET.
+
+3.  ISHIHARA, B.A.; QUINTINO, P.G.; **CUNHA, A.L.**; SETTI, J.R. (2025)
+    Operation of Heavy Vehicles on Long, Steep Downgrades: Brake Thermal
+    Simulation Based on ABNT NBR 10966-2. In: XXXIX ANPET – Research and
+    Teaching in Transport Congress, 2025, Goiânia. Proceedings of the
+    39th ANPET.
+
+4.  RODRIGUES, L.R.; PITOMBO, C.S.; **CUNHA, A.L.**; LAROCCA, A.P.C.;
+    FERRAZ, A.C.P. (2025) Identification of Crime and Traffic Crash
+    Hotspots in the Vicinity of Bus Stops. In: XXXIX ANPET – Research
+    and Teaching in Transport Congress, 2025, Goiânia. Proceedings of
+    the 39th ANPET.
+
+5.  DAVOLI, J.P.; PITOMBO, C.S.; **CUNHA, A.L.** (2025) Application of a
+    Random-Forest–Based Variable Selection Method for the Analysis of
+    Post-COVID-19 Active Transportation. In: XXXIX ANPET – Research and
+    Teaching in Transport Congress, 2025, Goiânia. Proceedings of the
+    39th ANPET.
+
+6.  MORELLI, A.B.; **CUNHA, A.L.** (2024) Vulnerability to flooding: how
     long-trip prevalence reduces the efficiency of alternative routes.
     In: XXXVIII ANPET – Research and Teaching in Transport Congress,
     2024, Florianópolis. Proceedings of the 38th ANPET.
 
-2.  MARCOMINI, L.A.; **CUNHA, A.L.** (2023) Truck axle detection using
+7.  MARCOMINI, L.A.; **CUNHA, A.L.** (2023) Truck axle detection using
     Neural Networks: analysis of the number of images in the training
     dataset. In: ANPET – Research and Teaching in Transport Congress,
     2023, Santos. Proceedings of the 37th ANPET.
 
-3.  MORELLI, A.B.; LOURO, T.V.; **CUNHA, A.L.** (2022) Proposal of
+8.  MORELLI, A.B.; LOURO, T.V.; **CUNHA, A.L.** (2022) Proposal of
     bikeability indicators from an accessibility perspective:
     identifying roads best suited for cycle lanes using widely available
     data. In: XXXVI ANPET – Research and Teaching in Transport Congress,
     2022, Fortaleza. Proceedings of the XXXVI ANPET.
 
-4.  MORELLI, A.B.; **CUNHA, A.L.** (2021) Pedestrian accessibility:
+9.  MORELLI, A.B.; **CUNHA, A.L.** (2021) Pedestrian accessibility:
     impacts of morphological and demographic characteristics on access
     to facilities. In: XXXV ANPET – Research and Teaching in Transport
     Congress, 2021. Proceedings of the XXXV ANPET.
 
-5.  OLIVATTO, T.F.; PITOMBO, C.S.; **CUNHA, A.L.**; MELANDA, E.A. (2020)
+10. OLIVATTO, T.F.; PITOMBO, C.S.; **CUNHA, A.L.**; MELANDA, E.A. (2020)
     Relationships between the nutritional status of preschoolers and
     socioeconomic and urban infrastructure indicators: a CART-based
     approach. In: PLURIS – Luso-Brazilian Congress on Urban, Regional,
     Integrated and Sustainable Planning, 2020. Proceedings of the 9th
     PLURIS.
 
-6.  BOSCO JUNIOR, A.D.; **CUNHA, A.L.** (2020) Street and zonal scale
+11. BOSCO JUNIOR, A.D.; **CUNHA, A.L.** (2020) Street and zonal scale
     relationship between network centrality and economic activities:
     case study in Curitiba, Brazil. In: PLURIS – Luso-Brazilian Congress
     on Urban, Regional, Integrated and Sustainable Planning, 2020.
     Proceedings of the 9th PLURIS.
 
-7.  VIZIOLI, H.T.; KUŠIC, K.; IVANJKO, E.; **CUNHA, A.L.** (2020) A
+12. VIZIOLI, H.T.; KUŠIC, K.; IVANJKO, E.; **CUNHA, A.L.** (2020) A
     method to calibrate Variable Speed Limit Control on high-truck-share
     roads: a case study in Brazil. In: Brazilian Technology Symposium -
     BTSym’20, 2020, Campinas. Smart Innovation, Systems and
     Technologies.
 
-8.  CAKIJA, D.; ASSIRATI, L.; IVANJKO, E.; **CUNHA, A.L.** (2019)
+13. CAKIJA, D.; ASSIRATI, L.; IVANJKO, E.; **CUNHA, A.L.** (2019)
     Autonomous Intersection Management: A Short Review. In: 61st
     International Symposium ELMAR-2019, Zadar. Proceedings of the 61st
     ELMAR Symposium.
 
-9.  MORELLI, A.B.; **CUNHA, A.L.** (2019) Identifying vulnerabilities in
+14. MORELLI, A.B.; **CUNHA, A.L.** (2019) Identifying vulnerabilities in
     transport networks: a graph-theoretical approach. In: XXXIII ANPET –
     Research and Teaching in Transport Congress, 2019, Balneário
     Camboriú. Proceedings of the XXXIII ANPET.
 
-10. KURAMOTO, B.; **CUNHA, A.L.** (2019) Usability and limitations of
+15. KURAMOTO, B.; **CUNHA, A.L.** (2019) Usability and limitations of
     collaborative map data in accessibility analysis. In: XXXIII ANPET –
     Research and Teaching in Transport Congress, 2019, Balneário
     Camboriú. Proceedings of the XXXIII ANPET.
 
-11. SILVA, F.A.E.; BESSA JUNIOR, J.E.; COSTA, A.L.; **CUNHA, A.L.**;
+16. SILVA, F.A.E.; BESSA JUNIOR, J.E.; COSTA, A.L.; **CUNHA, A.L.**;
     ANDALICIO, A.F.; VELHO, D.M.C.; NAZARETH, V.S. (2019) Evaluation of
     the effect of climbing lanes on single-lane highway segments. In:
     XXXIII ANPET – Research and Teaching in Transport Congress, 2019,
     Balneário Camboriú. Proceedings of the XXXIII ANPET.
 
-12. MARCOMINI, L.A.; **CUNHA, A.L.** (2019) The impact of different
+17. MARCOMINI, L.A.; **CUNHA, A.L.** (2019) The impact of different
     video resolutions in a feature-based vehicle detection algorithm.
     In: XXXIII ANPET, 2019, Balneário Camboriú. Proceedings of XXXIII
     ANPET.
 
-13. MORELLI, A.B.; **CUNHA, A.L.** (2019) A strategy for assessing the
+18. MORELLI, A.B.; **CUNHA, A.L.** (2019) A strategy for assessing the
     impact of flooding on urban road systems. In: XXXIII ANPET –
     Research and Teaching in Transport Congress, 2019, Balneário
     Camboriú. Proceedings of the XXXIII ANPET.
 
-14. KURAMOTO, B.; **CUNHA, A.L.** (2018) Methodological proposal for
+19. KURAMOTO, B.; **CUNHA, A.L.** (2018) Methodological proposal for
     construction and analysis of a real urban network. In: PLURIS – 8th
     Luso-Brazilian Congress on Urban, Regional, Integrated and
     Sustainable Planning, 2018, Coimbra. Proceedings of the 8th PLURIS.
 
-15. MORELLI, A.B.; **CUNHA, A.L.** (2018) Methods for evaluating traffic
+20. MORELLI, A.B.; **CUNHA, A.L.** (2018) Methods for evaluating traffic
     conditions using Google Traffic and Twitter data. In: XXXII ANPET,
     2018, Gramado, RS. Proceedings of XXXII ANPET.
 
-16. THEBIT, M.M.; **CUNHA, A.L.** (2017) Comparison of traffic data
+21. THEBIT, M.M.; **CUNHA, A.L.** (2017) Comparison of traffic data
     available on the web and obtained by fixed sensors. In: XXXI ANPET,
     2017, Recife. Proceedings of XXXI ANPET.
 
-17. RIBEIRO, E.R.; **CUNHA, A.L.** (2017) Exploratory analysis of a
+22. RIBEIRO, E.R.; **CUNHA, A.L.** (2017) Exploratory analysis of a
     method for anomaly detection in traffic data using Wavelet. In: XXXI
     ANPET – Research and Teaching in Transport Congress, 2017, Recife.
     Proceedings of the XXXI ANPET.
 
-18. PANICE, N.R.; **CUNHA, A.L.** (2017) Evaluation of a method for
+23. PANICE, N.R.; **CUNHA, A.L.** (2017) Evaluation of a method for
     automatic truck axle detection in images. In: XXXI ANPET – Research
     and Teaching in Transport Congress, 2017, Recife. Proceedings of the
     XXXI ANPET.
 
-19. OLIVEIRA, G.J.M.; **CUNHA, A.L.** (2017) HCM calibration method for
+24. OLIVEIRA, G.J.M.; **CUNHA, A.L.** (2017) HCM calibration method for
     dual carriageways and expressways using Bayesian inference. In: XXXI
     ANPET – Research and Teaching in Transport Congress, 2017, Recife.
     Proceedings of the XXXI ANPET.
 
-20. ASSIS, R.K.M.; DURAN, J.B.C.; **CUNHA, A.L.**; PITOMBO, C.S.;
+25. ASSIS, R.K.M.; DURAN, J.B.C.; **CUNHA, A.L.**; PITOMBO, C.S.;
     FERNANDES JUNIOR, J.L. (2016) Application of Artificial Neural
     Networks for predictive modeling of pavement functional
     classification. In: PLURIS – Luso-Brazilian Congress on Urban,
     Regional, Integrated and Sustainable Planning, 2016, Maceió.
     Proceedings of the 7th PLURIS.
 
-21. FERREIRA, F.A.; PITOMBO, C.S.; **CUNHA, A.L.** (2016) Forecasting
+26. FERREIRA, F.A.; PITOMBO, C.S.; **CUNHA, A.L.** (2016) Forecasting
     mode choice on a university campus using binomial logistic
     regression. In: PLURIS – Luso-Brazilian Congress on Urban, Regional,
     Integrated and Sustainable Planning, 2016, Maceió. Proceedings of
     the 7th PLURIS.
 
-22. THEBIT, M.M.; **CUNHA, A.L.**; PITOMBO, C.S. (2016) Relationship
+27. THEBIT, M.M.; **CUNHA, A.L.**; PITOMBO, C.S. (2016) Relationship
     between bus mode supply and modal choice for airport access: a data
     mining approach. In: PLURIS – Luso-Brazilian Congress on Urban,
     Regional, Integrated and Sustainable Planning, 2016, Maceió.
     Proceedings of the 7th PLURIS.
 
-23. RIBEIRO, E.R.; **CUNHA, A.L.** (2016) Exploratory analysis of a
+28. RIBEIRO, E.R.; **CUNHA, A.L.** (2016) Exploratory analysis of a
     method for defining a typical day using Wavelet transform and
     cluster analysis. In: XXX ANPET – Research and Teaching in Transport
     Congress, 2016, Rio de Janeiro, RJ. Proceedings of the XXX ANPET.
 
-24. ANDRADE, G.R.; PITOMBO, C.S.; **CUNHA, A.L.B.N.**; SETTI, J.R.;
+29. ANDRADE, G.R.; PITOMBO, C.S.; **CUNHA, A.L.B.N.**; SETTI, J.R.;
     FERRAZ, A.C.P. (2015) Forecasting free-flow speed on São Paulo
     expressways and highways. In: 9th Brazilian Congress of Highways and
     Concessions – CBR&C, 2015, Brasília. Proceedings of the 9th CBR&C.
 
-25. ROCHA, S.S.; PIANUCCI, M.N.; PITOMBO, C.S.; **CUNHA,
+30. ROCHA, S.S.; PIANUCCI, M.N.; PITOMBO, C.S.; **CUNHA,
     A.L.B.N.** (2015) Use of Neural Networks for trip production
     forecasting: an aggregate analysis. In: XXIX ANPET – Research and
     Teaching in Transport Congress, 2015, Ouro Preto, MG. Proceedings of
     the XXIX ANPET.
 
-26. **CUNHA, A.L.B.N.**; SETTI, J.R.; GONZAGA, A. (2013) Comparison of
+31. **CUNHA, A.L.B.N.**; SETTI, J.R.; GONZAGA, A. (2013) Comparison of
     background generation models in vehicular traffic video processing.
     In: XXVII ANPET – Research and Teaching in Transport Congress, 2013,
     Belém. Proceedings of the XXVII ANPET.
 
-27. BESSA JUNIOR, J.E.; **CUNHA, A.L.B.N.**; SETTI, J.R. (2011)
+32. BESSA JUNIOR, J.E.; **CUNHA, A.L.B.N.**; SETTI, J.R. (2011)
     Comparison between CORSIM and TWOPAS simulators for modeling
     two-lane highways. In: XXV ANPET – Research and Teaching in
     Transport Congress, 2011, Rio de Janeiro, RJ. National Overview of
     Transport Research 2011, p.2140–2151.
 
-28. **CUNHA, A.L.B.N.**; SETTI, J.R. (2009) Equivalence factors for
+33. **CUNHA, A.L.B.N.**; SETTI, J.R. (2009) Equivalence factors for
     trucks on dual carriageway highways. In: 6th Brazilian Congress of
     Highways and Concessions – CBR&C, 2009, Florianópolis, SC.
     Proceedings of the 6th CBR&C.
 
-29. **CUNHA, A.L.B.N.**; MODOTTI, M.M.; SETTI, J.R. (2008) Truck
+34. **CUNHA, A.L.B.N.**; MODOTTI, M.M.; SETTI, J.R. (2008) Truck
     classification through cluster analysis. In: XXII ANPET – Research
     and Teaching in Transport Congress, 2008, Fortaleza, CE. Proceedings
     of the XXII ANPET.
 
-30. BESSA JUNIOR, J.E.; LIMA, F.A.A.; **CUNHA, A.L.B.N.**; SETTI,
+35. BESSA JUNIOR, J.E.; LIMA, F.A.A.; **CUNHA, A.L.B.N.**; SETTI,
     J.R. (2008) Calibration of the Integration simulator’s performance
     model using a genetic algorithm. In: XXII ANPET – Research and
     Teaching in Transport Congress, 2008, Fortaleza, CE. Proceedings of
     the XXII ANPET.
 
-31. **CUNHA, A.L.B.N.**; SETTI, J.R. (2006) Calibration of the CORSIM
+36. **CUNHA, A.L.B.N.**; SETTI, J.R. (2006) Calibration of the CORSIM
     truck performance model using a genetic algorithm. In: XX ANPET –
     Research and Teaching in Transport Congress, 2006, Brasília.
     Proceedings of the XX ANPET, v.I, p.88–99.
@@ -650,43 +722,52 @@ sustainable mobility solutions.
 # AWARDS & HONORS 
 
 - **ANPET Scientific Production Award** 2023  
-  National Agency for Transportation Research and Education (ANPET).
+  National Agency for Transportation Research and Education (ANPET),
+  Brazil.
 
 - **Excellence Certificate** 2017  
   Best professor of the Department of Transportation Engineering
   (USP-EESC-STT),  
-  Academic Secretariat of Civil Engineering (SACivil).
+  Academic Secretariat of Civil Engineering (SACivil), Brazil.
 
 - **Excellence Certificate** 2016  
   Best professor of the Department of Transportation Engineering
   (USP-EESC-STT),  
-  Academic Secretariat of Civil Engineering (SACivil).
+  Academic Secretariat of Civil Engineering (SACivil), Brazil.
 
 - **ABCR Innovation Salon Award** 2015  
   9th Brazilian Congress on Highways and Concessions (CBR&C),  
   5th Innovation Salon of the Brazilian Association of Highway
-  Concessionaires (ABCR).
+  Concessionaires (ABCR), Brazil.
 
 # PROFESSIONAL SERVICES 
+
+- **Academic Service**: Member of Department Council of Transport
+  Engineering, Research and Innovation Committee (CPqI), Graduate
+  Program Coordination Committee in Transport Engineering (CCP-ET),
+  Culture and University Extension Committee (CCEx), Center for
+  Educational Technology in Engineering (CETEPE),
 
 - **Reviewer**: Transportation Research Part E, Sustainability, Case
   Studies on Transport Policy, Transportes, Sensors, Promet - Traffic &
   Transportation Journal, Geo-spatial Information Science, Journal of
   the International Association of Traffic and Safety Sciences (IATSS),
   Drones, Engineering Applications of Artificial Intelligence (EAAI),
+  Sensors, Sustainable Cities and Society.
 
 - **Scientific Committee**: Transportation Research Board TRB, IEEE
   Intelligent Transportation Systems Society (ITSS), National
   Association for Research and Education in Transportation (ANPET),
   International Scientific Conference (ZIRP), International Symposium
-  ELMAR,
+  ELMAR, The Science and Development of Transport (TRANSCODE).
 
 # TECHNICAL SKILLS 
 
-- **Programming languages**: C++, R, Python, Julia, Matlab, HTML, CSS,
-  JavaScript
+- **Programming languages**: C++, R, Python, Julia, HTML, CSS,
+  JavaScript, Matlab
 
-- **Tools**: CAD, OpenCV, TSIS-CORSIM, VISSIM, SUMO, MATSim, QGIS
+- **Tools**: CAD, Civil-3D, OpenCV, TSIS-CORSIM, AIMSUN, SUMO, VISSIM,
+  MATSim, QGIS
 
 - **Languages**: Portuguese (native), English (advanced), Spanish
   (basic)
@@ -703,5 +784,5 @@ sustainable mobility solutions.
 [^5]: Interview featured on Rede Globo’s Jornal Hoje program
     (<https://globoplay.globo.com/v/8165879/>).
 
-[^6]: Exchange rates used: 1 EUR $\approx$ 6.50 BRL; 1 USD $\approx$
-    5.70 BRL; 1 AUD $\approx$ 3.70 BRL.
+[^6]: Exchange rates used: 1 EUR $\approx$ 6.30 BRL; 1 USD $\approx$
+    5.50 BRL; 1 AUD $\approx$ 3.50 BRL.

@@ -199,7 +199,7 @@ Executed AutoCAD-based infrastructure digitization, oversaw routine building mai
 9. **STT0631 - Logistics in construction \hfill 2026--present**\
 This elective course integrates theory and practice to prepare students for the efficient management of logistical chains in civil construction projects. Over the semester, students will develop an understanding of the fundamental supply concepts, grasp the scope and challenges of providing the necessary resources based on each project’s scale and characteristics, and learn to identify the factors that impact construction logistics — from cost and scheduling concerns to environmental and regulatory constraints. 
 
-10. **1800123 - Techinical Drawing \hfill 2026--present**\
+10. **1800123 - Technical Drawing \hfill 2026--present**\
 1st year compulsory course in Civil Engineering curriculum. The objective of this course is to elucidate the concept and standards of design, as well as to present digital tools for Engineering projects and the use of georeferenced maps, as well as the use of BIM and 3D visualization software. Classroom with 60 students. 
 
 
@@ -241,11 +241,11 @@ Elective course in the Transportation Engineering Program. Coordinate the course
 
 I have secured over **BRL 18,600,000**[^grants] (approximately USD 3,381,818 | EUR 2,952,381 | AUD 5,314,286) in research funding, during my tenure at USP, with projects spanning intelligent transport systems and sustainable mobility solutions.
 
-[^grants]: Exchange rates used: 1 EUR $\approx$ 6.30 BRL; 1 USD $\approx$ 5.50 BRL; 1 AUD $\approx$ 3.50 BRL.
+[^grants]: Exchange rates used: EUR 1.00 $\approx$ BRL 6.30; USD 1.00 $\approx$ BRL 5.50; AUD 1.00 $\approx$ BRL 3.50.
 
 1. **CCD Sustainability and Innovation in Road Infrastructure** \hfill BRL 8,000,000\
-*Pavement Recycling as a Pillar of Decarbonization - Centers for Science for Development (CCD)*\
-Role: Co-Principal Investigator \hfill 2025--2030\
+*Pavement Recycling as a Pillar of Decarbonization - Centers for Science for Development (CCD)* \hfill 2025--2030\
+Role: Co-Principal Investigator\
 Sponsor: FAPESP Grant (2025/07146-8), Brazil
 
 1. **Redesign and Validate the Truck Escape Ramp on the BR-116 (Via Dutra)** \hfill BRL 180,000\
@@ -253,8 +253,8 @@ Role: Principal Investigator \hfill 2025--2025\
 Sponsor: Group CCR Highways (RioSP), Brazil
 
 1. **Artificial Intelligence Recreating Environments (IARA)** \hfill BRL 10,000,000\
-*Applied Research Centers Program (CEPID)*\
-Role: Research Collaborator \hfill 2023--2028\
+*Applied Research Centers Program (CEPID)*  \hfill 2023--2028\
+Role: Research Collaborator\
 Sponsor: FAPESP Grant (Process 20/09835-1), Brazil
 
 1. **Rethinking traffic modeling in transport networks for the next generation of smart/connected cities** \hfill BRL 72,000\

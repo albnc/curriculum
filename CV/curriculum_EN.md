@@ -248,7 +248,7 @@ Logistics
     factors that impact construction logistics — from cost and
     scheduling concerns to environmental and regulatory constraints.
 
-10. **1800123 - Techinical Drawing 2026–present**  
+10. **1800123 - Technical Drawing 2026–present**  
     1st year compulsory course in Civil Engineering curriculum. The
     objective of this course is to elucidate the concept and standards
     of design, as well as to present digital tools for Engineering
@@ -323,8 +323,8 @@ sustainable mobility solutions.
 1.  **CCD Sustainability and Innovation in Road Infrastructure** BRL
     8,000,000  
     *Pavement Recycling as a Pillar of Decarbonization - Centers for
-    Science for Development (CCD)*  
-    Role: Co-Principal Investigator 2025–2030  
+    Science for Development (CCD)* 2025–2030  
+    Role: Co-Principal Investigator  
     Sponsor: FAPESP Grant (2025/07146-8), Brazil
 
 2.  **Redesign and Validate the Truck Escape Ramp on the BR-116 (Via
@@ -334,8 +334,8 @@ sustainable mobility solutions.
 
 3.  **Artificial Intelligence Recreating Environments (IARA)** BRL
     10,000,000  
-    *Applied Research Centers Program (CEPID)*  
-    Role: Research Collaborator 2023–2028  
+    *Applied Research Centers Program (CEPID)* 2023–2028  
+    Role: Research Collaborator  
     Sponsor: FAPESP Grant (Process 20/09835-1), Brazil
 
 4.  **Rethinking traffic modeling in transport networks for the next
@@ -391,115 +391,117 @@ sustainable mobility solutions.
 1.  LOURO, T.V.; GRIGILON, A.B.; TIRACHINI, A.; **CUNHA, A.L.**; GEURS,
     K.T. (2025) “How Do E-Bikes Measure Up? Analyzing Speed Differences
     and Network Impacts of São Paulo’s Bikesharing System”.
-    Transportation.
-
-2.  LOURO, T.V.; GRIGILON, A.B.; **CUNHA, A.L.**; GEURS, K.T. (2025)
-    “E-bikes’ impact on job accessibility and equity in São Paulo and
-    Rio”. Transportation Research Part D: Transport and Environment.
+    Transportation. \<DOI:
+    [10.2139/ssrn.5648290](https://dx.doi.org/10.2139/ssrn.5648290)\>
 
 ## Peer-Reviewed Journal
 
-1.  DE OLIVEIRA, G.J.M.; LAVIERI, P.S.; **CUNHA, A.L.** (2023)
+1.  LOURO, T.V.; GRIGILON, A.B.; **CUNHA, A.L.**; GEURS, K.T. (2025)
+    “E-bikes’ impact on job accessibility and equity in São Paulo and
+    Rio”. Transportation Research Part D: Transport and Environment.
+    \<DOI: []()\>
+
+2.  DE OLIVEIRA, G.J.M.; LAVIERI, P.S.; **CUNHA, A.L.** (2023)
     Integrating a non-gridded space representation into a graph neural
     networks model for citywide short-term crash risk prediction. Urban
     Informatics. v.2, p.7.  
     \<DOI:
     [10.1007/s44212-023-00032-6](https://doi.org/10.1007/s44212-023-00032-6)\>
 
-2.  FLEURY, M.P.; KAMAKURA, G.K.; PITOMBO, C.S.; **CUNHA, A.L.B.N.**;
+3.  FLEURY, M.P.; KAMAKURA, G.K.; PITOMBO, C.S.; **CUNHA, A.L.B.N.**;
     FERREIRA, F.B.; LINS DA SILVA, J. (2023) Assessing and Predicting
     Geogrid Reduction Factors after Damage Induced by Dropping Recycled
     Aggregates. Sustainability. v.15, p.9942.  
     \<DOI: [10.3390/su15139942](https://doi.org/10.3390/su15139942)\>
 
-3.  FLEURY, M.P.; KAMAKURA, G.K.; PITOMBO, C.S.; **CUNHA, A.L.B.N.**;
+4.  FLEURY, M.P.; KAMAKURA, G.K.; PITOMBO, C.S.; **CUNHA, A.L.B.N.**;
     LINS DA SILVA, J. (2023) Prediction of non-woven geotextiles’
     reduction factors for damage caused by the drop of backfill
     materials. Geotextiles and Geomembranes. v.1, p.1 - 11.  
     \<DOI:
     [10.1016/j.geotexmem.2023.05.004](https://doi.org/10.1016/j.geotexmem.2023.05.004)\>
 
-4.  SILVA, F.A.E.; BESSA JUNIOR, J.E.; COSTA, A.L.; **CUNHA, A.L.**;
+5.  SILVA, F.A.E.; BESSA JUNIOR, J.E.; COSTA, A.L.; **CUNHA, A.L.**;
     VELHO, D.M.C.; ANDALICIO, A. (2023) Exploratory analysis of the
     VISSIM simulation model for two-lane highways. Engenharia Civil UM
     (Braga), n.63, p.6-17.  
     \<DOI: [10.21814/ecum.4493](https://doi.org/10.21814/ecum.4493)\>
 
-5.  SILVA, F.A.; BESSA JUNIOR, J.E.; COSTA, A.L.; **CUNHA, A.L.**;
+6.  SILVA, F.A.; BESSA JUNIOR, J.E.; COSTA, A.L.; **CUNHA, A.L.**;
     VELHO, D.M.C. (2022) Analysis of no-passing zones to assess the
     level of service on two-lane rural highways in Brazil. Case Studies
     on Transport Policy. v.10, p.248-256.  
     \<DOI:
     [10.1016/j.cstp.2021.12.006](https://doi.org/10.1016/j.cstp.2021.12.006)\>
 
-6.  MORELLI, A. B.; **CUNHA, A.L.** (2021) Assessing vulnerabilities in
+7.  MORELLI, A. B.; **CUNHA, A.L.** (2021) Assessing vulnerabilities in
     transport networks: a graph-theoretic approach. Transportes (Rio de
     Janeiro). v.29, p.161-172.  
     \<DOI:
     [10.14295/transportes.v29i1.2250](https://doi.org/10.14295/transportes.v29i1.2250)\>
 
-7.  SILVA, F.A.; BESSA JÚNIOR, J.E.; COSTA, A.L.; **CUNHA, A.L.**;
+8.  SILVA, F.A.; BESSA JÚNIOR, J.E.; COSTA, A.L.; **CUNHA, A.L.**;
     ANDALÍCIO, A.F.; DA COSTA VELHO, D.M.; NAZARETH, V.S. (2021)
     Evaluation of the effect of climbing lanes on segments of two-lane
     highways. Transportes (Rio de Janeiro). v.29, p.1-16.  
     \<DOI:
     [10.14295/transportes.v29i1.2359](https://doi.org/10.14295/transportes.v29i1.2359)\>
 
-8.  MORELLI, A.B.; **CUNHA, A.L.** (2021) Measuring urban road network
+9.  MORELLI, A.B.; **CUNHA, A.L.** (2021) Measuring urban road network
     vulnerability to extreme events: An application for urban floods.
     Transportation Research Part D – Transport and Environment. v.93,
     p.102770.  
     \<DOI:
     [10.1016/j.trd.2021.102770](https://doi.org/10.1016/j.trd.2021.102770)\>
 
-9.  MARTINS, D.O.; OLIVEIRA, G.J.M.; MORAES, F.R.; SILVA, I.; **CUNHA,
+10. MARTINS, D.O.; OLIVEIRA, G.J.M.; MORAES, F.R.; SILVA, I.; **CUNHA,
     A.L.** (2020) Geomatics data management system. Revista Brasileira
     de Geomática. v.8, p.056-069.  
     \<DOI:
     [10.3895/rbgeo.v8n1.10141](https://doi.org/10.3895/rbgeo.v8n1.10141)\>
 
-10. PIANUCCI, M.N.; PITOMBO, C.S.; **CUNHA, A.L.**; LIMA SEGANTINE,
+11. PIANUCCI, M.N.; PITOMBO, C.S.; **CUNHA, A.L.**; LIMA SEGANTINE,
     P.C. (2019) Forecasting household travel demand through a sequential
     method based on synthetic population and artificial neural networks.
     Transportes (Rio de Janeiro). v.27, p.1-23.  
     \<DOI:
     [10.14295/transportes.v27i4.1409](https://doi.org/10.14295/transportes.v27i4.1409)\>
 
-11. OLIVEIRA, J.V.M.; LAROCCA, A.P.C.; ARAUJO NETO, J.O.; **CUNHA,
+12. OLIVEIRA, J.V.M.; LAROCCA, A.P.C.; ARAUJO NETO, J.O.; **CUNHA,
     A.L.**; SANTOS, M.C.; SCHAAL, R.E. (2019) Rigid Bridges Health
     Dynamic Monitoring Using 100 Hz GPS Single-Frequency and
     Accelerometers. Positioning. v.10, p.17-33.  
     \<DOI:
     [10.4236/pos.2019.102002](https://doi.org/10.4236/pos.2019.102002)\>
 
-12. DE OLIVEIRA, J.V.M.; LAROCCA, A.P.C.; DE ARAÚJO NETO, J.O.; CUNHA,
+13. DE OLIVEIRA, J.V.M.; LAROCCA, A.P.C.; DE ARAÚJO NETO, J.O.; CUNHA,
     A.L.; DOS SANTOS, M.C.; SCHAAL, R.E. (2019) Vibration monitoring of
     a small concrete bridge using wavelet transforms on GPS data.
     Journal Of Civil Structural Health Monitoring. v.9, p.397-409.  
     \<DOI:
     [10.1007/s13349-019-00341-y](https://doi.org/10.1007/s13349-019-00341-y)\>
 
-13. LINDNER, A.; PITOMBO, C.S.; **CUNHA, A.L.** (2017) Estimating
+14. LINDNER, A.; PITOMBO, C.S.; **CUNHA, A.L.** (2017) Estimating
     motorized travel mode choice using classifiers: An application for
     high-dimensional multicollinear data. Travel Behaviour and Society.
     v.6, p.100-109.  
     \<DOI:
     [10.1016/j.tbs.2016.08.003](https://doi.org/10.1016/j.tbs.2016.08.003)\>
 
-14. SOUZA, N.C.; PITOMBO, C.; **CUNHA, A.L.**; LAROCCA, A.P.C.; DE
+15. SOUZA, N.C.; PITOMBO, C.; **CUNHA, A.L.**; LAROCCA, A.P.C.; DE
     ALMEIDA FILHO, G.S. (2017) Model for classification of linear
     erosion processes along railways through decision tree algorithm and
     geotechnologies. Boletim de Ciências Geodésicas. v.23, p.72-86.  
     \<DOI:
     [10.1590/S1982-21702017000100005](https://doi.org/10.1590/S1982-21702017000100005)\>
 
-15. ANDRADE, G.R.; PITOMBO, C.; **CUNHA, A.L.N.**; SETTI, J.R. (2016) A
+16. ANDRADE, G.R.; PITOMBO, C.; **CUNHA, A.L.N.**; SETTI, J.R. (2016) A
     Model for Estimating Free-Flow Speed on Brazilian Expressways.
     Transportation Research Procedia. v.15, p.378-388.  
     \<DOI:
     [10.1016/j.trpro.2016.06.032](https://doi.org/10.1016/j.trpro.2016.06.032)\>
 
-16. LAROCCA, A.P.C.; ARAÚJO NETO, J.O.; TRABANCO, J.L.A.; BARBOSA,
+17. LAROCCA, A.P.C.; ARAÚJO NETO, J.O.; TRABANCO, J.L.A.; BARBOSA,
     A.C.B.; **CUNHA, A.L.B.N.**; SCHAAL, R.E. (2015) Use of 100 Hz GPS
     receivers in the detection of millimeter vertical deflections of
     small concrete bridges. Boletim de Ciências Geodésicas. v.21,
@@ -507,7 +509,7 @@ sustainable mobility solutions.
     \<DOI:
     [10.1590/S1982-21702015000200017](https://doi.org/10.1590/S1982-21702015000200017)\>
 
-17. LAROCCA, A.P.C.; ARAUJO NETO, J.O.; BARBOSA, A.C.B.; TRABANCO,
+18. LAROCCA, A.P.C.; ARAUJO NETO, J.O.; BARBOSA, A.C.B.; TRABANCO,
     J.L.A.; **CUNHA, A.L.B.N.** (2014) Dynamic Monitoring vertical
     Deflection of Small Concrete Bridge Using Conventional Sensors And
     100 Hz GPS Receivers - Preliminary Results. IOSRJEN Journal of
@@ -515,7 +517,7 @@ sustainable mobility solutions.
     \<DOI:
     [10.9790/3021-04920920](https://doi.org/10.9790/3021-04920920)\>
 
-18. **CUNHA, A.L.**; SETTI, J.R. (2011) Truck equivalence factors for
+19. **CUNHA, A.L.**; SETTI, J.R. (2011) Truck equivalence factors for
     divided, multilane highways in Brazil. Procedia: Social and
     Behavioral Sciences. v.16, p.248-258.  
     \<DOI:
@@ -784,5 +786,5 @@ sustainable mobility solutions.
 [^5]: Interview featured on Rede Globo’s Jornal Hoje program
     (<https://globoplay.globo.com/v/8165879/>).
 
-[^6]: Exchange rates used: 1 EUR $\approx$ 6.30 BRL; 1 USD $\approx$
-    5.50 BRL; 1 AUD $\approx$ 3.50 BRL.
+[^6]: Exchange rates used: EUR 1.00 $\approx$ BRL 6.30; USD 1.00
+    $\approx$ BRL 5.50; AUD 1.00 $\approx$ BRL 3.50.

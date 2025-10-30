@@ -399,7 +399,8 @@ sustainable mobility solutions.
 1.  LOURO, T.V.; GRIGILON, A.B.; **CUNHA, A.L.**; GEURS, K.T. (2025)
     “E-bikes’ impact on job accessibility and equity in São Paulo and
     Rio”. Transportation Research Part D: Transport and Environment.
-    \<DOI: []()\>
+    \<DOI:
+    [10.1016/j.trd.2025.105072](https://doi.org/10.1016/j.trd.2025.105072)\>
 
 2.  DE OLIVEIRA, G.J.M.; LAVIERI, P.S.; **CUNHA, A.L.** (2023)
     Integrating a non-gridded space representation into a graph neural

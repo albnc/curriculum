@@ -302,6 +302,10 @@ Sponsor: CAPES/FCT Program (Process 39/2017), Brazil
 
 1. LOURO, T.V.; GRIGILON, A.B.; TIRACHINI, A.; **CUNHA, A.L.**; GEURS, K.T. (2025) "How Do E-Bikes Measure Up? Analyzing Speed Differences and Network Impacts of São Paulo’s Bikesharing System". Transportation. <DOI: [10.2139/ssrn.5648290](https://dx.doi.org/10.2139/ssrn.5648290)>
 
+1. SALINAS, K., BARELLA, V., **CUNHA, A.L.**, OLIVEIRA, G.M., VIERA, T., NONATO, L.G. (2025) "ORDENA: ORigin-DEstiNAtion data exploration". Transactions on Visualization and Computer Graphics <[arXiv:2510.18278](https://arxiv.org/pdf/2510.18278)>
+
+
+
 
 ## Peer-Reviewed Journal
 

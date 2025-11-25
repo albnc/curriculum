@@ -396,8 +396,8 @@ sustainable mobility solutions.
 
 2.  SALINAS, K., BARELLA, V., **CUNHA, A.L.**, OLIVEIRA, G.M., VIERA,
     T., NONATO, L.G. (2025) “ORDENA: ORigin-DEstiNAtion data
-    exploration”. Transactions on Visualization and Computer Graphics
-    \<[arXiv:2510.18278](https://arxiv.org/pdf/2510.18278)\>
+    exploration”. IEEE Transactions on Visualization and Computer
+    Graphics \<[arXiv:2510.18278](https://arxiv.org/pdf/2510.18278)\>
 
 ## Peer-Reviewed Journal
 

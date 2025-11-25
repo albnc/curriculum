@@ -4,6 +4,7 @@ author: "Assistant Professor of Civil Engineering"
 #author: "alcunha@usp.br | +55 16 98119 2339"
 
 format:
+  html: default
   gfm: default
   pdf:
     pdf-engine: xelatex

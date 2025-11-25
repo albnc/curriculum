@@ -306,7 +306,6 @@ Sponsor: CAPES/FCT Program (Process 39/2017), Brazil
 
 
 
-
 ## Peer-Reviewed Journal
 
 1. LOURO, T.V.; GRIGILON, A.B.; **CUNHA, A.L.**; GEURS, K.T. (2025) "E-bikes’ impact on job accessibility and equity in São Paulo and Rio". Transportation Research Part D: Transport and Environment. <DOI: [10.1016/j.trd.2025.105072](https://doi.org/10.1016/j.trd.2025.105072)>

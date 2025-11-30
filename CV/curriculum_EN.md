@@ -25,9 +25,10 @@ Key links
 [Google
 Scholar](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en)
 [^1] \| [ORCID](https://orcid.org/0000-0002-0520-0621) [^2] \|
-[LinkedIn](https://www.linkedin.com/in/prof-alcunha/) [^3] \|
+[WoS](https://www.webofscience.com/wos/author/record/U-4375-2019) [^3]
+\| [LinkedIn](https://www.linkedin.com/in/prof-alcunha/) [^4] \|
 <!-- [Lattes](http://lattes.cnpq.br/7996696632908127) [^lattes] | -->
-[LinkTree](https://linktr.ee/prof_alcunha) [^4]
+[LinkTree](https://linktr.ee/prof_alcunha) [^5]
 
 Research Keywords  
 Transport Modelling, Artificial Intelligence, Computer Vision, Urban
@@ -145,7 +146,7 @@ Logistics
     Directed field testing of BR-376’s km 667 truck escape ramp,
     developing protocols and analyzing performance metrics for loaded
     vehicles at multiple approach speeds, with findings implemented in
-    concessionaire safety standards[^5]. Delivered a detailed technical
+    concessionaire safety standards[^6]. Delivered a detailed technical
     assessment of ramp functionality under real-world conditions.
 
 4.  **University of São Paulo (USP-EESC)** Feb. 2013 – Jun. 2014  
@@ -315,7 +316,7 @@ Logistics
 
 # RESEARCH INCOME 
 
-I have secured over **BRL 18,600,000**[^6] (approximately USD 3,381,818
+I have secured over **BRL 18,600,000**[^7] (approximately USD 3,381,818
 \| EUR 2,952,381 \| AUD 5,314,286) in research funding, during my tenure
 at USP, with projects spanning intelligent transport systems and
 sustainable mobility solutions.
@@ -784,13 +785,15 @@ sustainable mobility solutions.
 
 [^2]: <https://orcid.org/0000-0002-0520-0621>
 
-[^3]: <https://www.linkedin.com/in/prof-alcunha/>
+[^3]: <https://www.webofscience.com/wos/author/record/U-4375-2019>
+
+[^4]: <https://www.linkedin.com/in/prof-alcunha/>
     <!-- [^lattes]: <http://lattes.cnpq.br/7996696632908127> -->
 
-[^4]: <https://linktr.ee/prof_alcunha>
+[^5]: <https://linktr.ee/prof_alcunha>
 
-[^5]: Interview featured on Rede Globo’s Jornal Hoje program
+[^6]: Interview featured on Rede Globo’s Jornal Hoje program
     (<https://globoplay.globo.com/v/8165879/>).
 
-[^6]: Exchange rates used: EUR 1.00 $\approx$ BRL 6.30; USD 1.00
+[^7]: Exchange rates used: EUR 1.00 $\approx$ BRL 6.30; USD 1.00
     $\approx$ BRL 5.50; AUD 1.00 $\approx$ BRL 3.50.

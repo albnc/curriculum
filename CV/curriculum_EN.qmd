@@ -39,6 +39,7 @@ Office Address
 Key links
 : [Google Scholar](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en) [^gscholar] |
 [ORCID](https://orcid.org/0000-0002-0520-0621) [^orcid] | 
+[WoS](https://www.webofscience.com/wos/author/record/U-4375-2019) [^wos] |
 [LinkedIn](https://www.linkedin.com/in/prof-alcunha/) [^linkedin] |
 <!-- [Lattes](http://lattes.cnpq.br/7996696632908127) [^lattes] | -->
 [LinkTree](https://linktr.ee/prof_alcunha) [^ltree]
@@ -56,6 +57,7 @@ Research Keywords
 
 [^gscholar]: <https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en>
 [^orcid]: <https://orcid.org/0000-0002-0520-0621>
+[^wos]: <https://www.webofscience.com/wos/author/record/U-4375-2019>
 [^linkedin]: <https://www.linkedin.com/in/prof-alcunha/>
 <!-- [^lattes]: <http://lattes.cnpq.br/7996696632908127> -->
 [^ltree]: <https://linktr.ee/prof_alcunha>

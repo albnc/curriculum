@@ -309,9 +309,9 @@ Logistics
 
 # SUPERVISION 
 
-- **PhD Students**: 6 (2 completed, 4 ongoing)
-- **MSc Students**: 17 (13 completed, 4 ongoing)
-- **Scientific Initiation**: 16 (14 completed, 2 ongoing)
+- **PhD Students**: 6 (3 completed, 3 ongoing)
+- **MSc Students**: 15 (12 completed, 3 ongoing)
+- **Scientific Initiation**: 18 (16 completed, 2 ongoing)
 - **Undergraduate Projects**: 25 completed
 
 # RESEARCH INCOME 

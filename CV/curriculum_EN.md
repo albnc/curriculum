@@ -401,7 +401,8 @@ sustainable mobility solutions.
 1.  <u>LOURO, T.V.</u>; GRIGILON, A.B.; TIRACHINI, A.; **CUNHA, A.L.**;
     GEURS, K.T. (2026) “How Do E-Bikes Measure Up? Analyzing Speed
     Differences and Network Impacts of São Paulo’s Bikesharing System”.
-    Transportation. \<DOI: []()\>
+    Transportation. \<DOI:
+    [10.31224/5719](https://doi.org/10.31224/5719)\>
 
 2.  <u>LOURO, T.V.</u>; GRIGILON, A.B.; **CUNHA, A.L.**; GEURS,
     K.T. (2025) “E-bikes’ impact on job accessibility and equity in São

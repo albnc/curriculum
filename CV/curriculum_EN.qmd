@@ -16,8 +16,9 @@ format:
       - right=15mm
       - top=20mm
       - bottom=20mm
-    numbersections: false
+    numbersections: true
     urlcolor: "blue"
+    link-citations: true
 ---
 
 <!-- **André Luiz Barbosa Nunes da Cunha**, Ph.D.    -->
@@ -47,15 +48,48 @@ Key links
 Research Keywords
 : Transport Modelling, Artificial Intelligence, Computer Vision, Urban Mobility, Accessibility, Vulnerability, Smart Cities, Simulation, Logistics
 
-
+<!--
 [^gscholar]: <https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en>
 [^orcid]: <https://orcid.org/0000-0002-0520-0621>
 [^wos]: <https://www.webofscience.com/wos/author/record/U-4375-2019>
 [^linkedin]: <https://www.linkedin.com/in/prof-alcunha/>
-<!-- [^lattes]: <http://lattes.cnpq.br/7996696632908127> -->
+[^lattes]: <http://lattes.cnpq.br/7996696632908127>
 [^ltree]: <https://linktr.ee/prof_alcunha>
+-->
+
+# EXECUTIVE SUMMARY \hrulefill
+
+> André Luiz Barbosa Nunes da Cunha, Ph.D. is an Assistant Professor of Civil Engineering at the University of São Paulo (USP), Brazil. He specializes in Transport Modelling, Artificial Intelligence, Urban Mobility, and Traffic Simulation. His career blends academic rigor with practical industry consultancy, specifically in highway safety and infrastructure design.
+
+## Key Highlights
+
+  Academic Leadership
+  : Tenured-track professor at USP with international visiting positions in Australia (UniMelb), Croatia (UNIZG), Portugal (UMINHO), and Germany (TUM). *All list of positions on [Sec. @sec-academic]*
+
+  Research Funding
+  : Secured over BRL 18.6 million (approx. USD 3.38M) in research grants for projects spanning intelligent transport systems and sustainable mobility solutions. *All list of research funding at [Sec. @sec-academic]*
+
+  Industry Impact
+  : Serves as a technical consultant for major highway concessionaires in Brazil (CCR, ARTERIS), focusing on the design and validation of truck escape ramps.
+
+  Supervision
+  : Has supervised over 60 students, including 6 PhD and 15 MSc candidates, alongside numerous undergraduate projects.
+
+  Technical Expertise
+  : Proficient in AI tools (OpenCV, CrewAI), programming (Python, R, C++), and traffic simulation software (VISSIM, AIMSUN, TSIS-CORSIM).
+
+## Selected Key Publications
+
+  1. E-Bikes & Network Impacts (2026): "How Do E-Bikes Measure Up? Analyzing Speed Differences and Network Impacts of São Paulo's Bikesharing System" — Transportation.
+
+  1. Accessibility & Equity (2025): "E-bikes' impact on job accessibility and equity in São Paulo and Rio" — Transportation Research Part D: Transport and Environment.
+
+  1. AI & Crash Prediction (2023): "Integrating a non-gridded space representation into a graph neural networks model for citywide short-term crash risk prediction" — Urban Informatics.
+
+  1. Network Vulnerability (2021): "Measuring urban road network vulnerability to extreme events: An application for urban floods" — Transportation Research Part D: Transport and Environment.
 
 
+\newpage
 
 # EDUCATION \hrulefill
 
@@ -82,7 +116,7 @@ Federal University of Mato Grosso do Sul (UFMS), Campo Grande, Brazil\
 
 # EXPERIENCE \hrulefill
 
-## Academic Appointments
+## Academic Appointments {#sec-academic}
 
 1. **University of São Paulo (USP-EESC)** \hfill Jul. 2014 -- present\
 *Assistant Professor (MS-3.2) \hfill São Carlos, Brazil*\
@@ -232,7 +266,7 @@ Elective course in the Transportation Engineering Program. Coordinate the course
 - **Scientific Initiation**: 18 (16 completed, 2 ongoing)
 - **Undergraduate Projects**: 25 completed
 
-# RESEARCH INCOME \hrulefill
+# RESEARCH INCOME \hrulefill {#sec-income}
 
 
 I have secured over **BRL 18,600,000**[^grants] (approximately USD 3,381,818 | EUR 2,952,381 | AUD 5,314,286) in research funding, during my tenure at USP, with projects spanning intelligent transport systems and sustainable mobility solutions.

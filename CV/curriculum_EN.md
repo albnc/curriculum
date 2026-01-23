@@ -1,11 +1,9 @@
-# André Luiz Barbosa Nunes da Cunha, Ph.D.
-Assistant Professor of Civil Engineering
 
-<!-- **André Luiz Barbosa Nunes da Cunha**, Ph.D.    -->
 
-<!-- *Professor of Civil Engineering* -->
+# André Luiz Barbosa Nunes da Cunha, Ph.D. 
 
-# PERSONAL DETAILS 
+*Assistant Professor of Civil Engineering \| Transport Modelling \| AI
+Specialist*
 
 E-mail  
 <alcunha@usp.br>
@@ -13,41 +11,110 @@ E-mail
 Phone  
 +55 16 98119 2339
 
-Office Address  
-Departament of Transport Engineering,
-
+Office  
 University of São Paulo ([USP](https://www5.usp.br/en)), São Carlos
-School of Engineering ([EESC](https://eesc.usp.br/en/)),
+School of Engineering ([EESC](https://eesc.usp.br/en/)), Departament of
+Transport Engineering ([STT](https://eesc.usp.br/ppgs/stt/))
+
+Av. Trabalhador Sãocarlense, 400.
+
+Parque Arnold Schimidt. 13566-590.
 
 São Carlos, São Paulo, Brazil
 
 Key links  
 [Google
 Scholar](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en)
-[^1] \| [ORCID](https://orcid.org/0000-0002-0520-0621) [^2] \|
-[WoS](https://www.webofscience.com/wos/author/record/U-4375-2019) [^3]
-\| [LinkedIn](https://www.linkedin.com/in/prof-alcunha/) [^4] \|
+\| [ORCID](https://orcid.org/0000-0002-0520-0621) \|
+[WoS](https://www.webofscience.com/wos/author/record/U-4375-2019) \|
+[LinkedIn](https://www.linkedin.com/in/prof-alcunha/) \|
 <!-- [Lattes](http://lattes.cnpq.br/7996696632908127) [^lattes] | -->
-[LinkTree](https://linktr.ee/prof_alcunha) [^5]
+[LinkTree](https://linktr.ee/prof_alcunha)
 
-Research Keywords  
-Transport Modelling, Artificial Intelligence, Computer Vision, Urban
-Mobility, Accessibility, Vulnerability, Smart Cities, Simulation,
-Logistics
+Research keywords  
+Transport Modelling, AI, Computer Vision, Urban Mobility, Accessibility,
+Vulnerability, Smart Cities, Simulation, Logistics
 
-<!-- <alcunha@usp.br> | -->
+<!--
+[^gscholar]: <https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en>
+[^orcid]: <https://orcid.org/0000-0002-0520-0621>
+[^wos]: <https://www.webofscience.com/wos/author/record/U-4375-2019>
+[^linkedin]: <https://www.linkedin.com/in/prof-alcunha/>
+[^lattes]: <http://lattes.cnpq.br/7996696632908127>
+[^ltree]: <https://linktr.ee/prof_alcunha>
+-->
 
-<!-- [Google Scholar](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en) [^gscholar] | -->
+# SUMMARY
 
-<!-- [ORCID](https://orcid.org/0000-0002-0520-0621) [^orcid] |  -->
+Profile Overview  
+Dr. Cunha is a tenured professor and technical consultant with over 10
+years of experience bridging the gap between academic research and
+industrial application. His expertise lies in using Artificial
+Intelligence and Computer Vision to solve complex Urban Mobility and
+Logistics challenges. He combines a strong record of securing grant
+funding with practical consultancy for major highway concessionaires.
 
-<!-- [LinkedIn](https://www.linkedin.com/in/prof-alcunha/) [^linkedin] | -->
+## Key Highlights
 
-<!-- <!-- [Lattes](http://lattes.cnpq.br/7996696632908127) [^lattes] | -->
+Global Mobility  
+Visiting positions at University of Melbourne (Australia), TUM
+(Germany), Universty of Zagreb (Croatia), and University of Minho
+(Portugal). *\[See
+<a href="#sec-academic" class="quarto-xref">section 3.1</a>\]*
 
-<!-- [LinkTree](https://linktr.ee/prof_alcunha) [^ltree] -->
+Industry Impact  
+Serves as a technical consultant for major highway concessionaires in
+Brazil (Motiva-CCR, ARTERIS), focusing on the design and validation of
+truck escape ramps. *\[See
+<a href="#sec-professional" class="quarto-xref">section 3.2</a>\]*
 
-# EDUCATION 
+Teaching Quality  
+Achieved 4.5/5.0 student ratings implementing Project-Based Learning and
+Inverted Classroom strategies. Experience in 10 undergraduate courses (4
+mandatory, 6 elective) and 6 graduate courses (2 mandatory, 4
+elective).*\[See
+<a href="#sec-lecturer" class="quarto-xref">section 4</a>\]*
+
+Talent Development  
+Supervised 60+ researchers, including 6 PhD students, 15 MSc students,
+18 Scientific Initiation, and 25+ undergraduate projects. *\[See
+<a href="#sec-supervision" class="quarto-xref">section 5</a>\]*
+
+Research Funding  
+Secured over BRL 18.6 Million (~USD 3.38M) in public and private grants.
+*\[See <a href="#sec-budget" class="quarto-xref">Section 6</a>\]*
+
+Awards  
+4 (2 Best Paper Awards, 2 Best Professor Awards). *\[See
+<a href="#sec-awards" class="quarto-xref">section 8</a>\]*
+
+Technical Expertise  
+Proficient in AI tools (OpenCV, CrewAI), programming (Python, R, C++),
+and traffic simulation software (VISSIM, AIMSUN, TSIS-CORSIM). *\[See
+<a href="#sec-skills" class="quarto-xref">section 10</a>\]*
+
+## Selected Key Publications
+
+*A complete list is in
+<a href="#sec-publications" class="quarto-xref">section 7</a>.*
+
+1.  E-Bikes & Network Impacts (2026): “How Do E-Bikes Measure Up?
+    Analyzing Speed Differences and Network Impacts of São Paulo’s
+    Bikesharing System” — Transportation.
+
+2.  Accessibility & Equity (2025): “E-bikes’ impact on job accessibility
+    and equity in São Paulo and Rio” — Transportation Research Part D:
+    Transport and Environment.
+
+3.  AI & Crash Prediction (2023): “Integrating a non-gridded space
+    representation into a graph neural networks model for citywide
+    short-term crash risk prediction” — Urban Informatics.
+
+4.  Network Vulnerability (2021): “Measuring urban road network
+    vulnerability to extreme events: An application for urban floods” —
+    Transportation Research Part D: Transport and Environment.
+
+# EDUCATION
 
 1.  **Ph.D. in Transportation Engineering** Nov. 2013  
     University of São Paulo (USP), São Carlos School of Engineering
@@ -76,7 +143,7 @@ Logistics
     Brazil  
     *GPA*: 3.79/4.00 $\rightarrow$ (9.5/10.0)
 
-# EXPERIENCE 
+# EXPERIENCE
 
 ## Academic Appointments
 
@@ -146,7 +213,7 @@ Logistics
     Directed field testing of BR-376’s km 667 truck escape ramp,
     developing protocols and analyzing performance metrics for loaded
     vehicles at multiple approach speeds, with findings implemented in
-    concessionaire safety standards[^6]. Delivered a detailed technical
+    concessionaire safety standards[^1]. Delivered a detailed technical
     assessment of ramp functionality under real-world conditions.
 
 4.  **University of São Paulo (USP-EESC)** Feb. 2013 – Jun. 2014  
@@ -169,7 +236,7 @@ Logistics
     building maintenance, and participated in the supervision of ongoing
     construction projects at ICMC.
 
-# TEACHING EXPERIENCE 
+# TEACHING EXPERIENCE
 
 ## Lecturer at the University of São Paulo (USP)
 
@@ -307,16 +374,117 @@ Logistics
     foundational introduction to R programming for solving transport
     engineering problems.
 
-# SUPERVISION 
+# SUPERVISION
 
 - **PhD Students**: 6 (3 completed, 3 ongoing)
 - **MSc Students**: 15 (12 completed, 3 ongoing)
 - **Scientific Initiation**: 18 (16 completed, 2 ongoing)
 - **Undergraduate Projects**: 25 completed
 
-# RESEARCH INCOME 
+## Completed
 
-I have secured over **BRL 18,600,000**[^7] (approximately USD 3,381,818
+1.  Ph.D. (2025-12-08) : [Leandro Arab
+    Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en)
+    “*Classification of trucks by axles using Deep Learning and a Large
+    Multimodal Model*”
+
+2.  Ph.D. (2025-05-23) : [Andre Borgato
+    Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en)
+    “*Analysis of Flood Vulnerability in Brazilian Urban Networks Using
+    Graph Theory Tools.*”
+
+3.  M.Sc. (2024-08-27): [Crhistian Emilio Ribeiro]() “*[Evaluation of
+    deep neural networks for vehicle detection in satellite
+    images](https://doi.org/10.11606/D.18.2024.tde-31102024-114415)*”
+
+4.  M.Sc. (2022-08-19): [Paola Yumi
+    Matsumoto](https://lattes.cnpq.br/6933325479741942) “*[Calibration
+    of Cellular Automata model for simulation of the traffic flow
+    behavior in São Paulo
+    roads](https://doi.org/10.11606/D.18.2022.tde-18102022-103557)*”
+
+5.  M.Sc. (2021-08-05): [Helena Stein
+    Stefani](https://lattes.cnpq.br/2263620972100266) “*[Urban roadway
+    traffic flow prediction from crowdsourced speed
+    data](https://doi.org/10.11606/D.18.2021.tde-22082022-091919)*”
+
+6.  M.Sc. (2020-12-10): [Alceu Dal Bosco
+    Junior](https://lattes.cnpq.br/7512695029586698) “*[Usability of
+    Points of Interest and network centralities of collaborative maps
+    for trip attraction analysis: case study of
+    Curitiba](https://doi.org/10.11606/D.18.2020.tde-18042022-143053)*”
+
+7.  M.Sc. (2019-10-22): [Andre Borgato
+    Morelli](https://lattes.cnpq.br/5248357327146113) “*[Exploratory
+    analysis of resilience in urban road
+    networks](https://doi.org/10.11606/D.18.2020.tde-13012020-153303)*”
+
+8.  M.Sc. (2019-06-28): [Bruna
+    Kuramoto](https://lattes.cnpq.br/3302815314452867) “*[Data
+    exploration of collaborative maps in evaluations of Brazilian urban
+    morphologies](https://doi.org/10.11606/D.18.2019.tde-20082019-084513)*”
+
+9.  M.Sc. (2019-06-28): [Adriano Belletti
+    Felicio](https://lattes.cnpq.br/1581979506356539) “*[Evaluation of
+    the behavior of motorcyclists through the video image processing
+    system](https://doi.org/10.11606/D.18.2020.tde-12052020-170835)*”
+
+10. M.Sc. (2018-09-13): [Natália Ribeiro
+    Panice](https://lattes.cnpq.br/3462901770011968) “*[Truck axle
+    detection automatic method based on
+    images](https://doi.org/10.11606/D.18.2018.tde-11122018-213600)*”
+
+11. M.Sc. (2018-09-03): [Mariana Marçal
+    Thebit](https://lattes.cnpq.br/9374994847060943) “*[Reconstruction
+    of a synthetic O/D matrix using traffic data available on the
+    web](https://doi.org/10.11606/D.18.2018.tde-10122018-225948)*”
+
+12. M.Sc. (2018-08-10): [Leandro Arab
+    Marcomini](https://lattes.cnpq.br/3128200022537201) “*[Automatic
+    identification of traffic behavior using video
+    images](https://doi.org/10.11606/D.18.2018.tde-01102018-102649)*”
+
+13. M.Sc. (2018-07-20): [Gabriel Jurado Martins de
+    Oliveira](https://lattes.cnpq.br/1828432370828925) “*[Calibration of
+    speed-flow relationship for freeways and multilane
+    highways](https://doi.org/10.11606/D.18.2018.tde-10092018-150848)*”
+
+14. M.Sc. (2017-08-10): [Elaine Rodrigues
+    Ribeiro](https://lattes.cnpq.br/4988917064689096) “*[Exploratory
+    method analysis using Wavelet to detect patterns and anomalies in
+    traffic history
+    data](https://doi.org/10.11606/D.18.2017.tde-07112017-212156)*”
+
+## In progress
+
+1.  M.Sc. : [Andressa Vitório
+    Costa](http://lattes.cnpq.br/7862988333397510) “*Accessibility to
+    Social Services in Belo Horizonte-MG*”
+
+2.  M.Sc. : [Maria Eduarda Saquetto
+    Michelini](http://lattes.cnpq.br/6355612958124418) “*Development of
+    an Emission Estimation Model for Brazilian Cases*”
+
+3.  M.Sc. : [Rodrigo Otávio Fraga Peixoto de
+    Oliveira](http://lattes.cnpq.br/3660336154224847) “*Urban resilience
+    assessment through a comparative study of flood prediction methods*”
+
+4.  Ph.D. : [Elaine Rodrigues Ribeiro]() “*Analysis of motorcyclist’
+    behaviour on urban segments: Relationship between riding patterns
+    and rider profile*”
+
+5.  Ph.D. : [Thiago Vinícius
+    Louro](https://lattes.cnpq.br/2619402198229137) “*Examining The
+    Impacts Of Electric Bicycles On Accessibility To Jobs And Spatial
+    Equity*”
+
+6.  Ph.D. : [Pedro Henrique Caldeira
+    Caliari](http://lattes.cnpq.br/7503266177637246) “*Evaluation of
+    causal inference and spatial effects on travel behavior*”
+
+# RESEARCH INCOME
+
+I have secured over **BRL 18,600,000**[^2] (approximately USD 3,381,818
 \| EUR 2,952,381 \| AUD 5,314,286) in research funding, during my tenure
 at USP, with projects spanning intelligent transport systems and
 sustainable mobility solutions.
@@ -385,9 +553,9 @@ sustainable mobility solutions.
     Role: Co-Principal Investigator 2013–2016  
     Sponsor: CAPES/FCT Program (Process 39/2017), Brazil
 
-# PUBLICATIONS 
+# PUBLICATIONS
 
-- *Students advised by prof. A.L. Cunha are underlined*
+> *Students advised by prof. A.L. Cunha are underlined*
 
 ## Submitted Manuscripts
 
@@ -401,13 +569,14 @@ sustainable mobility solutions.
 1.  <u>LOURO, T.V.</u>; GRIGILON, A.B.; TIRACHINI, A.; **CUNHA, A.L.**;
     GEURS, K.T. (2026) “How Do E-Bikes Measure Up? Analyzing Speed
     Differences and Network Impacts of São Paulo’s Bikesharing System”.
-    Transportation. \<DOI:
-    [10.31224/5719](https://doi.org/10.31224/5719)\>
+    Transportation.  
+    \<DOI: [10.31224/5719](https://doi.org/10.31224/5719)\>
 
 2.  <u>LOURO, T.V.</u>; GRIGILON, A.B.; **CUNHA, A.L.**; GEURS,
     K.T. (2025) “E-bikes’ impact on job accessibility and equity in São
     Paulo and Rio”. Transportation Research Part D: Transport and
-    Environment. \<DOI:
+    Environment.  
+    \<DOI:
     [10.1016/j.trd.2025.105072](https://doi.org/10.1016/j.trd.2025.105072)\>
 
 3.  <u>DE OLIVEIRA, G.J.M.</u>; LAVIERI, P.S.; **CUNHA, A.L.** (2023)
@@ -732,7 +901,7 @@ sustainable mobility solutions.
     Research and Teaching in Transport Congress, 2006, Brasília.
     Proceedings of the XX ANPET, v.I, p.88–99.
 
-# AWARDS & HONORS 
+# AWARDS & HONORS
 
 - **ANPET Scientific Production Award** 2023  
   National Agency for Transportation Research and Education (ANPET),
@@ -753,7 +922,7 @@ sustainable mobility solutions.
   5th Innovation Salon of the Brazilian Association of Highway
   Concessionaires (ABCR), Brazil.
 
-# PROFESSIONAL SERVICES 
+# PROFESSIONAL SERVICES
 
 - **Academic Service**: Member of Department Council of Transport
   Engineering, Research and Innovation Committee (CPqI), Graduate
@@ -774,7 +943,7 @@ sustainable mobility solutions.
   International Scientific Conference (ZIRP), International Symposium
   ELMAR, The Science and Development of Transport (TRANSCODE).
 
-# TECHNICAL SKILLS 
+# TECHNICAL SKILLS
 
 - **Programming languages**: C++, R, Python, Julia, HTML, CSS,
   JavaScript, Matlab
@@ -785,19 +954,8 @@ sustainable mobility solutions.
 - **Languages**: Portuguese (native), English (advanced), Spanish
   (basic)
 
-[^1]: <https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en>
-
-[^2]: <https://orcid.org/0000-0002-0520-0621>
-
-[^3]: <https://www.webofscience.com/wos/author/record/U-4375-2019>
-
-[^4]: <https://www.linkedin.com/in/prof-alcunha/>
-    <!-- [^lattes]: <http://lattes.cnpq.br/7996696632908127> -->
-
-[^5]: <https://linktr.ee/prof_alcunha>
-
-[^6]: Interview featured on Rede Globo’s Jornal Hoje program
+[^1]: Interview featured on Rede Globo’s Jornal Hoje program
     (<https://globoplay.globo.com/v/8165879/>).
 
-[^7]: Exchange rates used: EUR 1.00 $\approx$ BRL 6.30; USD 1.00
+[^2]: Exchange rates used: EUR 1.00 $\approx$ BRL 6.30; USD 1.00
     $\approx$ BRL 5.50; AUD 1.00 $\approx$ BRL 3.50.

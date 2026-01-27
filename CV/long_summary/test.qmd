@@ -18,17 +18,39 @@ format:
 ---
 
 # ANDRÉ LUIZ BARBOSA NUNES DA CUNHA, Ph.D. {-}
-
 **Assistant Professor of Civil Engineering | Transport Modelling | AI Specialist**\
 *University of São Paulo ([USP](https://www5.usp.br/en)), São Carlos School of Engineering ([EESC](https://eesc.usp.br/en/)), Departament of Transport Engineering ([STT](https://eesc.usp.br/ppgs/stt/))*\
-*São Carlos, SP, Brazil* 
-
 <alcunha@usp.br> | +55 16 3373 9597 | +55 16 98119 2339\
-[[Google Scholar]](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en) |
-[[ORCID]](https://orcid.org/0000-0002-0520-0621)  | 
-[[WoS]](https://www.webofscience.com/wos/author/record/U-4375-2019)  |
-[[LinkedIn]](https://www.linkedin.com/in/prof-alcunha/)  |
-[[LinkTree]](https://linktr.ee/prof_alcunha) 
+[Google Scholar](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en) |
+[ORCID](https://orcid.org/0000-0002-0520-0621)  | 
+[WoS](https://www.webofscience.com/wos/author/record/U-4375-2019)  |
+[LinkedIn](https://www.linkedin.com/in/prof-alcunha/)  |
+[LinkTree](https://linktr.ee/prof_alcunha) 
+
+\hrulefill
+
+E-mail
+: <alcunha@usp.br>
+
+Phone
+: +55 16 98119 2339
+
+Office
+: University of São Paulo ([USP](https://www5.usp.br/en)), São Carlos School of Engineering ([EESC](https://eesc.usp.br/en/)), Departament of Transport Engineering ([STT](https://eesc.usp.br/ppgs/stt/))
+: Av. Trabalhador Sãocarlense, 400. 
+: Parque Arnold Schimidt. 13566-590.
+: São Carlos, São Paulo, Brazil
+
+Key links
+: [Google Scholar](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en) |
+[ORCID](https://orcid.org/0000-0002-0520-0621)  | 
+[WoS](https://www.webofscience.com/wos/author/record/U-4375-2019)  |
+[LinkedIn](https://www.linkedin.com/in/prof-alcunha/)  |
+<!-- [Lattes](http://lattes.cnpq.br/7996696632908127) [^lattes] | -->
+[LinkTree](https://linktr.ee/prof_alcunha) 
+
+Research keywords
+: Transport Modelling, AI, Computer Vision, Urban Mobility, Accessibility, Vulnerability, Smart Cities, Simulation, Logistics
 
 <!--
 [^gscholar]: <https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en>
@@ -40,297 +62,153 @@ format:
 -->
 
 \hrulefill
-# PROFESSIONAL SUMMARY
+# SUMMARY
 
-**Tenured Assistant Professor and Technical Lead** with 12+ years of experience bridging the gap between academic research and industrial application. Specializes in *Transport Modelling, Highway Safety, Artificial Intelligence, and Urban mobility*. Proven track record of securing major grant funding and translating complex R&D into operational safety standards for Brazil’s largest highway concessionaires.
-
-
-| **Career performance dashboard** | |
-| :-- | :------- |
-| **Research Funding** | Secured **~USD 3.38 Million** (BRL 18.6M) in competitive grants. |
-| **Industry Impact** | Defined safety standards for **Truck Escape Ramps** (CCR & ARTERIS). |
-| **Talent Leadership** | Directed **60+ researchers** (6 PhD, 15 MSc, 25+ Undergraduate). |
-| **Global Mobility** | Visiting roles in **Australia, Germany, Croatia, & Portugal**. |
-| **Tech Stack** | **R/Python (OpenCV),** VISSIM, AIMSUN, SUMO, Deep Learning Models. |
+Profile Overview
+: Dr. Cunha is a tenured professor and technical consultant with over 10 years of experience bridging the gap between academic research and industrial application. His expertise lies in using Artificial Intelligence and Computer Vision to solve complex Urban Mobility and Logistics challenges. He combines a strong record of securing grant funding with practical consultancy for major highway concessionaires.
 
 
-## Core competencies
+## Key Highlights
 
-| **Domain** | **Skills & Tools** |
-| :-- | :------ |
-| **Data Science & AI** | Python, R, SQL, C++, OpenCV, Deep Learning. |
-| **Civil Engineering** | AutoCAD, Civil3D, Revit. |
-| **Traffic Simulation** | VISSIM, AIMSUN, SUMO, MATSim, TSIS-CORSIM, Calibration & Validation. |
-| **Highway Safety** | Geometric Design, Truck Escape Ramps (Design/Test), Crash Prediction Models. |
-| **Languages** | Portuguese (Native), English (Advanced), Spanish (Basic). |
+Global Mobility	
+: Visiting positions at University of Melbourne (Australia), TUM (Germany), Universty of Zagreb (Croatia), and University of Minho (Portugal). *[See [section @sec-academic]]*
+
+Industry Impact
+: Serves as a technical consultant for major highway concessionaires in Brazil (Motiva-CCR, ARTERIS), focusing on the design and validation of truck escape ramps. *[See [section @sec-professional]]*
+
+Teaching Quality	
+: Achieved 4.5/5.0 student ratings implementing Project-Based Learning and Inverted Classroom strategies. Experience in 10 undergraduate courses (4 mandatory, 6 elective) and 6 graduate courses (2 mandatory, 4 elective).*[See [section @sec-lecturer]]*
+
+Talent Development	
+:  Supervised 60+ researchers, including 6 PhD students, 15 MSc students, 18 Scientific Initiation, and 25+ undergraduate projects. *[See [section @sec-supervision]]*
+
+Research Funding	
+: Secured over BRL 18.6 Million (~USD 3.38M) in public and private grants. *[See [Section @sec-budget]]*
 
 
-## Selected high-impact publications (Top 5)
+Awards
+: 4 (2 Best Paper Awards, 2 Best Professor Awards). *[See [section @sec-awards]]*
+
+Technical Expertise
+: Proficient in AI tools (OpenCV, CrewAI), programming (Python, R, C++), and traffic simulation software (VISSIM, AIMSUN, TSIS-CORSIM). *[See [section @sec-skills]]*
+
+
+## Selected Key Publications
 
 > *A complete list is in [section @sec-publications].*
 
-  1. **E-Bikes & Network Impacts**: Louro et al. (2026) "How Do E-Bikes Measure Up? Analyzing Speed Differences and Network Impacts of São Paulo's Bikesharing System" — *Transportation*.
+  1. E-Bikes & Network Impacts (2026): "How Do E-Bikes Measure Up? Analyzing Speed Differences and Network Impacts of São Paulo's Bikesharing System" — Transportation.
 
-  1. **Accessibility & Equity**: Louro et al. (2025) "E-bikes' impact on job accessibility and equity in São Paulo and Rio" — *Transportation Research Part D: Transport and Environment*.
+  1. Accessibility & Equity (2025): "E-bikes' impact on job accessibility and equity in São Paulo and Rio" — Transportation Research Part D: Transport and Environment.
 
-  1. **AI & Crash Prediction**: Oliveira et al. (2023) "Integrating a non-gridded space representation into a graph neural networks model for citywide short-term crash risk prediction" — *Urban Informatics*.
+  1. AI & Crash Prediction (2023): "Integrating a non-gridded space representation into a graph neural networks model for citywide short-term crash risk prediction" — Urban Informatics.
 
-  1. **Network Vulnerability**: Morelli & Cunha (2021) "Measuring urban road network vulnerability to extreme events: An application for urban floods" — *Transportation Research Part D: Transport and Environment*.
+  1. Network Vulnerability (2021): "Measuring urban road network vulnerability to extreme events: An application for urban floods" — Transportation Research Part D: Transport and Environment.
 
 
+\newpage
 
 \hrulefill
-
 # EDUCATION 
 
-1. **Ph.D. in Transportation Engineering** \dotfill Nov. 2013\
-    University of São Paulo (USP), São Carlos School of Engineering (EESC), Brazil
-      - *Thesis*: "`Automatic system for vehicular traffic parameters using OpenCV`"
-      <!-- *Advisor*: Prof. José Reynaldo Anselmo Setti\ -->
-      - *DOI*: [10.11606/T.18.2013.tde-19112013-165611](https://doi.org/10.11606/T.18.2013.tde-19112013-165611)
-      - *Distinction*: Funded by CNPq (National Council for Scientific and Technological Development), Brazil.  
+1. **Ph.D. in Transportation Engineering** \hfill Nov. 2013\
+University of São Paulo (USP), São Carlos School of Engineering (EESC), Brazil\
+*Thesis*: "`Automatic system for vehicular traffic parameters using OpenCV`"\
+*Advisor*: Prof. José Reynaldo Anselmo Setti\
+*DOI*: [10.11606/T.18.2013.tde-19112013-165611](https://doi.org/10.11606/T.18.2013.tde-19112013-165611)\
+Funded by National Council for Scientific and Technological Development (CNPq), Brazil.  
 
 
-2. **M.Sc. in Transportation Engineering** \dotfill Oct. 2007\
-University of São Paulo (USP), São Carlos School of Engineering (EESC), Brazil
-      - *Thesis*: "`Evaluation of performance measurement impact on truck passenger car equivalents`"
-      <!-- *Advisor*: Prof. José Reynaldo Anselmo Setti\ -->
-      - *DOI*: [10.11606/D.18.2007.tde-27112007-094400](https://doi.org/10.11606/D.18.2007.tde-27112007-094400)
-      - *Distinction*: Funded by CNPq, Brazil.
+2. **M.Sc. in Transportation Engineering** \hfill Oct. 2007\
+University of São Paulo (USP), São Carlos School of Engineering (EESC), Brazil\
+*Thesis*: "`Evaluation of performance measurement impact on truck passenger car equivalents`"\
+*Advisor*: Prof. José Reynaldo Anselmo Setti\
+*DOI*: [10.11606/D.18.2007.tde-27112007-094400](https://doi.org/10.11606/D.18.2007.tde-27112007-094400)\
+Funded by National Council for Scientific and Technological Development (CNPq), Brazil.
 
 
-3. **B.S. in Civil Engineering** \dotfill Feb. 2004\
-Federal University of Mato Grosso do Sul (UFMS), Brazil
-      - *GPA*: 3.79/4.00 $\rightarrow$ (9.5/10.0), (Highest Honors)
+3. **B.S. in Civil Engineering** \hfill Feb. 2004\
+Federal University of Mato Grosso do Sul (UFMS), Campo Grande, Brazil\
+*GPA*: 3.79/4.00 $\rightarrow$ (9.5/10.0)
 
 
 \hrulefill
-# INDUSTRY R&D
+# EXPERIENCE 
 
-## Technology transfer {#sec-professional}
+## Academic Appointments {#sec-academic}
 
-1. **CCR Highway RioSP (Via Dutra)** | *Technical Lead / PI* \dotfill Apr. 2025 -- Dec. 2025
-    <!-- *Technical Lead / Principal Investigator – Transportation Engineering Projects \hfill São Paulo, Brazil*\ -->
-    <!-- - Validate the operational speed of trucks on Via Dutra’s new descending lane, in Rio de Janeiro (BR-116 highway). -->
-    * **Project:** Validation of operational speeds on new descending ramp in Rio de Janeiro (Serra das Araras).
-    * **Outcome:** Developed simulation models to stress-test ramp designs. Results defined the new safety standards for the concessionaire's heavy vehicle protocols.
+1. **University of São Paulo (USP-EESC)** \hfill Jul. 2014 -- present\
+*Assistant Professor (MS-3.2) \hfill São Carlos, Brazil*\
+Tenured-track position, Full Dedication to Teaching and Research Regime (RDIDP)
 
 
-1. **CCR Highway RioSP (Via Dutra)** | *Technical Lead / PI* \dotfill Jun. 2023 -- Dec. 2023
-<!-- *Technical Consultant – Transportation Engineering Projects \hfill São Paulo, Brazil*\ -->
-<!-- Evaluated site conditions to determine optimal placement of truck escape ramps on Via Dutra’s new descending lane, in Rio de Janeiro (BR-116 highway). Simulated operational scenarios to validate design effectiveness. -->
-    * **Project:** Truck Escape Ramp Design (Serra das Araras).
-    * **Outcome:** Developed simulation models determine optimal placement of truck escape ramps on Via Dutra’s new descending lane.
+1. **University of Zagreb (UNIZG)** \hfill Apr. 2022\
+*Visiting Lecturer \hfill Zagreb, Croatia*\
+ERASMUS+ Program: Virtual Teaching Mobility Agreement (Workload: 8h)
 
-1. **ARTERIS Autopista Litoral Sul (ALS)** | *Technical Lead / PI* \dotfill Nov. 2019 -- Dec. 2019
-<!-- *Technical Consultant – Transportation Engineering Projects \hfill Curitiba, Brazil*\ -->
-<!-- Directed field testing of BR-376's km 667 truck escape ramp, developing protocols and analyzing performance metrics for loaded vehicles at multiple approach speeds, with findings implemented in concessionaire safety standards[^ALS]. Delivered a detailed technical assessment of ramp functionality under real-world conditions. -->
-    * **Project:** Field Performance Testing of Truck Escape Ramps (BR-376), Curitiba, Brazil.
-    * **Outcome:** Directed full-scale field tests with instrumented trucks. Established safe approach speed limits[^ALS] now enforced on the highway.
+1. **University of Melbourne (UniMelb)** \hfill Jan. 2020 -- Dec 2020\
+*Visiting Professor \hfill Melbourne, Australia*\
+CAPES-Print Program – Junior Visiting Professor No. 88887.371506/2019-00 
 
-1. **Transport Engineering Consultants Ltd. (TECTRAN)** | *Transport Planning Consultant* \dotfill Apr. 2012 -- Dec. 2012
-<!-- *Consultant in Transport Planning and Engineering \hfill Belo Horizonte, Brazil*\ -->
-<!-- Led the development and integration of structured databases to support EPELT, the Transport Logistics Planning Office of the Minas Gerais State Secretariat. -->
-    * **Project:** State Logistics Plan (PELT), Minas Gerais, Brazil.
-    * **Outcome:** Led the database architecture integration for state-wide logistics planning.
+1. **University of Zagreb (UNIZG)** \hfill Jun. 2018\
+*Visiting Lecturer \hfill Zagreb, Croatia*\
+ERASMUS+ Program: Higher Education Mobility Agreement (UNIZG/USP-EESC) (Workload: 13h)
 
-<!-- 1. **University of São Paulo (USP-EESC)** | *Research Assistant* \dotfill Feb. 2013 -- Jun. 2014 -->
-<!-- <!-- *Research Assistant (Laboratory Specialist) \hfill São Carlos, Brazil*\ -->
-<!-- Develop scientific research in projects led by faculty, with didactic-scientific and extension focus. -->
+1. **University of São Paulo (USP)** \hfill Sep. 2017\
+*Visiting Professor \hfill São Paulo, Brazil*\
+TUM-USP `Workshop on Sustainable Mobility` funded by BAYLAT/FAPESP Call
 
-<!-- 1. **Institute of Mathematical and Computer Sciences (ICMC-USP)** \hfill Mar. 2012 -- Apr. 2012\ -->
-<!-- *Civil Engineer \hfill São Carlos, Brazil*\ -->
-<!-- Executed AutoCAD-based infrastructure digitization, oversaw routine building maintenance, and participated in the supervision of ongoing construction projects at ICMC. -->
+1. **University of Minho (UMINHO)** \hfill Jul. 2017\
+*Visiting Professor \hfill Guimarães, Portugal*\
+Mission funded by CAPES-FCT n. 39/2014 
+
+1. **Technical University of Munich (TUM)** \hfill Nov. 2016 -- Dec. 2016\
+*Visiting Professor \hfill Munich, Germany*\
+TUM-USP `Workshop on Sustainable Mobility` funded by BAYLAT/FAPESP Call
+
+1. **São Paulo State University (UNESP)** \hfill Mar. 2010 -- Dec. 2010\
+*Adjunct Professor \hfill Bauru, Brazil*\
+College of Engineering Bauru (FEB), Civil Engineering undergraduate course.
+
+1. **University of São Paulo (USP-EESC)** \hfill Feb. 2009 -- Jun. 2009\
+*Graduate Assistant \hfill São Carlos, Brazil*
+
+1. **University of São Paulo (USP-EESC)** \hfill Feb. 2006 -- Jun. 2006\
+*Graduate Assistant \hfill São Carlos, Brazil*
+
+
+## Professional Experience {#sec-professional}
+
+1. **CCR Highway RioSP (Via Dutra)** \hfill Apr. 2025 -- Nov. 2025\
+*Technical Consultant – Transportation Engineering Projects \hfill São Paulo, Brazil*\
+Validate the operational speed of trucks on Via Dutra’s new descending lane, in Rio de Janeiro (BR-116 highway).
+
+
+1. **CCR Highway RioSP (Via Dutra)** \hfill Jun. 2023 -- Dec. 2023\
+*Technical Consultant – Transportation Engineering Projects \hfill São Paulo, Brazil*\
+Evaluated site conditions to determine optimal placement of truck escape ramps on Via Dutra’s new descending lane, in Rio de Janeiro (BR-116 highway). Simulated operational scenarios to validate design effectiveness.
+
+
+1. **ARTERIS Autopista Litoral Sul (ALS)** \hfill Nov. 2019 -- Dec. 2019\
+*Technical Consultant – Transportation Engineering Projects \hfill Curitiba, Brazil*\
+Directed field testing of BR-376's km 667 truck escape ramp, developing protocols and analyzing performance metrics for loaded vehicles at multiple approach speeds, with findings implemented in concessionaire safety standards[^ALS]. Delivered a detailed technical assessment of ramp functionality under real-world conditions.
+
+
+1. **University of São Paulo (USP-EESC)** \hfill Feb. 2013 -- Jun. 2014\
+*Research Assistant (Laboratory Specialist) \hfill São Carlos, Brazil*\
+Develop scientific research in projects led by faculty, with didactic-scientific and extension focus.
+
+
+1. **Transport Engineering Consultants Ltd. (TECTRAN)** \hfill Apr. 2012 -- Dec. 2012\
+*Consultant in Transport Planning and Engineering \hfill Belo Horizonte, Brazil*\
+Led the development and integration of structured databases to support EPELT, the Transport Logistics Planning Office of the Minas Gerais State Secretariat.
+
+
+1. **Institute of Mathematical and Computer Sciences (ICMC-USP)** \hfill Mar. 2012 -- Apr. 2012\
+*Civil Engineer \hfill São Carlos, Brazil*\
+Executed AutoCAD-based infrastructure digitization, oversaw routine building maintenance, and participated in the supervision of ongoing construction projects at ICMC.
 
 [^ALS]: Interview featured on Rede Globo’s Jornal Hoje program (<https://globoplay.globo.com/v/8165879/>).
-
-\hrulefill
-
-# ACADEMIC APPOINTMENTS {#sec-academic}
-
-## Tenure track position
-
-1. **Assistant Professor (MS-3.2)** | Full Dedication to Teaching and Research (RDIDP) \dotfill 2014 – present\
-      *University of São Paulo (USP), Department of Transportation Engineering, São Carlos, Brazil*
-      * Current Duties: Lead of Intelligent Transportation Systems Group, Graduate Supervision, Undergraduate Teaching.
-
-1. **Research Assistant** | Laboratory Specialist \dotfill 2013 – 2014\
-      *University of São Paulo (USP), Department of Transportation Engineering, São Carlos, Brazil*
-      * Duties: Develop scientific research in projects led by faculty, with didactic-scientific and extension focus.
-
-1. **Assistant Professor** | Fixed-term position \dotfill 2010 – 2010\
-      *São Paulo State University (UNESP), College of Engineering Bauru (FEB), Bauru, Brazil*
-      * Duties: Undergraduate teaching.
-
-
-## International visiting appointments
-
-1. **University of Melbourne (UoM)**, Australia | *Visiting Researcher (CAPES-Print)* \dotfill 2020
-
-1. **University of Zagreb (UNIZG)**, Croatia | *Visiting Lecturer (ERASMUS+)* \dotfill 2018, 2022
-
-1. **University of Minho (UMinho)**, Portugal | *Visiting Professor (CAPES-FCT)* \dotfill 2017
-
-1. **Technical University of Munich (TUM)**, Germany | *Visiting Professor (FAPESP-BAYLAT)* \dotfill 2016, 2017
-
-
-<!-- 1. **University of Zagreb (UNIZG)** \hfill Apr. 2022\ -->
-<!-- *Visiting Lecturer \hfill Zagreb, Croatia*\ -->
-<!-- ERASMUS+ Program: Virtual Teaching Mobility Agreement (Workload: 8h) -->
-
-<!-- 1. **University of Melbourne (UniMelb)** \hfill Jan. 2020 -- Dec 2020\ -->
-<!-- *Visiting Professor \hfill Melbourne, Australia*\ -->
-<!-- CAPES-Print Program – Junior Visiting Professor No. 88887.371506/2019-00  -->
-
-<!-- 1. **University of Zagreb (UNIZG)** \hfill Jun. 2018\ -->
-<!-- *Visiting Lecturer \hfill Zagreb, Croatia*\ -->
-<!-- ERASMUS+ Program: Higher Education Mobility Agreement (UNIZG/USP-EESC) (Workload: 13h) -->
-
-<!-- 1. **University of São Paulo (USP)** \hfill Sep. 2017\ -->
-<!-- *Visiting Professor \hfill São Paulo, Brazil*\ -->
-<!-- TUM-USP `Workshop on Sustainable Mobility` funded by BAYLAT/FAPESP Call -->
-
-<!-- 1. **University of Minho (UMINHO)** \hfill Jul. 2017\ -->
-<!-- *Visiting Professor \hfill Guimarães, Portugal*\ -->
-<!-- Mission funded by CAPES-FCT n. 39/2014  -->
-
-<!-- 1. **Technical University of Munich (TUM)** \hfill Nov. 2016 -- Dec. 2016\ -->
-<!-- *Visiting Professor \hfill Munich, Germany*\ -->
-<!-- TUM-USP `Workshop on Sustainable Mobility` funded by BAYLAT/FAPESP Call -->
-
-<!-- 1. **São Paulo State University (UNESP)** \hfill Mar. 2010 -- Dec. 2010\ -->
-<!-- *Adjunct Professor \hfill Bauru, Brazil*\ -->
-<!-- College of Engineering Bauru (FEB), Civil Engineering undergraduate course. -->
-
-<!-- 1. **University of São Paulo (USP-EESC)** \hfill Feb. 2009 -- Jun. 2009\ -->
-<!-- *Graduate Assistant \hfill São Carlos, Brazil* -->
-
-<!-- 1. **University of São Paulo (USP-EESC)** \hfill Feb. 2006 -- Jun. 2006\ -->
-<!-- *Graduate Assistant \hfill São Carlos, Brazil* -->
-
-
-\hrulefill
-# RESEARCH FUNDING & GRANTS {#sec-budget}
-
-*Total Funding Secured: ~USD 3.38 Million (BRL 18.6M)*
-
-
-1. **CCD Sustainability and Innovation in Road Infrastructure** \dotfill 2025--2030\
-*Pavement Recycling as a Pillar of Decarbonization - Centers for Science for Development (CCD)*\
-Role: Co-Principal Investigator\
-Value: ~USD 1.45 Million (BRL 8.0M)\
-Sponsor: FAPESP Grant (2025/07146-8), Brazil
-
-1. **Redesign and Validate the Truck Escape Ramp on the BR-116 (Via Dutra)** \dotfill 2025--2025\
-Role: Principal Investigator\
-Value: ~USD 32,700 (BRL 180,000)\
-Sponsor: Group CCR Highways (RioSP), Brazil
-
-1. **Artificial Intelligence Recreating Environments (IARA)** \dotfill 2023--2028\
-*Applied Research Centers Program (CEPID)*\
-Role: Research Collaborator\
-Value: ~USD 1.8 Million (BRL 10.0M)\
-Sponsor: FAPESP Grant (Process 20/09835-1), Brazil
-
-1. **Rethinking traffic modeling in transport networks for the next generation of smart/connected cities** \dotfill 2023--2026\
-Role: Principal Investigator \
-Value: ~USD 13,900 (BRL 72,000)\
-Sponsor: CNPq Consolidated Research Groups Grant (Process 409087/2023-8), Brazil
-
-1. **Artificial Intelligence: development of tools for urban mobility** \dotfill 2023--2026\
-Role: Principal Investigator \
-Value: ~USD 7,200 (BRL 40,000)\
-Sponsor: CNPq Research Productivity Grant (Process 311964/2022-2), Brazil 
-
-1. **Evaluation of Truck Escape Ramp on the BR-116 (Via Dutra)** \dotfill 2023--2023\
-Role: Principal Investigator \
-Value: ~USD 16,300 (BRL 90,000)\
-Sponsor: Group CCR Highways (RioSP), Brazil
-
-1. **Innovative Control Strategies for Sustainable Mobility in Smart Cities** \dotfill 2021--2021\
-Role: Co-Principal Investigator \
-Value: ~USD 9,500 (EUR 8,000)\
-Sponsor: University of Zagreb (UNIZG), Croatia 
-
-1. **Visiting Professorship** \dotfill 2019--2019\
-Role: Principal Investigator \
-Value: ~USD 103,800 (AUD 150,000)\
-Sponsor: CAPES-Print Program (Process 88887.371506/2019-00), Brazil
-
-
-1. **Site Optimization for Truck Escape Ramps on the BR-376** \dotfill 2019--2019\
-Role: Principal Investigator \
-Value: ~USD 27,200 (BRL 150,000)\
-Sponsor: ARTERIS Autopista Litoral Sul (ALS), Brazil
-
-1. **Image-based method for axle detection and truck classification** \dotfill 2018--2022\
-Role: Principal Investigator \
-Value: ~USD 2,700 (BRL 15,000)\
-Sponsor: CNPq Universal Grant (Process 436954/2018-4), Brazil
-
-1. **Application of deep learning in intelligent traffic control system** \dotfill 2018--2018\
-Role: Co-Principal Investigator \
-Value: ~USD 10,100 (EUR 8,500)\
-Sponsor: University of Zagreb (UNIZG), Croatia 
-
-1. **Studies aimed at promoting sustainable and safe urban mobility** \dotfill 2013--2016\
-Role: Co-Principal Investigator \
-Value: ~USD 3,600 (BRL 20,000)\
-Sponsor: CAPES/FCT Program (Process 39/2017), Brazil
-
-\hrulefill
-# RESEARCH SUPERVISION & MENTORING {#sec-supervision}
-
-- **PhD Students**: 6 (3 completed, 3 ongoing)
-- **MSc Students**: 15 (12 completed, 3 ongoing)
-- **Scientific Initiation**: 18 (16 completed, 2 ongoing)
-- **Undergraduate Projects**: 25 completed
-
-## Completed
-1. Ph.D. (2025-12-08) : [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) "*Classification of trucks by axles using Deep Learning and a Large Multimodal Model*"
-
-1. Ph.D. (2025-05-23) : [Andre Borgato Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en) "*Analysis of Flood Vulnerability in Brazilian Urban Networks Using Graph Theory Tools.*"
-
-1. M.Sc. (2024-08-27): [Crhistian Emilio Ribeiro]() "*[Evaluation of deep neural networks for vehicle detection in satellite images](https://doi.org/10.11606/D.18.2024.tde-31102024-114415)*"
-
-1. M.Sc. (2022-08-19): [Paola Yumi Matsumoto](https://lattes.cnpq.br/6933325479741942) "*[Calibration of Cellular Automata model for simulation of the traffic flow behavior in São Paulo roads](https://doi.org/10.11606/D.18.2022.tde-18102022-103557)*" 
-
-1. M.Sc. (2021-08-05): [Helena Stein Stefani](https://lattes.cnpq.br/2263620972100266) "*[Urban roadway traffic flow prediction from crowdsourced speed data](https://doi.org/10.11606/D.18.2021.tde-22082022-091919)*"
-
-1. M.Sc. (2020-12-10): [Alceu Dal Bosco Junior](https://lattes.cnpq.br/7512695029586698) "*[Usability of Points of Interest and network centralities of collaborative maps for trip attraction analysis: case study of Curitiba](https://doi.org/10.11606/D.18.2020.tde-18042022-143053)*" 
-
-1. M.Sc. (2019-10-22): [Andre Borgato Morelli](https://lattes.cnpq.br/5248357327146113) "*[Exploratory analysis of resilience in urban road networks](https://doi.org/10.11606/D.18.2020.tde-13012020-153303)*"
-
-1. M.Sc. (2019-06-28): [Bruna Kuramoto](https://lattes.cnpq.br/3302815314452867) "*[Data exploration of collaborative maps in evaluations of Brazilian urban morphologies](https://doi.org/10.11606/D.18.2019.tde-20082019-084513)*"
-
-1. M.Sc. (2019-06-28): [Adriano Belletti Felicio](https://lattes.cnpq.br/1581979506356539) "*[Evaluation of the behavior of motorcyclists through the video image processing system](https://doi.org/10.11606/D.18.2020.tde-12052020-170835)*"
-
-1. M.Sc. (2018-09-13): [Natália Ribeiro Panice](https://lattes.cnpq.br/3462901770011968) "*[Truck axle detection automatic method based on images](https://doi.org/10.11606/D.18.2018.tde-11122018-213600)*" 
-
-1. M.Sc. (2018-09-03): [Mariana Marçal Thebit](https://lattes.cnpq.br/9374994847060943) "*[Reconstruction of a synthetic O/D matrix using traffic data available on the web](https://doi.org/10.11606/D.18.2018.tde-10122018-225948)*"
-
-1. M.Sc. (2018-08-10): [Leandro Arab Marcomini](https://lattes.cnpq.br/3128200022537201) "*[Automatic identification of traffic behavior using video images](https://doi.org/10.11606/D.18.2018.tde-01102018-102649)*" 
-
-1. M.Sc. (2018-07-20): [Gabriel Jurado Martins de Oliveira](https://lattes.cnpq.br/1828432370828925) "*[Calibration of speed-flow relationship for freeways and multilane highways](https://doi.org/10.11606/D.18.2018.tde-10092018-150848)*" 
-
-1. M.Sc. (2017-08-10): [Elaine Rodrigues Ribeiro](https://lattes.cnpq.br/4988917064689096) "*[Exploratory method analysis using Wavelet to detect patterns and anomalies in traffic history data](https://doi.org/10.11606/D.18.2017.tde-07112017-212156)*" 
-
-
-## In progress
-1. M.Sc. : [Andressa Vitório Costa](http://lattes.cnpq.br/7862988333397510) "*Accessibility to Social Services in Belo Horizonte-MG*" 
-
-2. M.Sc. : [Maria Eduarda Saquetto Michelini](http://lattes.cnpq.br/6355612958124418) "*Development of an Emission Estimation Model for Brazilian Cases*" 
-
-3. M.Sc. : [Rodrigo Otávio Fraga Peixoto de Oliveira](http://lattes.cnpq.br/3660336154224847) "*Urban resilience assessment through a comparative study of flood prediction methods*" 
-
-5. Ph.D. : [Elaine Rodrigues Ribeiro]() "*Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile*"
-
-6. Ph.D. : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) "*Examining The Impacts Of Electric Bicycles On Accessibility To Jobs And Spatial Equity*"
-
-7. Ph.D. : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) "*Evaluation of causal inference and spatial effects on travel behavior*" 
-
-
-
 
 \hrulefill
 # TEACHING EXPERIENCE {#sec-lecturer}
@@ -401,6 +279,116 @@ Compulsory course in the Transportation Engineering Program. A core course that 
 Elective course in the Transportation Engineering Program. Coordinate the course, designed the lectures and exercises. Small classroom of 10+ students. This course was designed to provide a foundational introduction to R programming for solving transport engineering problems.
 
 
+\hrulefill
+# RESEARCH SUPERVISION & MENTORING {#sec-supervision}
+
+- **PhD Students**: 6 (3 completed, 3 ongoing)
+- **MSc Students**: 15 (12 completed, 3 ongoing)
+- **Scientific Initiation**: 18 (16 completed, 2 ongoing)
+- **Undergraduate Projects**: 25 completed
+
+
+## Completed
+1. Ph.D. (2025-12-08) : [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) "*Classification of trucks by axles using Deep Learning and a Large Multimodal Model*"
+
+1. Ph.D. (2025-05-23) : [Andre Borgato Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en) "*Analysis of Flood Vulnerability in Brazilian Urban Networks Using Graph Theory Tools.*"
+
+1. M.Sc. (2024-08-27): [Crhistian Emilio Ribeiro]() "*[Evaluation of deep neural networks for vehicle detection in satellite images](https://doi.org/10.11606/D.18.2024.tde-31102024-114415)*"
+
+1. M.Sc. (2022-08-19): [Paola Yumi Matsumoto](https://lattes.cnpq.br/6933325479741942) "*[Calibration of Cellular Automata model for simulation of the traffic flow behavior in São Paulo roads](https://doi.org/10.11606/D.18.2022.tde-18102022-103557)*" 
+
+1. M.Sc. (2021-08-05): [Helena Stein Stefani](https://lattes.cnpq.br/2263620972100266) "*[Urban roadway traffic flow prediction from crowdsourced speed data](https://doi.org/10.11606/D.18.2021.tde-22082022-091919)*"
+
+1. M.Sc. (2020-12-10): [Alceu Dal Bosco Junior](https://lattes.cnpq.br/7512695029586698) "*[Usability of Points of Interest and network centralities of collaborative maps for trip attraction analysis: case study of Curitiba](https://doi.org/10.11606/D.18.2020.tde-18042022-143053)*" 
+
+1. M.Sc. (2019-10-22): [Andre Borgato Morelli](https://lattes.cnpq.br/5248357327146113) "*[Exploratory analysis of resilience in urban road networks](https://doi.org/10.11606/D.18.2020.tde-13012020-153303)*"
+
+1. M.Sc. (2019-06-28): [Bruna Kuramoto](https://lattes.cnpq.br/3302815314452867) "*[Data exploration of collaborative maps in evaluations of Brazilian urban morphologies](https://doi.org/10.11606/D.18.2019.tde-20082019-084513)*"
+
+1. M.Sc. (2019-06-28): [Adriano Belletti Felicio](https://lattes.cnpq.br/1581979506356539) "*[Evaluation of the behavior of motorcyclists through the video image processing system](https://doi.org/10.11606/D.18.2020.tde-12052020-170835)*"
+
+1. M.Sc. (2018-09-13): [Natália Ribeiro Panice](https://lattes.cnpq.br/3462901770011968) "*[Truck axle detection automatic method based on images](https://doi.org/10.11606/D.18.2018.tde-11122018-213600)*" 
+
+1. M.Sc. (2018-09-03): [Mariana Marçal Thebit](https://lattes.cnpq.br/9374994847060943) "*[Reconstruction of a synthetic O/D matrix using traffic data available on the web](https://doi.org/10.11606/D.18.2018.tde-10122018-225948)*"
+
+1. M.Sc. (2018-08-10): [Leandro Arab Marcomini](https://lattes.cnpq.br/3128200022537201) "*[Automatic identification of traffic behavior using video images](https://doi.org/10.11606/D.18.2018.tde-01102018-102649)*" 
+
+1. M.Sc. (2018-07-20): [Gabriel Jurado Martins de Oliveira](https://lattes.cnpq.br/1828432370828925) "*[Calibration of speed-flow relationship for freeways and multilane highways](https://doi.org/10.11606/D.18.2018.tde-10092018-150848)*" 
+
+1. M.Sc. (2017-08-10): [Elaine Rodrigues Ribeiro](https://lattes.cnpq.br/4988917064689096) "*[Exploratory method analysis using Wavelet to detect patterns and anomalies in traffic history data](https://doi.org/10.11606/D.18.2017.tde-07112017-212156)*" 
+
+
+## In progress
+1. M.Sc. : [Andressa Vitório Costa](http://lattes.cnpq.br/7862988333397510) "*Accessibility to Social Services in Belo Horizonte-MG*" 
+
+2. M.Sc. : [Maria Eduarda Saquetto Michelini](http://lattes.cnpq.br/6355612958124418) "*Development of an Emission Estimation Model for Brazilian Cases*" 
+
+3. M.Sc. : [Rodrigo Otávio Fraga Peixoto de Oliveira](http://lattes.cnpq.br/3660336154224847) "*Urban resilience assessment through a comparative study of flood prediction methods*" 
+
+5. Ph.D. : [Elaine Rodrigues Ribeiro]() "*Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile*"
+
+6. Ph.D. : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) "*Examining The Impacts Of Electric Bicycles On Accessibility To Jobs And Spatial Equity*"
+
+7. Ph.D. : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) "*Evaluation of causal inference and spatial effects on travel behavior*" 
+
+
+\hrulefill
+# RESEARCH INCOME {#sec-budget}
+
+I have secured over **BRL 18,600,000**[^grants] (approximately USD 3,381,818 | EUR 2,952,381 | AUD 5,314,286) in research funding, during my tenure at USP, with projects spanning intelligent transport systems and sustainable mobility solutions.
+
+[^grants]: Exchange rates used: EUR 1.00 $\approx$ BRL 6.30; USD 1.00 $\approx$ BRL 5.50; AUD 1.00 $\approx$ BRL 3.50.
+
+1. **CCD Sustainability and Innovation in Road Infrastructure** \hfill BRL 8,000,000\
+*Pavement Recycling as a Pillar of Decarbonization - Centers for Science for Development (CCD)* \hfill 2025--2030\
+Role: Co-Principal Investigator\
+Sponsor: FAPESP Grant (2025/07146-8), Brazil
+
+1. **Redesign and Validate the Truck Escape Ramp on the BR-116 (Via Dutra)** \hfill BRL 180,000\
+Role: Principal Investigator \hfill 2025--2025\
+Sponsor: Group CCR Highways (RioSP), Brazil
+
+1. **Artificial Intelligence Recreating Environments (IARA)** \hfill BRL 10,000,000\
+*Applied Research Centers Program (CEPID)*  \hfill 2023--2028\
+Role: Research Collaborator\
+Sponsor: FAPESP Grant (Process 20/09835-1), Brazil
+
+1. **Rethinking traffic modeling in transport networks for the next generation of smart/connected cities** \hfill BRL 72,000\
+Role: Principal Investigator \hfill 2023--2026\
+Sponsor: CNPq Consolidated Research Groups Grant (Process 409087/2023-8), Brazil
+
+1. **Artificial Intelligence: development of tools for urban mobility** \hfill BRL 40,000\
+Role: Principal Investigator \hfill 2023--2026\
+Sponsor: CNPq Research Productivity Grant (Process 311964/2022-2), Brazil 
+
+1. **Evaluation of Truck Escape Ramp on the BR-116 (Via Dutra)** \hfill BRL 90,000\
+Role: Principal Investigator \hfill 2023--2023\
+Sponsor: Group CCR Highways (RioSP), Brazil
+
+1. **Innovative Control Strategies for Sustainable Mobility in Smart Cities** \hfill EUR 8,000\
+Role: Co-Principal Investigator \hfill 2021--2021\
+Sponsor: University of Zagreb (UNIZG), Croatia 
+
+1. **Visiting Professorship** \hfill AUD 150,000\
+Role: Principal Investigator \hfill 2019--2019\
+Sponsor: CAPES-Print Program (Process 88887.371506/2019-00), Brazil
+
+
+1. **Site Optimization for Truck Escape Ramps on the BR-376** \hfill BRL 150,000\
+Role: Principal Investigator \hfill 2019--2019\
+Sponsor: ARTERIS Autopista Litoral Sul (ALS), Brazil
+
+1. **Image-based method for axle detection and truck classification** \hfill BRL 15,000\
+Role: Principal Investigator \hfill 2018--2022\
+Sponsor: CNPq Universal Grant (Process 436954/2018-4), Brazil
+
+1. **Application of deep learning in intelligent traffic control system** \hfill EUR 8,500\
+Role: Co-Principal Investigator \hfill 2018--2018\
+Sponsor: University of Zagreb (UNIZG), Croatia 
+
+1. **Studies aimed at promoting sustainable and safe urban mobility** \hfill BRL 20,000\
+Role: Co-Principal Investigator \hfill 2013--2016\
+Sponsor: CAPES/FCT Program (Process 39/2017), Brazil
 
 
 \hrulefill

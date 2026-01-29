@@ -131,25 +131,23 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
   
 
 \hrulefill
+
+\newpage
 # INDUSTRY R&D {#sec-professional}
 
 1. **CCR Group – Via Dutra (RioSP)** | *Technical Lead & Principal Investigator* \dotfill Rio de Janeiro, Brazil
 
-    (Apr 2025 – Dec 2025)
-    : Defined national safety standards for heavy vehicle protocols on Brazil's largest highway concession. Developed and executed stress-test simulation models to validate operational speeds for the new Serra das Araras descending ramp.
-
-    (Jun 2023 – Dec 2023)
-    : Optimized critical infrastructure planning for the Via Dutra highway expansion. Utilized advanced traffic simulation to determine the precise engineering placement of truck escape ramps, directly influencing construction design decisions.
+    - Apr 2025 – Dec 2025: Defined national safety standards for heavy vehicle protocols on Brazil's largest highway concession. Developed and executed stress-test simulation models to validate operational speeds for the new Serra das Araras descending ramp.
+  
+    - Jun 2023 – Dec 2023: Optimized critical infrastructure planning for the Via Dutra highway expansion. Utilized advanced traffic simulation to determine the precise engineering placement of truck escape ramps, directly influencing construction design decisions.
 
 2. **ARTERIS – Autopista Litoral Sul (ALS)** | *Technical Lead & Principal Investigator* \dotfill Curitiba, Brazil
 
-    (Nov 2019 – Dec 2019)
-    : Enforced operational safety limits on federal highway BR-376 by directing full-scale field performance tests. Managed a fleet of instrumented trucks to establish the approach speed protocols now mandated for all heavy commercial vehicles. [^ALS]
+    - Nov 2019 – Dec 2019: Enforced operational safety limits on federal highway BR-376 by directing full-scale field performance tests. Managed a fleet of instrumented trucks to establish the approach speed protocols now mandated for all heavy commercial vehicles. [^ALS]
 
 3. **TECTRAN – Transport Engineering Consultants Ltd.** | *Transport Planning Consultant* \dotfill Minas Gerais, Brazil
 
-    (Apr 2012 – Dec 2012)
-    : Engineered the state-wide logistics architecture for the Minas Gerais State Logistics Plan (PELT). Led the database integration that underpinned regional freight transport strategy and policy planning.
+    - Apr 2012 – Dec 2012: Engineered the state-wide logistics architecture for the Minas Gerais State Logistics Plan (PELT). Led the database integration that underpinned regional freight transport strategy and policy planning.
 
 [^ALS]: Interview featured on Rede Globo’s Jornal Hoje program (<https://globoplay.globo.com/v/8165879/>).
 
@@ -157,23 +155,35 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
 
 # ACADEMIC APPOINTMENTS {#sec-academic}
 
-## Tenure track position
+## University of São Paulo (USP) {-}
 
-1. **Tenured Assistant Professor** | Full Dedication to Teaching and Research (RDIDP) \dotfill 2014 – present\
-      *University of São Paulo (USP), Department of Transportation Engineering, São Carlos, Brazil*
-      * Current Duties: Lead of Intelligent Transportation Systems Group, Graduate Supervision, Undergraduate Teaching.
 
-1. **Research Assistant** | Laboratory Specialist \dotfill 2013 – 2014\
-      *University of São Paulo (USP), Department of Transportation Engineering, São Carlos, Brazil*
-      * Duties: Develop scientific research in projects led by faculty, with didactic-scientific and extension focus.
+1. **Tenured Assistant Professor** (equivalent to Associate Professor) \dotfill 2014 – present\
+    *Department of Transport Engineering (STT)*, São Carlos, Brazil.
 
-1. **Assistant Professor** | Fixed-term position \dotfill 2010 – 2010\
-      *São Paulo State University (UNESP), College of Engineering Bauru (FEB), Bauru, Brazil*
-      * Duties: Undergraduate teaching.
+    - **Leadership**: Director of the Intelligent Transportation Systems (ITS) Research Group.
 
+    - **Scope**: Manage a full-time research portfolio, supervise graduate cohorts (MSc/PhD), and drive departmental strategy for industry partnerships and curriculum reform.
+
+    - **Tenure**: Awarded tenure in 2021; promoted to Senior Faculty status (MS-3.2).
+
+
+2. **Research Scientist & Laboratory Specialist** \dotfill 2013 – 2014\
+*Department of Transport Engineering (STT)*, São Carlos, Brazil.
+
+    - **Scope**: Managed experimental protocols and technical operations for faculty-led research projects. Coordinated extension activities connecting laboratory outputs with public sector demands.
+    
+    
+## São Paulo State University (UNESP) {-}
+
+1. **Assistant Professor** \dotfill 2010\
+*College of Engineering of Bauru (FEB)*, Bauru, Brazil.
+
+    - **Scope**: Delivered undergraduate curriculum in Civil Engineering, responsible for course planning, assessment design, and student mentorship during the academic term.
 
 
 \hrulefill
+\newpage
 # RESEARCH FUNDING & GRANTS {#sec-budget}
 
 *Total Funding Secured: ~USD 3.38 Million (BRL 18.6M)*

@@ -325,34 +325,34 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 ## Data Science & Computational Engineering
 
-  Multivariate Data Analysis & Applied Statistics (Graduate)
+  - Multivariate Data Analysis & Applied Statistics (Graduate)
   : Modernized the graduate curriculum to include AI techniques (Neural Networks, Decision Trees, Cluster, Genetic Algorithms) and R programming. Guided students in publishing original research based on course datasets.
   
-  Computational Tools for Civil Engineering (Undergraduate)
+  - Computational Tools for Civil Engineering (Undergraduate)
   : Designed and implemented a new elective course to bridge the digital skills gap, introducing 20+ students annually to spreadsheet programming, algorithmic problem-solving, AutoCAD, Civil-3D, and GIS.
 
 ## Core Transport Engineering & Simulation
 
-  Fundamentals of Transportation Engineering (Undergraduate)
+  - Fundamentals of Transportation Engineering (Undergraduate)
   : Achieved exceptional student evaluations (4.5/5.0) by implementing "inverted classroom" strategies and project-based learning for cohorts of 50+ students.
 
-  Traffic Engineering & Simulation (Undergraduate/Graduate)
+  - Traffic Engineering & Simulation (Undergraduate/Graduate)
   : Delivers advanced training in microscopic simulation theories (TSIS, VISSIM, AIMSUN, and SUMO), equipping students with industry-ready technical skills.
 
 ## Logistics & Infrastructure
 
-  Logistics & Supply Chain Management
+  - Logistics & Supply Chain Management
   : Completely redesigned the syllabus to address contemporary challenges, integrating AI-driven logistics tools, GIS route planning, and Green Logistics best practices.
 
-  Airports & Waterways
+  - Airports & Waterways
   : Managed large-scale compulsory modules (50+ students), balancing theoretical foundations with practical operational exercises.
 
 ## Capstone & Mentorship
 
-  Final Year Engineering Projects (Undergraduate)
+  - Final Year Engineering Projects (Undergraduate)
   : Supervised 25+ capstone projects, guiding students from research definition to professional-grade technical reporting .
 
-  Internship Supervision (Undergraduate)
+  - Internship Supervision (Undergraduate)
   : Oversee professional placements for 15+ students, ensuring alignment between academic objectives and industry requirements .
 
 

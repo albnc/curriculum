@@ -19,7 +19,7 @@ format:
 
 # ANDRÉ LUIZ BARBOSA NUNES DA CUNHA, Ph.D. {-}
 
-**Tenured Assistant Professor of Civil Engineering & AI Specialist in Transport Engineering**\
+**Assistant Professor of Civil Engineering | Transport Modelling | AI Specialist**\
 *University of São Paulo ([USP](https://www5.usp.br/en)), São Carlos School of Engineering ([EESC](https://eesc.usp.br/en/)), Departament of Transport Engineering ([STT](https://eesc.usp.br/ppgs/stt/))*\
 *São Carlos, SP, Brazil* 
 
@@ -40,39 +40,43 @@ format:
 -->
 
 \hrulefill
-## Professional profile {-}
+# PROFESSIONAL SUMMARY
 
-Tenured researcher and Technical Lead with 12+ years of experience bridging the gap between advanced academic research and industrial application in Civil Engineering. Specialist in Transport Modelling, Highway Safety, and Artificial Intelligence, with a focus on translating R&D into operational safety standards. Proven track record of securing over USD 3.30 Million (BRL 18.6M) in competitive grants and contracts [[@sec-budget]]. Global academic experience includes visiting appointments in Australia (UoM), Germany (TUM), Croatia (UNIZG), and Portugal (UMinho) [[@sec-international]].
-
-
-## Key career highlights {-}
-  - **Research Leadership** : Directed a research portfolio of 60+ scholars (6 PhD, 15 MSc, 25+ Undergraduate), guiding 3 PhDs and 12 MScs to completion. [[@sec-supervision]]
-  - **Industry Impact** : Partnered with major concessionaires (CCR & ARTERIS) to define national safety standards for Truck Escape Ramps, utilizing simulation models to enforce safe approach speed limits on federal highways. [[@sec-professional]]
-  - **AI & Innovation** : Pioneered the application of Deep Learning and Computer Vision (OpenCV) for automated vehicle classification and traffic parameter extraction. [[@sec-supervision]]
+**Tenured Assistant Professor and Technical Lead** with 12+ years of experience bridging the gap between academic research and industrial application. Specializes in *Transport Modelling, Highway Safety, Artificial Intelligence, and Urban mobility*. Proven track record of securing major grant funding and translating complex R&D into operational safety standards for Brazil’s largest highway concessionaires.
 
 
-## Areas of expertise {-}
-  - **Transport Modelling** : traffic simulation (TSIS-CORSIM, VISSIM, AIMSUN, SUMO, MATSim), calibration & validation, network vulnerability analysis, urban mobility. [[@sec-skills]]
-  - **Data Science & AI** : deep learning, computer vision, graph neural networks, crash prediction models, agent-based, R, Python, C++, SQL.
-  - **Highway Engineering** : geometric design, truck escape ramp design, heavy vehicle operations, operational speed validation, capacity and level of service.
+| **Career performance** | **Description** | |
+| :--- | :-------- | :- |
+| **Research Funding** | Secured **~USD 3.38 Million** (BRL 18.6M) in competitive grants. | [[@sec-budget]] |
+| **Industry Impact** | Defined safety standards for **Truck Escape Ramps** (CCR & ARTERIS). | [[@sec-professional]] |
+| **Talent Leadership** | Directed **60+ researchers** (6 PhD, 15 MSc, 25+ Undergraduate). | [[@sec-supervision]] |
+| **Global Mobility** | Visiting roles in **Australia, Germany, Croatia, & Portugal**. | [[@sec-international]] |
+| **Tech Stack** | **R/Python (OpenCV),** VISSIM, AIMSUN, SUMO, Deep Learning Models. | [[@sec-skills]] |
 
-<!--
-## Selected publications {-}
-*A complete list is in [@sec-publications].*
 
-1. **E-Bikes & Network Impacts**: Louro et al. (2026) "How Do E-Bikes Measure Up? Analyzing Speed Differences and Network Impacts of São Paulo's Bikesharing System" — *Transportation*.
-1. **Accessibility & Equity**: Louro et al. (2025) "E-bikes' impact on job accessibility and equity in São Paulo and Rio" — *Transportation Research Part D: Transport and Environment*.
-1. **AI & Crash Prediction**: Oliveira et al. (2023) "Integrating a non-gridded space representation into a graph neural networks model for citywide short-term crash risk prediction" — *Urban Informatics*.
-1. **Network Vulnerability**: Morelli & Cunha (2021) "Measuring urban road network vulnerability to extreme events: An application for urban floods" — *Transportation Research Part D: Transport and Environment*.
--->
+## Core competencies
 
-## Research Agenda {-}
+| **Domain** | **Skills & Tools** |
+| :-- | :------ |
+| **Data Science & AI** | Python, R, SQL, C++, OpenCV, Deep Learning. |
+| **Civil Engineering** | AutoCAD, Civil3D, Revit. |
+| **Traffic Simulation** | VISSIM, AIMSUN, SUMO, MATSim, TSIS-CORSIM, Calibration & Validation. |
+| **Highway Safety** | Geometric Design, Truck Escape Ramps (Design/Test), Crash Prediction Models. |
+| **Languages** | Portuguese (Native), English (Advanced), Spanish (Basic). |
 
-  - **Next-Gen AI in Transport (LMMs & Vision)** : Advancing beyond traditional computer vision to deploy Large Multimodal Models (LMMs) for real-time traffic anomaly detection and autonomous logistics. My current roadmap focuses on integrating unstructured data (video/text/sensors) into predictive safety models, utilizing Edge AI for low-latency decision-making in mixed-traffic environments.
-  
-  - **Urban Climate Resilience & Social Equity** : Assessing the vulnerability of multimodal urban networks to climate stressors, with a specific focus on accessibility for vulnerable populations. My research quantifies how extreme weather impacts the daily commute to essential services (employment, healthcare, leisure) for marginalized communities. By evaluating city-wide intermodality and network redundancy, I aim to design resilient public transport systems that ensure equitable access during environmental disruptions.
-  
-  - **International Funding Targets** : Preparing collaborative grant proposals to fund the development of "Digital Twins" for highway concessions in developing economies.
+
+## Selected high-impact publications (Top 5)
+
+> *A complete list is in [@sec-publications].*
+
+  1. **E-Bikes & Network Impacts**: Louro et al. (2026) "How Do E-Bikes Measure Up? Analyzing Speed Differences and Network Impacts of São Paulo's Bikesharing System" — *Transportation*.
+
+  1. **Accessibility & Equity**: Louro et al. (2025) "E-bikes' impact on job accessibility and equity in São Paulo and Rio" — *Transportation Research Part D: Transport and Environment*.
+
+  1. **AI & Crash Prediction**: Oliveira et al. (2023) "Integrating a non-gridded space representation into a graph neural networks model for citywide short-term crash risk prediction" — *Urban Informatics*.
+
+  1. **Network Vulnerability**: Morelli & Cunha (2021) "Measuring urban road network vulnerability to extreme events: An application for urban floods" — *Transportation Research Part D: Transport and Environment*.
+
 
 
 \hrulefill
@@ -101,55 +105,42 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
 
 
 \hrulefill
-# INTERNATIONAL MOBILITY {#sec-international}
-
-1. **University of Melbourne (UoM)**, Australia | *Visiting Researcher (CAPES-Print)* \dotfill 2020
-
-1. **University of Zagreb (UNIZG)**, Croatia | *Visiting Lecturer (ERASMUS+)* \dotfill 2018, 2022
-
-1. **University of Minho (UMinho)**, Portugal | *Visiting Professor (CAPES-FCT)* \dotfill 2017
-
-1. **Technical University of Munich (TUM)**, Germany | *Visiting Professor (FAPESP-BAYLAT)* \dotfill 2016, 2017
-
-
-\hrulefill
-
-# TECHNICAL PROFICIENCY & COMPUTATIONAL STACK {#sec-skills}
-
-  - Traffic Simulation & Modelling
-  : Expert proficiency in PTV Vissim, AIMSUN, SUMO, MATSim, and TSIS-CORSIM. Experienced in calibration, validation, and API scripting for custom scenarios.
-
-  - Data Science & Artificial Intelligence
-  : Development of Deep Learning models and Computer Vision pipelines using OpenCV, PyTorch, and TensorFlow. Application of Graph Neural Networks (GNNs) for network analysis.
-
-  - Programming & Development
-  : Python, R, C++, Julia, SQL, MATLAB, HTML, CSS.
-
-  - Engineering & Geospatial Tools
-  : AutoCAD, Civil 3D, QGIS.
-  
-  
-
-\hrulefill
 # INDUSTRY R&D {#sec-professional}
 
-1. **CCR Group – Via Dutra (RioSP)** | *Technical Lead & Principal Investigator* \dotfill Rio de Janeiro, Brazil
+<!-- ## Technology transfer  -->
 
-    (Apr 2025 – Dec 2025)
-    : Defined national safety standards for heavy vehicle protocols on Brazil's largest highway concession. Developed and executed stress-test simulation models to validate operational speeds for the new Serra das Araras descending ramp.
+1. **CCR Highway RioSP (Via Dutra)** | *Technical Lead / PI* \dotfill Apr. 2025 -- Dec. 2025
+    <!-- *Technical Lead / Principal Investigator – Transportation Engineering Projects \hfill São Paulo, Brazil*\ -->
+    <!-- - Validate the operational speed of trucks on Via Dutra’s new descending lane, in Rio de Janeiro (BR-116 highway). -->
+    * **Project:** Validation of operational speeds on new descending ramp in Rio de Janeiro (Serra das Araras).
+    * **Outcome:** Developed simulation models to stress-test ramp designs. Results defined the new safety standards for the concessionaire's heavy vehicle protocols.
 
-    (Jun 2023 – Dec 2023)
-    : Optimized critical infrastructure planning for the Via Dutra highway expansion. Utilized advanced traffic simulation to determine the precise engineering placement of truck escape ramps, directly influencing construction design decisions.
 
-2. **ARTERIS – Autopista Litoral Sul (ALS)** | *Technical Lead & Principal Investigator* \dotfill Curitiba, Brazil
+1. **CCR Highway RioSP (Via Dutra)** | *Technical Lead / PI* \dotfill Jun. 2023 -- Dec. 2023
+<!-- *Technical Consultant – Transportation Engineering Projects \hfill São Paulo, Brazil*\ -->
+<!-- Evaluated site conditions to determine optimal placement of truck escape ramps on Via Dutra’s new descending lane, in Rio de Janeiro (BR-116 highway). Simulated operational scenarios to validate design effectiveness. -->
+    * **Project:** Truck Escape Ramp Design (Serra das Araras).
+    * **Outcome:** Developed simulation models determine optimal placement of truck escape ramps on Via Dutra’s new descending lane.
 
-    (Nov 2019 – Dec 2019)
-    : Enforced operational safety limits on federal highway BR-376 by directing full-scale field performance tests. Managed a fleet of instrumented trucks to establish the approach speed protocols now mandated for all heavy commercial vehicles. [^ALS]
+1. **ARTERIS Autopista Litoral Sul (ALS)** | *Technical Lead / PI* \dotfill Nov. 2019 -- Dec. 2019
+<!-- *Technical Consultant – Transportation Engineering Projects \hfill Curitiba, Brazil*\ -->
+<!-- Directed field testing of BR-376's km 667 truck escape ramp, developing protocols and analyzing performance metrics for loaded vehicles at multiple approach speeds, with findings implemented in concessionaire safety standards[^ALS]. Delivered a detailed technical assessment of ramp functionality under real-world conditions. -->
+    * **Project:** Field Performance Testing of Truck Escape Ramps (BR-376), Curitiba, Brazil.
+    * **Outcome:** Directed full-scale field tests with instrumented trucks. Established safe approach speed limits[^ALS] now enforced on the highway.
 
-3. **TECTRAN – Transport Engineering Consultants Ltd.** | *Transport Planning Consultant* \dotfill Minas Gerais, Brazil
+1. **Transport Engineering Consultants Ltd. (TECTRAN)** | *Transport Planning Consultant* \dotfill Apr. 2012 -- Dec. 2012
+<!-- *Consultant in Transport Planning and Engineering \hfill Belo Horizonte, Brazil*\ -->
+<!-- Led the development and integration of structured databases to support EPELT, the Transport Logistics Planning Office of the Minas Gerais State Secretariat. -->
+    * **Project:** State Logistics Plan (PELT), Minas Gerais, Brazil.
+    * **Outcome:** Led the database architecture integration for state-wide logistics planning.
 
-    (Apr 2012 – Dec 2012)
-    : Engineered the state-wide logistics architecture for the Minas Gerais State Logistics Plan (PELT). Led the database integration that underpinned regional freight transport strategy and policy planning.
+<!-- 1. **University of São Paulo (USP-EESC)** | *Research Assistant* \dotfill Feb. 2013 -- Jun. 2014 -->
+<!-- <!-- *Research Assistant (Laboratory Specialist) \hfill São Carlos, Brazil*\ -->
+<!-- Develop scientific research in projects led by faculty, with didactic-scientific and extension focus. -->
+
+<!-- 1. **Institute of Mathematical and Computer Sciences (ICMC-USP)** \hfill Mar. 2012 -- Apr. 2012\ -->
+<!-- *Civil Engineer \hfill São Carlos, Brazil*\ -->
+<!-- Executed AutoCAD-based infrastructure digitization, oversaw routine building maintenance, and participated in the supervision of ongoing construction projects at ICMC. -->
 
 [^ALS]: Interview featured on Rede Globo’s Jornal Hoje program (<https://globoplay.globo.com/v/8165879/>).
 
@@ -159,7 +150,7 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
 
 ## Tenure track position
 
-1. **Tenured Assistant Professor** | Full Dedication to Teaching and Research (RDIDP) \dotfill 2014 – present\
+1. **Assistant Professor (MS-3.2)** | Full Dedication to Teaching and Research (RDIDP) \dotfill 2014 – present\
       *University of São Paulo (USP), Department of Transportation Engineering, São Carlos, Brazil*
       * Current Duties: Lead of Intelligent Transportation Systems Group, Graduate Supervision, Undergraduate Teaching.
 
@@ -172,19 +163,68 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
       * Duties: Undergraduate teaching.
 
 
+## International visiting appointments {#sec-international}
+
+1. **University of Melbourne (UoM)**, Australia | *Visiting Researcher (CAPES-Print)* \dotfill 2020
+
+1. **University of Zagreb (UNIZG)**, Croatia | *Visiting Lecturer (ERASMUS+)* \dotfill 2018, 2022
+
+1. **University of Minho (UMinho)**, Portugal | *Visiting Professor (CAPES-FCT)* \dotfill 2017
+
+1. **Technical University of Munich (TUM)**, Germany | *Visiting Professor (FAPESP-BAYLAT)* \dotfill 2016, 2017
+
+
+<!-- 1. **University of Zagreb (UNIZG)** \hfill Apr. 2022\ -->
+<!-- *Visiting Lecturer \hfill Zagreb, Croatia*\ -->
+<!-- ERASMUS+ Program: Virtual Teaching Mobility Agreement (Workload: 8h) -->
+
+<!-- 1. **University of Melbourne (UniMelb)** \hfill Jan. 2020 -- Dec 2020\ -->
+<!-- *Visiting Professor \hfill Melbourne, Australia*\ -->
+<!-- CAPES-Print Program – Junior Visiting Professor No. 88887.371506/2019-00  -->
+
+<!-- 1. **University of Zagreb (UNIZG)** \hfill Jun. 2018\ -->
+<!-- *Visiting Lecturer \hfill Zagreb, Croatia*\ -->
+<!-- ERASMUS+ Program: Higher Education Mobility Agreement (UNIZG/USP-EESC) (Workload: 13h) -->
+
+<!-- 1. **University of São Paulo (USP)** \hfill Sep. 2017\ -->
+<!-- *Visiting Professor \hfill São Paulo, Brazil*\ -->
+<!-- TUM-USP `Workshop on Sustainable Mobility` funded by BAYLAT/FAPESP Call -->
+
+<!-- 1. **University of Minho (UMINHO)** \hfill Jul. 2017\ -->
+<!-- *Visiting Professor \hfill Guimarães, Portugal*\ -->
+<!-- Mission funded by CAPES-FCT n. 39/2014  -->
+
+<!-- 1. **Technical University of Munich (TUM)** \hfill Nov. 2016 -- Dec. 2016\ -->
+<!-- *Visiting Professor \hfill Munich, Germany*\ -->
+<!-- TUM-USP `Workshop on Sustainable Mobility` funded by BAYLAT/FAPESP Call -->
+
+<!-- 1. **São Paulo State University (UNESP)** \hfill Mar. 2010 -- Dec. 2010\ -->
+<!-- *Adjunct Professor \hfill Bauru, Brazil*\ -->
+<!-- College of Engineering Bauru (FEB), Civil Engineering undergraduate course. -->
+
+<!-- 1. **University of São Paulo (USP-EESC)** \hfill Feb. 2009 -- Jun. 2009\ -->
+<!-- *Graduate Assistant \hfill São Carlos, Brazil* -->
+
+<!-- 1. **University of São Paulo (USP-EESC)** \hfill Feb. 2006 -- Jun. 2006\ -->
+<!-- *Graduate Assistant \hfill São Carlos, Brazil* -->
+
 
 \hrulefill
 # RESEARCH FUNDING & GRANTS {#sec-budget}
 
 *Total Funding Secured: ~USD 3.38 Million (BRL 18.6M)*
 
-## Competitive Research Grants (Peer-Reviewed)
 
 1. **CCD Sustainability and Innovation in Road Infrastructure** \dotfill 2025--2030\
 *Pavement Recycling as a Pillar of Decarbonization - Centers for Science for Development (CCD)*\
 Role: Co-Principal Investigator\
 Value: ~USD 1.45 Million (BRL 8.0M)\
 Sponsor: FAPESP Grant (2025/07146-8), Brazil
+
+1. **Redesign and Validate the Truck Escape Ramp on the BR-116 (Via Dutra)** \dotfill 2025--2025\
+Role: Principal Investigator\
+Value: ~USD 32,700 (BRL 180,000)\
+Sponsor: Group CCR Highways (RioSP), Brazil
 
 1. **Artificial Intelligence Recreating Environments (IARA)** \dotfill 2023--2028\
 *Applied Research Centers Program (CEPID)*\
@@ -202,6 +242,11 @@ Role: Principal Investigator \
 Value: ~USD 7,200 (BRL 40,000)\
 Sponsor: CNPq Research Productivity Grant (Process 311964/2022-2), Brazil 
 
+1. **Evaluation of Truck Escape Ramp on the BR-116 (Via Dutra)** \dotfill 2023--2023\
+Role: Principal Investigator \
+Value: ~USD 16,300 (BRL 90,000)\
+Sponsor: Group CCR Highways (RioSP), Brazil
+
 1. **Innovative Control Strategies for Sustainable Mobility in Smart Cities** \dotfill 2021--2021\
 Role: Co-Principal Investigator \
 Value: ~USD 9,500 (EUR 8,000)\
@@ -211,6 +256,12 @@ Sponsor: University of Zagreb (UNIZG), Croatia
 Role: Principal Investigator \
 Value: ~USD 103,800 (AUD 150,000)\
 Sponsor: CAPES-Print Program (Process 88887.371506/2019-00), Brazil
+
+
+1. **Site Optimization for Truck Escape Ramps on the BR-376** \dotfill 2019--2019\
+Role: Principal Investigator \
+Value: ~USD 27,200 (BRL 150,000)\
+Sponsor: ARTERIS Autopista Litoral Sul (ALS), Brazil
 
 1. **Image-based method for axle detection and truck classification** \dotfill 2018--2022\
 Role: Principal Investigator \
@@ -227,51 +278,13 @@ Role: Co-Principal Investigator \
 Value: ~USD 3,600 (BRL 20,000)\
 Sponsor: CAPES/FCT Program (Process 39/2017), Brazil
 
-
-## Industry Contracts & Translational Research
-
-1. **Redesign and Validate the Truck Escape Ramp on the BR-116 (Via Dutra)** \dotfill 2025--2025\
-Role: Principal Investigator\
-Value: ~USD 32,700 (BRL 180,000)\
-Sponsor: Group CCR Highways (RioSP), Brazil
-
-1. **Evaluation of Truck Escape Ramp on the BR-116 (Via Dutra)** \dotfill 2023--2023\
-Role: Principal Investigator \
-Value: ~USD 16,300 (BRL 90,000)\
-Sponsor: Group CCR Highways (RioSP), Brazil
-
-1. **Site Optimization for Truck Escape Ramps on the BR-376** \dotfill 2019--2019\
-Role: Principal Investigator \
-Value: ~USD 27,200 (BRL 150,000)\
-Sponsor: ARTERIS Autopista Litoral Sul (ALS), Brazil
-
-
 \hrulefill
 # RESEARCH SUPERVISION & MENTORING {#sec-supervision}
 
-Summary of Supervision Successfully
-: directed 60+ researchers across all academic levels.
-
-  - **PhD Students**: 6 total (3 completed, 3 in progress)
-  - **MSc Students**: 15 total (12 completed, 3 in progress)
-  - **Scientific Initiation**: 18 total (16 completed, 2 in progress)
-  - **Capstone Projects**: 25 completed
-
-### Key Research Theses Directed {-}
-
-  AI & Computer Vision
-  : Supervised novel applications of Deep Learning and Large Multimodal Models (LMMs) for automated truck axle detection and vehicle classification.
-
-  Infrastructure Resilience
-  : Guided research on graph theory applications for measuring urban network vulnerability to extreme flood events.
-
-  Sustainable Mobility
-  : Overseeing current doctoral work on the spatial equity and job accessibility impacts of e-bike systems in metropolitan areas.
-
-### Alumni Placement {-}
-Graduates have secured strategic roles at National Regulatory Agencies (e.g., ANTT, ARTESP), leading Transportation Consultancies, and the Financial Sector. 
-
-
+- **PhD Students**: 6 (3 completed, 3 ongoing)
+- **MSc Students**: 15 (12 completed, 3 ongoing)
+- **Scientific Initiation**: 18 (16 completed, 2 ongoing)
+- **Undergraduate Projects**: 25 completed
 
 ## Completed
 1. Ph.D. (2025-12-08) : [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) "*Classification of trucks by axles using Deep Learning and a Large Multimodal Model*"
@@ -318,42 +331,74 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 
 
+
 \hrulefill
-# TEACHING PORTFOLIO & EDUCATIONAL LEADERSHIP {#sec-lecturer}
+# TEACHING EXPERIENCE {#sec-lecturer}
 
-*University of São Paulo (USP) \dotfill 2014 - present*
+## Lecturer at the University of São Paulo (USP)
 
-## Data Science & Computational Engineering
+### Undergraduate
 
-  Multivariate Data Analysis & Applied Statistics (Graduate)
-  : Modernized the graduate curriculum to include AI techniques (Neural Networks, Decision Trees, Cluster, Genetic Algorithms) and R programming. Guided students in publishing original research based on course datasets.
-  
-  Computational Tools for Civil Engineering (Undergraduate)
-  : Designed and implemented a new elective course to bridge the digital skills gap, introducing 20+ students annually to spreadsheet programming, algorithmic problem-solving, AutoCAD, Civil-3D, and GIS.
+1. **STT0403 - Airports, Ports and Waterways \dotfill 2015--present**\
+5th year compulsory transport course in Civil Engineering curriculum. Designed the lecturers and exercise sessions. Taught in classes of 50+ students.
 
-## Core Transport Engineering & Simulation
+1. **STT0408 - Fundamentals of Transportation Engineering \dotfill 2015--present**\
+3rd year compulsory transport course in Civil Engineering curriculum. Designed and delivered this core transport course, integrating lectures, exercises, and applied lab sessions. Taught classes of 50+ students using inverted classroom strategies and project-based learning, fostering active student engagement and applied problem-solving. The course received an average student rating of 4.5/5.0, reflecting strong satisfaction and engagement.
 
-  Fundamentals of Transportation Engineering (Undergraduate)
-  : Achieved exceptional student evaluations (4.5/5.0) by implementing "inverted classroom" strategies and project-based learning for cohorts of 50+ students.
 
-  Traffic Engineering & Simulation (Undergraduate/Graduate)
-  : Delivers advanced training in microscopic simulation theories (TSIS, VISSIM, AIMSUN, and SUMO), equipping students with industry-ready technical skills.
+1. **STT0628 - Traffic Engineering and Road Traffic Simulation \dotfill 2015--present**\
+3rd year elective transport course in Civil Engineering curriculum. Designed the lecturers, exercise and lab sessions. Small classroom of 10+ students. Presents the fundamental theory of traffic simulation, while equipping students to apply concepts in practice and develop key technical skills.
 
-## Logistics & Infrastructure
 
-  Logistics & Supply Chain Management
-  : Completely redesigned the syllabus to address contemporary challenges, integrating AI-driven logistics tools, GIS route planning, and Green Logistics best practices.
+1. **1800093 - Final Undergraduate Project \dotfill 2016--present**\
+5th year compulsory transport course in Civil Engineering curriculum. My role involves supervising and guiding students through the development of their final engineering projects, with a focus on applying transport engineering concepts to real-world problems. I support students in defining research questions, conducting technical analyses, and producing professional-grade reports, while fostering independent learning and critical thinking. I have supervised 25+ projects in this course.
 
-  Airports & Waterways
-  : Managed large-scale compulsory modules (50+ students), balancing theoretical foundations with practical operational exercises.
 
-## Capstone & Mentorship
+1. **STT0412 - Computational Tools Applied to Civil Engineering \dotfill 2016--present**\
+2nd year elective transport course in Civil Engineering curriculum. I designed and implemented this course to introduce students to computational thinking and practical toolsets for engineering problem-solving. The course encourages students to develop programming skills and apply digital tools—such as spreadsheets, CAD, GIS, and programming languages—to real-world challenges in civil and transport engineering. Small classroom of 20+ students.
 
-  Final Year Engineering Projects (Undergraduate)
-  : Supervised 25+ capstone projects, guiding students from research definition to professional-grade technical reporting .
 
-  Internship Supervision (Undergraduate)
-  : Oversee professional placements for 15+ students, ensuring alignment between academic objectives and industry requirements .
+1. **1800122 - Supervised Internship \dotfill 2019--present**\
+5th year compulsory transport course in Civil Engineering curriculum. My role involves supervising and evaluating student internships conducted in professional engineering environments. I oversee each student’s engagement with the host company, assess their performance, and ensure that the internship experience aligns with academic and professional learning objectives. I have supervised 15+ students.
+
+
+1. **STT0631 - Logistics in construction \dotfill 2026**\
+This elective course integrates theory and practice to prepare students for the efficient management of logistical chains in civil construction projects. Over the semester, students will develop an understanding of the fundamental supply concepts, grasp the scope and challenges of providing the necessary resources based on each project’s scale and characteristics, and learn to identify the factors that impact construction logistics — from cost and scheduling concerns to environmental and regulatory constraints. 
+
+1. **1800123 - Technical Drawing \dotfill 2026**\
+1st year compulsory course in Civil Engineering curriculum. The objective of this course is to elucidate the concept and standards of design, as well as to present digital tools for Engineering projects and the use of georeferenced maps, as well as the use of BIM and 3D visualization software. Classroom with 60 students. 
+
+1. **STT0610 - Logistics and Transportation \dotfill 2024--2025**\
+4th year elective transport course in Civil Engineering curriculum. Redesigned course curriculum to address contemporary logistics and supply chain challenges: AI-driven logistics tools, GIS-based route planning, and Green logistics best practices. Small classroom of 10+ students. 
+
+1. **STT0618 - Air Transport \dotfill 2014**\
+4th year elective transport course in Civil Engineering curriculum. Designed the lecturers, exercise and lab sessions. Small classroom of 10+ students.
+
+### Graduate
+
+1. **STT5874 - Advanced Topics in Traffic Engineering \dotfill 2015--present**\
+Elective course in the Transportation Engineering Program. Coordinate the course, designed the lectures and lab sessions. Small classroom of 10+ students. Provides a foundation in traffic simulation theory and engages students in applying concepts through real-world scenarios and hands-on technical training.
+
+
+1. **STT5898 - Applied Statistics for Transportation Engineering \dotfill 2015--present**\
+Elective course in the Transportation Engineering Program. Coordinate the course, designed the lectures and exercises. Small classroom of 15+ students. This course serves as a foundational milestone, equipping students with the core statistical methods required for graduate-level study and research.
+
+
+1. **STT5900 - Multivariate Data Analysis Applied to Transportation Engineering \dotfill 2015--present**\
+Elective course in the Transportation Engineering Program. Coordinate the course, designed the lectures and exercises. Small classroom of 15+ students. Course introducing AI techniques using R—such as neural networks, clustering, PCA, decision trees, and genetic algorithms—applied to each student’s own dataset. The course culminates in the submission of an article presenting the dataset, methodology, and preliminary results.
+
+
+1. **STT5859 - Transport Technology \dotfill 2016--present**\
+Compulsory course in the Transportation Engineering Program. This core course is jointly taught by four professors and provides a comprehensive foundation in transportation planning and operations. Designed for students at all levels, it offers a structured, level-based approach to essential concepts and methodologies in the field. Small classroom of 15+ students.
+
+
+1. **STT5905 - Bibliographic Research for Transportation Systems \dotfill 2017--present**\
+Compulsory course in the Transportation Engineering Program. A core course that guides and encourages students to develop a comprehensive literature review, fostering critical analysis and familiarity with key academic sources in the field. Small classroom of 15+ students.
+
+
+1. **STT5909 - Data Analysis Laboratory with Open-Source Software R \dotfill 2017**\
+Elective course in the Transportation Engineering Program. Coordinate the course, designed the lectures and exercises. Small classroom of 10+ students. This course was designed to provide a foundational introduction to R programming for solving transport engineering problems.
+
 
 
 \hrulefill
@@ -531,33 +576,20 @@ Academic Secretariat of Civil Engineering (SACivil), Brazil.
 
 # PROFESSIONAL SERVICES {#sec-services}
 
-## University of São Paulo
-
-  - **Departmental Strategy**: elected member of the Department Council, governing faculty hiring priorities, budget allocation, and strategic partnerships for the Transport Engineering department.
-
-  - **Research Innovation**: Shaping R&D policies as a member of the Research and Innovation Committee (CPqI), fostering interdisciplinary grants and industry collaboration.
-
-  - **Graduate Coordination**: Steering the Graduate Program in Transport Engineering (CCP-ET); overseeing admissions, curriculum quality control, and scholarship distribution for Master’s and PhD cohorts.
-
-  - **Pedagogical Reform**: Driving modernization in engineering education as a board member of the Center for Educational Technology (CETEPE) and the Culture & Extension Committee (CCEx).
-
-## Editorial & Peer Review Leadership
-
-  - **Journal Adjudication**: Ensuring scientific rigor as an active reviewer for high-impact Q1 journals, including Transportation Research Part E, Engineering Applications of Artificial Intelligence (EAAI), and Sustainable Cities and Society.
-
-  - **Conference Technical Committees**: Defining technical agendas for global bodies including the Transportation Research Board (TRB), IEEE Intelligent Transportation Systems Society (ITSS), and the National Association for Research (ANPET).
-
-<!--
 - **Academic Service**: Member of Department Council of Transport Engineering, Research and Innovation Committee (CPqI), Graduate Program Coordination Committee in Transport Engineering (CCP-ET), Culture and University Extension Committee (CCEx), Center for Educational Technology in Engineering (CETEPE),
 
 - **Reviewer**: Transportation Research Part E, Sustainability, Case Studies on Transport Policy, Transportes, Sensors, Promet - Traffic & Transportation Journal, Geo-spatial Information Science, Journal of the International Association of Traffic and Safety Sciences (IATSS), Drones, Engineering Applications of Artificial Intelligence (EAAI), Sensors, Sustainable Cities and Society.        
 
 - **Scientific Committee**: Transportation Research Board TRB, IEEE Intelligent Transportation Systems Society (ITSS), National Association for Research and Education in Transportation (ANPET), International Scientific Conference (ZIRP), International Symposium ELMAR, The Science and Development of Transport (TRANSCODE).
 
--->
 
+\hrulefill
 
+# TECHNICAL SKILLS {#sec-skills}
 
+- **Programming languages**: C++, R, Python, Julia, HTML, CSS, JavaScript, Matlab
 
+- **Tools**: CAD, Civil-3D, OpenCV, TSIS-CORSIM, AIMSUN, SUMO, VISSIM, MATSim, QGIS
 
+- **Languages**: Portuguese (native), English (advanced), Spanish (basic)
 

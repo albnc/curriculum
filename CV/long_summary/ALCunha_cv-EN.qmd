@@ -42,7 +42,7 @@ format:
 \hrulefill
 ## Professional profile {-}
 
-Tenured researcher and Technical Lead with 12+ years of experience bridging the gap between advanced academic research and industrial application in Civil Engineering. Specialist in Transport Modelling, Highway Safety, and Artificial Intelligence, with a focus on translating R&D into operational safety standards. Proven track record of securing over USD 3.30 Million (BRL 18.6M) in competitive grants and contracts [[@sec-budget]]. Global academic experience includes visiting appointments in Australia (UoM), Germany (TUM), Croatia (UNIZG), and Portugal (UMinho) [[@sec-international]].
+Tenured researcher and Technical Lead with 12+ years of experience bridging the gap between advanced academic research and industrial application in Civil Engineering. Specialist in Transport Modelling, Highway Safety, and Artificial Intelligence, with a focus on translating R&D into operational safety standards. Proven track record of securing ~USD 3.38 Million (BRL 18.6M) in competitive grants and contracts [[@sec-budget]]. Global academic experience includes visiting appointments in Australia (UoM), Germany (TUM), Croatia (UNIZG), and Portugal (UMinho) [[@sec-international]].
 
 
 ## Key career highlights {-}
@@ -68,12 +68,21 @@ Tenured researcher and Technical Lead with 12+ years of experience bridging the 
 
 ## Research Agenda {-}
 
+  - **Pavement Recycling & Decarbonization (SDG 9 & 12)**: As Co-PI on the USD 1.45 Million "Pavement Recycling as a Pillar of Decarbonization" initiative, I spearhead the data-driven modeling and optimization frameworks. My research validates the structural performance of recycled materials through digital simulations, supporting Industry Innovation (SDG 9) and Responsible Consumption (SDG 12) by engineering the technical protocols for net-zero infrastructure.
+
+   - **Urban Climate Resilience & Social Equity (SDG 11 & 13)**: Assessing the vulnerability of multimodal networks to climate stressors (e.g., extreme floods) using graph theory and network redundancy analysis. The goal is to design "fail-safe" transport systems that ensure marginalized communities retain access to essential services during disasters, aligning with Sustainable Cities (SDG 11) and Climate Action (SDG 13).
+
+  - **Next-Gen AI for Global Safety Standards (SDG 3.6)**: Deploying Deep Learning and Large Multimodal Models (LMMs) to create real-time traffic anomaly detection systems. This work scales my previous success with national concessionaires (CCR/ARTERIS) into global operational standards, aiming to halve road traffic deaths in alignment with SDG 3.6.
+
+  - **Digital Twins & International Policy (SDG 17)**: Bridging the gap between advanced R&D and developing economies by creating "Digital Twins" for highway concessions. This initiative integrates Edge AI and sensor fusion to provide the technical foundation for smart city policies globally, fostering Partnerships for the Goals (SDG 17).
+
+<!--
   - **Next-Gen AI in Transport (LMMs & Vision)** : Advancing beyond traditional computer vision to deploy Large Multimodal Models (LMMs) for real-time traffic anomaly detection and autonomous logistics. My current roadmap focuses on integrating unstructured data (video/text/sensors) into predictive safety models, utilizing Edge AI for low-latency decision-making in mixed-traffic environments.
   
   - **Urban Climate Resilience & Social Equity** : Assessing the vulnerability of multimodal urban networks to climate stressors, with a specific focus on accessibility for vulnerable populations. My research quantifies how extreme weather impacts the daily commute to essential services (employment, healthcare, leisure) for marginalized communities. By evaluating city-wide intermodality and network redundancy, I aim to design resilient public transport systems that ensure equitable access during environmental disruptions.
   
   - **International Funding Targets** : Preparing collaborative grant proposals to fund the development of "Digital Twins" for highway concessions in developing economies.
-
+-->
 
 \hrulefill
 

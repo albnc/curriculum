@@ -384,6 +384,10 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 1. SALINAS, K., BARELLA, V., **CUNHA, A.L.**, [OLIVEIRA, G.M.]{.underline}, VIERA, T., NONATO, L.G. (2025) "ORDENA: ORigin-DEstiNAtion data exploration". IEEE Transactions on Visualization and Computer Graphics <[arXiv:2510.18278](https://arxiv.org/pdf/2510.18278)>
 
+1. [LOURO, T. V.]{.underline}, GRIGOLON, A. B., **CUNHA, A. L.**, Geurs, K. T. (2025). "Cycling accessibility and equity: A systematic literature review". Manuscript submitted for publication to Transport Reviews.
+
+1. [LOURO, T. V.]{.underline}, TOMASIELLO, D. B., GRIGOLON, A. B., **CUNHA, A. L.**, Geurs, K. T. (2026). "Integrating e-bikes and bikesharing with public transit: Evaluation of impacts on job accessibility and spatial equity". Manuscript submitted for publication to Journal of Urban Mobility.
+
 
 ## Peer-Reviewed Journal
 

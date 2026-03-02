@@ -512,6 +512,16 @@ Financial Sector.
     exploration”. IEEE Transactions on Visualization and Computer
     Graphics \<[arXiv:2510.18278](https://arxiv.org/pdf/2510.18278)\>
 
+2.  <u>LOURO, T. V.</u>, GRIGOLON, A. B., **CUNHA, A. L.**, Geurs, K. T.
+    (2025). “Cycling accessibility and equity: A systematic literature
+    review”. Manuscript submitted for publication to Transport Reviews.
+
+3.  <u>LOURO, T. V.</u>, TOMASIELLO, D. B., GRIGOLON, A. B., **CUNHA, A.
+    L.**, Geurs, K. T. (2026). “Integrating e-bikes and bikesharing with
+    public transit: Evaluation of impacts on job accessibility and
+    spatial equity”. Manuscript submitted for publication to Journal of
+    Urban Mobility.
+
 ## Peer-Reviewed Journal
 
 1.  <u>LOURO, T.V.</u>; GRIGILON, A.B.; TIRACHINI, A.; **CUNHA, A.L.**;

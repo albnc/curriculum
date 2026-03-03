@@ -33,7 +33,7 @@ bridging the gap between advanced academic research and industrial
 application in Civil Engineering. Specialist in Transport Modelling,
 Highway Safety, and Artificial Intelligence, with a focus on translating
 R&D into operational safety standards. Proven track record of securing
-over USD 3.30 Million (BRL 18.6M) in competitive grants and contracts
+~USD 3.38 Million (BRL 18.6M) in competitive grants and contracts
 \[<a href="#sec-budget" class="quarto-xref">Section 6</a>\]. Global
 academic experience includes visiting appointments in Australia (UoM),
 Germany (TUM), Croatia (UNIZG), and Portugal (UMinho)
@@ -353,8 +353,9 @@ Financial Sector.
 
 1.  Ph.D. (2025-12-08) : [Leandro Arab
     Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en)
-    “*Classification of trucks by axles using Deep Learning and a Large
-    Multimodal Model*”
+    “*[Classification of trucks by axles using Deep Learning and a Large
+    Multimodal
+    Model](https://doi.org/10.11606/T.18.2025.tde-11022026-082130)*”
 
 2.  Ph.D. (2025-05-23) : [Andre Borgato
     Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en)
@@ -511,13 +512,24 @@ Financial Sector.
     exploration”. IEEE Transactions on Visualization and Computer
     Graphics \<[arXiv:2510.18278](https://arxiv.org/pdf/2510.18278)\>
 
+2.  <u>LOURO, T. V.</u>, GRIGOLON, A. B., **CUNHA, A. L.**, Geurs, K. T.
+    (2025). “Cycling accessibility and equity: A systematic literature
+    review”. Manuscript submitted for publication to Transport Reviews.
+
+3.  <u>LOURO, T. V.</u>, TOMASIELLO, D. B., GRIGOLON, A. B., **CUNHA, A.
+    L.**, Geurs, K. T. (2026). “Integrating e-bikes and bikesharing with
+    public transit: Evaluation of impacts on job accessibility and
+    spatial equity”. Manuscript submitted for publication to Journal of
+    Urban Mobility.
+
 ## Peer-Reviewed Journal
 
 1.  <u>LOURO, T.V.</u>; GRIGILON, A.B.; TIRACHINI, A.; **CUNHA, A.L.**;
     GEURS, K.T. (2026) “How Do E-Bikes Measure Up? Analyzing Speed
     Differences and Network Impacts of São Paulo’s Bikesharing System”.
     Transportation.  
-    \<DOI: [10.31224/5719](https://doi.org/10.31224/5719)\>
+    \<DOI:
+    [10.1007/s11116-026-10724-y](https://doi.org/10.1007/s11116-026-10724-y)\>
 
 2.  <u>LOURO, T.V.</u>; GRIGILON, A.B.; **CUNHA, A.L.**; GEURS,
     K.T. (2025) “E-bikes’ impact on job accessibility and equity in São

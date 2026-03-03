@@ -17,18 +17,22 @@ format:
     link-citations: true
 ---
 
-# ANDRÉ LUIZ BARBOSA NUNES DA CUNHA, Ph.D. {-}
 
-**Tenured Assistant Professor of Civil Engineering & AI Specialist in Transport Engineering**\
-*University of São Paulo ([USP](https://www5.usp.br/en)), São Carlos School of Engineering ([EESC](https://eesc.usp.br/en/)), Departament of Transport Engineering ([STT](https://eesc.usp.br/ppgs/stt/))*\
-*São Carlos, SP, Brazil* 
+## ANDRÉ LUIZ BARBOSA NUNES DA CUNHA {-}
 
-<alcunha@usp.br> | +55 16 3373 9597 | +55 16 98119 2339\
-[[Google Scholar]](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en) |
-[[ORCID]](https://orcid.org/0000-0002-0520-0621)  | 
-[[WoS]](https://www.webofscience.com/wos/author/record/U-4375-2019)  |
-[[LinkedIn]](https://www.linkedin.com/in/prof-alcunha/)  |
+**Tenured Assistant Professor of Civil Engineering · AI Specialist in Transport Engineering**\
+*University of São Paulo ([USP](https://www5.usp.br/en)) · São Carlos School of Engineering ([EESC](https://eesc.usp.br/en/))*\
+*Departament of Transport Engineering ([STT](https://eesc.usp.br/ppgs/stt/)) · São Carlos, SP, Brazil*\
++55 16 3373 9597 | +55 16 98119 2339
+  
+[<alcunha@usp.br>] ·
+[[Google Scholar]](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en) ·
+[[ORCID]](https://orcid.org/0000-0002-0520-0621)  · 
+[[WoS]](https://www.webofscience.com/wos/author/record/U-4375-2019) ·
+[[LinkedIn]](https://www.linkedin.com/in/prof-alcunha/) ·
 [[LinkTree]](https://linktr.ee/prof_alcunha) 
+  
+
 
 <!--
 [^gscholar]: <https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en>
@@ -48,7 +52,7 @@ Tenured researcher and Technical Lead with 12+ years of experience bridging the 
 ## Key career highlights {-}
   - **Research Leadership** : Directed a research portfolio of 60+ scholars (6 PhD, 15 MSc, 25+ Undergraduate), guiding 3 PhDs and 12 MScs to completion. [[@sec-supervision]]
   - **Industry Impact** : Partnered with major concessionaires (CCR & ARTERIS) to define national safety standards for Truck Escape Ramps, utilizing simulation models to enforce safe approach speed limits on federal highways. [[@sec-professional]]
-  - **AI & Innovation** : Pioneered the application of Deep Learning and Computer Vision (OpenCV) for automated vehicle classification and traffic parameter extraction. [[@sec-supervision]]
+  - **AI & Innovation** : Pioneered the application of Deep Learning and Computer Vision (OpenCV) for automated vehicle classification and traffic parameter extraction. [[@sec-completed]]
 
 
 ## Areas of expertise {-}
@@ -276,7 +280,7 @@ Summary of Supervision Successfully
   - **Scientific Initiation**: 18 total (16 completed, 2 in progress)
   - **Capstone Projects**: 25 completed
 
-### Key Research Theses Directed {-}
+**Key Research Theses Directed**
 
   AI & Computer Vision
   : Supervised novel applications of Deep Learning and Large Multimodal Models (LMMs) for automated truck axle detection and vehicle classification.
@@ -287,12 +291,13 @@ Summary of Supervision Successfully
   Sustainable Mobility
   : Overseeing current doctoral work on the spatial equity and job accessibility impacts of e-bike systems in metropolitan areas.
 
-### Alumni Placement {-}
+**Alumni Placement**
+
 Graduates have secured strategic roles at National Regulatory Agencies (e.g., ANTT, ARTESP), leading Transportation Consultancies, and the Financial Sector. 
 
 
 
-## Completed
+## Completed {#sec-completed}
 1. Ph.D. (2025-12-08) : [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) "*Classification of trucks by axles using Deep Learning and a Large Multimodal Model*"
 
 1. Ph.D. (2025-05-23) : [Andre Borgato Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en) "*Analysis of Flood Vulnerability in Brazilian Urban Networks Using Graph Theory Tools.*"
@@ -378,7 +383,7 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 \hrulefill
 # PUBLICATIONS {#sec-publications}
 
-> *Students advised by prof. A.L. Cunha are underlined*.
+*Students mentored by Prof. A.L. Cunha are denoted by underlining*.
 
 ## Submitted Manuscripts
 

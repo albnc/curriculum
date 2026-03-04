@@ -419,7 +419,7 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 <DOI: [10.14295/transportes.v29i1.2250](https://doi.org/10.14295/transportes.v29i1.2250)>
 
 1. SILVA, F.A.; BESSA JÚNIOR, J.E.; COSTA, A.L.; **CUNHA, A.L.**; ANDALÍCIO, A.F.; DA COSTA VELHO, D.M.; NAZARETH, V.S. (2021) Evaluation of the effect of climbing lanes on segments of two-lane highways. Transportes (Rio de Janeiro). v.29, p.1-16.  
-<DOI: [10.14295/transportes.v29i1.2359](https://doi.org/10.14295/transportes.v29i1.2359)>
+<DOI: [10.14295/transportes.v29i2.2359](https://doi.org/10.14295/transportes.v29i2.2359)>
 
 1. [MORELLI, A.B.]{.underline}; **CUNHA, A.L.** (2021) Measuring urban road network vulnerability to extreme events: An application for urban floods. Transportation Research Part D -- Transport and Environment. v.93, p.102770.  
 <DOI: [10.1016/j.trd.2021.102770](https://doi.org/10.1016/j.trd.2021.102770)>

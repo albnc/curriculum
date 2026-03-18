@@ -1,0 +1,888 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  10pt,
+  a4paper,
+  DIV=11,
+  numbers=noendperiod]{scrartcl}
+\usepackage{xcolor}
+\usepackage[left=15mm,right=15mm,top=20mm,bottom=20mm]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+  \setmainfont[]{Candara}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+\ifLuaTeX
+  \usepackage{luacolor}
+  \usepackage[soul]{lua-ul}
+\else
+  \usepackage{soul}
+\fi
+
+
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\author{}
+\date{}
+\begin{document}
+
+
+\subsection*{ANDRÉ LUIZ BARBOSA NUNES DA
+CUNHA}\label{andruxe9-luiz-barbosa-nunes-da-cunha}
+\addcontentsline{toc}{subsection}{ANDRÉ LUIZ BARBOSA NUNES DA CUNHA}
+
+\textbf{Tenured Assistant Professor of Civil Engineering \textbar{} AI
+\& Sustainability in Transport} University of São Paulo
+(\href{https://www5.usp.br/en}{USP}) • São Carlos School of Engineering
+(\href{https://eesc.usp.br/en/}{EESC}) Department of Transport
+Engineering (\href{https://eesc.usp.br/ppgs/stt/}{STT}) • São Carlos,
+SP, Brazil
+
+{[}\href{mailto:alcunha@usp.br}{\nolinkurl{alcunha@usp.br}}{]}
+\textbar{} +55 16 98119 2339 \textbar{}
+\href{https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en}{{[}Google
+Scholar{]}} \textbar{}
+\href{https://orcid.org/0000-0002-0520-0621}{{[}ORCID{]}} \textbar{}
+\href{https://www.linkedin.com/in/prof-alcunha/}{{[}LinkedIn{]}}
+\textbar{} \href{https://linktr.ee/prof_alcunha}{{[}LinkTree{]}}
+
+\hrulefill
+
+\subsection{PROFESSIONAL SUMMARY}\label{professional-summary}
+
+Tenured civil engineering academic with 12+ years of post-doctoral
+experience bridging transport infrastructure, sustainability, and
+AI-driven engineering. Research portfolio of \textasciitilde USD 3.38
+million in competitive grants and industry contracts. Co-PI on a USD
+1.45M FAPESP initiative on pavement recycling and decarbonisation.
+Extensive teaching leadership (6 courses, curriculum redesign, inverted
+classroom), research supervision (60+ scholars, 3 PhDs and 12 MScs
+completed), and institutional governance. International research
+experience in Australia, Germany, Croatia, and Portugal.
+
+\hrulefill
+
+\section{EDUCATION}\label{education}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Ph.D.~in Transportation Engineering} \dotfill Nov.~2013\\
+  University of São Paulo (USP), São Carlos School of Engineering
+  (EESC), Brazil
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Thesis}:
+    ``\texttt{Automatic\ system\ for\ vehicular\ traffic\ parameters\ using\ OpenCV}''
+  \item
+    \emph{DOI}:
+    \href{https://doi.org/10.11606/T.18.2013.tde-19112013-165611}{10.11606/T.18.2013.tde-19112013-165611}
+  \item
+    Funded by CNPq (National Council for Scientific and Technological
+    Development), Brazil.
+  \end{itemize}
+\item
+  \textbf{M.Sc. in Transportation Engineering} \dotfill Oct.~2007\\
+  University of São Paulo (USP), São Carlos School of Engineering
+  (EESC), Brazil
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Thesis}:
+    ``\texttt{Evaluation\ of\ performance\ measurement\ impact\ on\ truck\ passenger\ car\ equivalents}''
+  \item
+    \emph{DOI}:
+    \href{https://doi.org/10.11606/D.18.2007.tde-27112007-094400}{10.11606/D.18.2007.tde-27112007-094400}
+  \item
+    Funded by CNPq, Brazil.
+  \end{itemize}
+\item
+  \textbf{B.S. in Civil Engineering} \dotfill Feb.~2004\\
+  Federal University of Mato Grosso do Sul (UFMS), Brazil
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{GPA}: 3.79/4.00 \(\rightarrow\) (9.5/10.0), (Highest Honors)
+  \end{itemize}
+\end{enumerate}
+
+\hrulefill
+
+\section{ACADEMIC APPOINTMENTS}\label{academic-appointments}
+
+\textbf{Tenured Assistant Professor} (equivalent to Associate Professor)
+\dotfill 2014 -- present\\
+\emph{University of São Paulo (USP), Dept. of Transport Engineering},
+São Carlos, Brazil.
+
+\begin{verbatim}
+- Director of the Intelligent Transportation Systems (ITS) Research Group.
+
+- Tenure awarded 2021; promoted to Senior Faculty status (MS-3.2).
+
+- Elected: Department Council, Graduate Coordinating Committee (CCP-ET), Center for Educational Technology in Engineering (CETEPE), Research and Innovation Committee (CPqI), Culture & Extension Committee (CCEx)
+\end{verbatim}
+
+\textbf{Research Scientist \& Laboratory Specialist} \dotfill 2013 --
+2014\\
+\emph{University of São Paulo (USP), Department of Transport Engineering
+(STT)}, São Carlos, Brazil.
+
+\textbf{Assistant Professor} \dotfill 2010\\
+\emph{São Paulo State University (UNESP), College of Engineering of
+Bauru (FEB)}, Bauru, Brazil.
+
+\hrulefill
+
+\section{INTERNATIONAL MOBILITY}\label{international-mobility}
+
+\begin{itemize}
+\item
+  \textbf{University of Melbourne} (Australia) - Visiting Researcher,
+  CAPES-Print (2020)
+\item
+  \textbf{University of Zagreb} (Croatia) - Visiting Lecturer, ERASMUS+
+  (2018, 2022)
+\item
+  \textbf{University of Minho} (Portugal) - Visiting Professor,
+  CAPES-FCT (2017)
+\item
+  \textbf{Technical University of Munich} (Germany) - Visiting
+  Professor, FAPESP-BAYLAT (2016, 2017)
+\end{itemize}
+
+\subsection{RESEARCH AGENDA - Sustainability \&
+Innovation}\label{research-agenda---sustainability-innovation}
+
+\begin{itemize}
+\item
+  \textbf{Pavement Recycling \& Decarbonization (SDG 9 \& 12)}: Co-PI on
+  FAPESP USD 1.45M initiative. Data-driven modelling and optimisation
+  for recycled pavement materials; engineering technical protocols for
+  net-zero infrastructure.
+\item
+  \textbf{Urban Climate Resilience \& Social Equity (SDG 11 \& 13)}:
+  Assessing multimodal network vulnerability to extreme floods using
+  graph theory. Designing fail-safe transport systems for marginalised
+  communities.
+\item
+  \textbf{Next-Gen AI for Global Safety Standards (SDG 3.6)}: Deep
+  learning and large multimodal models for real-time traffic anomaly
+  detection. Scaling national concessionaire work to global operational
+  standards.
+\item
+  \textbf{Digital Twins \& International Policy (SDG 17)}: Digital twins
+  for highway concessions integrating Edge AI and sensor fusion for
+  smart city policies.
+\end{itemize}
+
+\hrulefill
+
+\section{RESEARCH FUNDING \& GRANTS (\textasciitilde USD 3.38 Million
+Total)}\label{research-funding-grants-usd-3.38-million-total}
+
+\emph{Total Funding Secured: \textasciitilde USD 3.38 Million (BRL
+18.6M)}
+
+\subsection{Competitive Research Grants
+(Peer-Reviewed)}\label{competitive-research-grants-peer-reviewed}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{2025--2030:} FAPESP CCD Grant --- ``Pavement Recycling as a
+  Pillar of Decarbonisation.'' Co-PI. \textasciitilde USD 1.45M
+\item
+  \textbf{2023--2028:} FAPESP CEPID ``IARA'' --- AI Recreating
+  Environments. Research Collaborator. \textasciitilde USD 1.8M
+\item
+  \textbf{2023--2026:} CNPq Consolidated Groups --- Traffic modelling
+  for smart/connected cities. PI. \textasciitilde USD 13,900
+\item
+  \textbf{2023--2026:} CNPq Research Productivity --- AI tools for urban
+  mobility. PI. \textasciitilde USD 7,200
+\item
+  \textbf{2021:} Uni. Zagreb --- Innovative Control Strategies for
+  Sustainable Mobility. Co-PI. \textasciitilde USD 9,500
+\item
+  \textbf{2019:} CAPES-Print --- Visiting Professorship, University of
+  Melbourne. PI. \textasciitilde AUD 150,000
+\item
+  \textbf{2018--2022:} CNPq Universal --- Image-based truck axle
+  detection and classification. PI. \textasciitilde USD 2,700
+\item
+  \textbf{2018:} Uni. Zagreb --- Deep learning in intelligent traffic
+  control. Co-PI. \textasciitilde USD 10,100
+\item
+  \textbf{2013--2016:} CAPES/FCT --- Promoting sustainable and safe
+  urban mobility. Co-PI. \textasciitilde USD 3,600
+\end{itemize}
+
+\subsection{Industry Contracts \& Translational
+Research}\label{industry-contracts-translational-research}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{2025:} CCR Group (RioSP) --- Redesign truck escape ramp BR-116
+  (Via Dutra). PI. \textasciitilde USD 32,700
+\item
+  \textbf{2023:} CCR Group (RioSP) --- Evaluate truck escape ramp BR-116
+  (Via Dutra). PI. \textasciitilde USD 16,300
+\item
+  \textbf{2019:} ARTERIS (ALS) --- Site optimisation for truck escape
+  ramps BR-376. PI. \textasciitilde USD 27,200
+\end{itemize}
+
+\hrulefill
+
+\section{RESEARCH SUPERVISION \&
+MENTORING}\label{research-supervision-mentoring}
+
+\begin{description}
+\tightlist
+\item[\textbf{Summary}]
+60+ researchers directed. 6 PhD (3 completed, 3 in progress) \textbar{}
+15 MSc (12 completed, 3 in progress) \textbar{} 18 scientific initiation
+(16 completed) \textbar{} 25 capstone projects completed
+\end{description}
+
+\subsection{Completed PhD (3)}\label{completed-phd-3}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \href{}{G.J.M. Oliveira} (2024):
+  ``\emph{\href{https://minerva-access.unimelb.edu.au/items/9d41c43a-a211-41ce-92fe-f081fc49e630}{Toward
+  a Data-driven Framework to Analyse Temporal and Spatial Distributions
+  of Crashes}}''
+\item
+  \href{https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en}{L.A.
+  Marcomini} (2025):
+  ``\emph{\href{https://doi.org/10.11606/T.18.2025.tde-11022026-082130}{Classification
+  of trucks by axles using Deep Learning and a Large Multimodal
+  Model}}''
+\item
+  \href{https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en}{A.B.
+  Morelli} (2025): ``\emph{Analysis of Flood Vulnerability in Brazilian
+  Urban Networks Using Graph Theory Tools.}''
+\end{enumerate}
+
+\subsection{PhD in Progress}\label{phd-in-progress}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \href{https://scholar.google.com.br/citations?user=0r-M5IcAAAAJ}{E.R.
+  Ribeiro}: ``\emph{Analysis of motorcyclist' behaviour on urban
+  segments: Relationship between riding patterns and rider profile}''
+\item
+  \href{https://scholar.google.com.br/citations?user=ietBcOUAAAAJ}{T.V.
+  Louro}: ``\emph{Examining The Impacts Of Electric Bicycles On
+  Accessibility To Jobs And Spatial Equity}''
+\item
+  \href{https://scholar.google.com.br/citations?user=hy142eUAAAAJ}{P.H.C.
+  Caliari}: ``\emph{Evaluation of causal inference and spatial effects
+  on travel behavior}''
+\end{enumerate}
+
+\subsection{Completed MSc (12)}\label{completed-msc-12}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \href{}{C.E. Ribeiro} (2024):
+  ``\emph{\href{https://doi.org/10.11606/D.18.2024.tde-31102024-114415}{Evaluation
+  of deep neural networks for vehicle detection in satellite images}}''
+\item
+  \href{https://lattes.cnpq.br/6933325479741942}{P.Y. Matsumoto} (2022):
+  ``\emph{\href{https://doi.org/10.11606/D.18.2022.tde-18102022-103557}{Calibration
+  of Cellular Automata model for simulation of the traffic flow behavior
+  in São Paulo roads}}''
+\item
+  \href{https://lattes.cnpq.br/2263620972100266}{H.S. Stefani} (2021):
+  ``\emph{\href{https://doi.org/10.11606/D.18.2021.tde-22082022-091919}{Urban
+  roadway traffic flow prediction from crowdsourced speed data}}''
+\item
+  \href{https://lattes.cnpq.br/7512695029586698}{A.D.Bosco Jr} (2020):
+  ``\emph{\href{https://doi.org/10.11606/D.18.2020.tde-18042022-143053}{Usability
+  of Points of Interest and network centralities of collaborative maps
+  for trip attraction analysis: case study of Curitiba}}''
+\item
+  \href{https://scholar.google.com.br/citations?user=BqdPZ2gAAAAJ}{A.B.
+  Morelli} (2019)
+  ``\emph{\href{https://doi.org/10.11606/D.18.2020.tde-13012020-153303}{Exploratory
+  analysis of resilience in urban road networks}}''
+\item
+  \href{https://lattes.cnpq.br/3302815314452867}{B. Kuramoto} (2019):
+  ``\emph{\href{https://doi.org/10.11606/D.18.2019.tde-20082019-084513}{Data
+  exploration of collaborative maps in evaluations of Brazilian urban
+  morphologies}}''
+\item
+  \href{https://lattes.cnpq.br/1581979506356539}{A.B. Felicio} (2019):
+  ``\emph{\href{https://doi.org/10.11606/D.18.2020.tde-12052020-170835}{Evaluation
+  of the behavior of motorcyclists through the video image processing
+  system}}''
+\item
+  \href{https://lattes.cnpq.br/3462901770011968}{N.R. Panice} (2018):
+  ``\emph{\href{https://doi.org/10.11606/D.18.2018.tde-11122018-213600}{Truck
+  axle detection automatic method based on images}}''
+\item
+  \href{https://lattes.cnpq.br/9374994847060943}{M.M. Thebit} (2018):
+  ``\emph{\href{https://doi.org/10.11606/D.18.2018.tde-10122018-225948}{Reconstruction
+  of a synthetic O/D matrix using traffic data available on the web}}''
+\item
+  \href{https://lattes.cnpq.br/3128200022537201}{L.A. Marcomini} (2018):
+  ``\emph{\href{https://doi.org/10.11606/D.18.2018.tde-01102018-102649}{Automatic
+  identification of traffic behavior using video images}}''
+\item
+  \href{https://lattes.cnpq.br/1828432370828925}{G.J.M. Oliveira}
+  (2018):
+  ``\emph{\href{https://doi.org/10.11606/D.18.2018.tde-10092018-150848}{Calibration
+  of speed-flow relationship for freeways and multilane highways}}''
+\item
+  \href{https://lattes.cnpq.br/4988917064689096}{E.R. Ribeiro} (2017):
+  ``\emph{\href{https://doi.org/10.11606/D.18.2017.tde-07112017-212156}{Exploratory
+  method analysis using Wavelet to detect patterns and anomalies in
+  traffic history data}}''
+\end{enumerate}
+
+\subsection{MSc in Progress}\label{msc-in-progress}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \href{http://lattes.cnpq.br/7862988333397510}{A.V. Costa}
+  ``\emph{Accessibility to Social Services in Belo Horizonte-MG}''
+\item
+  \href{http://lattes.cnpq.br/6355612958124418}{M.E.S. Michelini}
+  ``\emph{Development of an Emission Estimation Model for Brazilian
+  Cases}''
+\item
+  \href{http://lattes.cnpq.br/3660336154224847}{R.O.F.P. Oliveira}
+  ``\emph{Urban resilience assessment through a comparative study of
+  flood prediction methods}''
+\end{enumerate}
+
+\textbf{Alumni Placement}
+
+Graduates placed at national regulatory agencies (ANTT, ARTESP) in
+Brazil, leading transport consultancies in Brazil and abroad, and the
+financial sector.
+
+\hrulefill
+
+\section{TEACHING PORTFOLIO (USP,
+2014-present)}\label{teaching-portfolio-usp-2014-present}
+
+\subsection{Data Science \& Computational
+Engineering}\label{data-science-computational-engineering}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Multivariate Data Analysis \& Applied Statistics (Graduate):}
+  AI techniques (neural networks, decision trees, genetic algorithms), R
+  programming. Students publish from course datasets.
+\item
+  \textbf{Computational Tools for Civil Engineering (Undergraduate):}
+  New elective I designed. 20+ students/year. Spreadsheet programming,
+  algorithms, AutoCAD, Civil 3D, GIS.
+\end{itemize}
+
+\subsubsection{Core Transport Engineering \&
+Simulation}\label{core-transport-engineering-simulation}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Fundamentals of Transportation Engineering (Undergraduate):}
+  Inverted classroom, project-based learning, 50+ students. Student
+  evaluations: 4.5/5.0.
+\item
+  \textbf{Traffic Engineering \& Simulation (UG/Graduate):} VISSIM,
+  AIMSUN, SUMO, TSIS-CORSIM. Industry-ready skills.
+\end{itemize}
+
+\subsubsection{Logistics \& Green
+Infrastructure}\label{logistics-green-infrastructure}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Logistics \& Supply Chain Management:} Completely redesigned
+  with AI logistics, GIS route planning, Green Logistics.
+\item
+  \textbf{Airports \& Waterways:} Large compulsory modules, 50+
+  students, theory and operational exercises.
+\end{itemize}
+
+\subsubsection{Capstone \& Mentorship}\label{capstone-mentorship}
+
+\begin{itemize}
+\tightlist
+\item
+  Supervised 25+ final-year engineering capstone projects and 15+
+  internship placements.
+\end{itemize}
+
+\hrulefill
+
+\section{PUBLICATIONS}\label{sec-publications}
+
+20 peer-reviewed journal articles \textbar{} 36 refereed conference
+proceedings \textbar{} 3 manuscripts under review.
+
+\emph{Students mentored by Prof.~A.L. Cunha are denoted by underlining}.
+
+\subsection{Submitted Manuscripts}\label{submitted-manuscripts}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  SALINAS, K., BARELLA, V., \textbf{CUNHA, A.L.}, \ul{OLIVEIRA, G.M.},
+  VIERA, T., NONATO, L.G. (2025) ``ORDENA: ORigin-DEstiNAtion data
+  exploration''. \emph{IEEE Transactions on Visualization and Computer
+  Graphics}
+  \textless{}\href{https://arxiv.org/pdf/2510.18278}{arXiv:2510.18278}\textgreater{}
+\item
+  \ul{LOURO, T. V.}, GRIGOLON, A. B., \textbf{CUNHA, A. L.}, GEURS, K.
+  T. (2025). ``Cycling accessibility and equity: A systematic literature
+  review''. \emph{Transport Reviews}.
+\item
+  \ul{LOURO, T. V.}, TOMASIELLO, D. B., GRIGOLON, A. B., \textbf{CUNHA,
+  A. L.}, GEURS, K. T. (2026). ``Integrating e-bikes and bikesharing
+  with public transit: Evaluation of impacts on job accessibility and
+  spatial equity''. \emph{Journal of Urban Mobility}.
+\end{enumerate}
+
+\subsection{Peer-Reviewed Journal}\label{peer-reviewed-journal}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \ul{LOURO, T.V.}; GRIGILON, A.B.; TIRACHINI, A.; \textbf{CUNHA, A.L.};
+  GEURS, K.T. (2026) ``How Do E-Bikes Measure Up? Analyzing Speed
+  Differences and Network Impacts of São Paulo's Bikesharing System''.
+  \emph{Transportation}. DOI:
+  \href{https://doi.org/10.1007/s11116-026-10724-y}{10.1007/s11116-026-10724-y}
+\item
+  \ul{LOURO, T.V.}; GRIGILON, A.B.; \textbf{CUNHA, A.L.}; GEURS, K.T.
+  (2025) ``E-bikes' impact on job accessibility and equity in São Paulo
+  and Rio''. \emph{Transportation Research Part D}. DOI:
+  \href{https://doi.org/10.1016/j.trd.2025.105072}{10.1016/j.trd.2025.105072}
+\item
+  \ul{DE OLIVEIRA, G.J.M.}; LAVIERI, P.S.; \textbf{CUNHA, A.L.} (2023)
+  Integrating a non-gridded space representation into a graph neural
+  networks model for citywide short-term crash risk prediction.
+  \emph{Urban Informatics}. DOI:
+  \href{https://doi.org/10.1007/s44212-023-00032-6}{10.1007/s44212-023-00032-6}
+\item
+  FLEURY, M.P.; KAMAKURA, G.K.; PITOMBO, C.S.; \textbf{CUNHA, A.L.B.N.};
+  FERREIRA, F.B.; LINS DA SILVA, J. (2023) Assessing and Predicting
+  Geogrid Reduction Factors after Damage Induced by Dropping Recycled
+  Aggregates. \emph{Sustainability}. DOI:
+  \href{https://doi.org/10.3390/su15139942}{10.3390/su15139942}
+\item
+  FLEURY, M.P.; KAMAKURA, G.K.; PITOMBO, C.S.; \textbf{CUNHA, A.L.B.N.};
+  LINS DA SILVA, J. (2023) Prediction of non-woven geotextiles'
+  reduction factors for damage caused by the drop of backfill materials.
+  \emph{Geotextiles and Geomembranes}. DOI:
+  \href{https://doi.org/10.1016/j.geotexmem.2023.05.004}{10.1016/j.geotexmem.2023.05.004}
+\item
+  SILVA, F.A.E.; BESSA JUNIOR, J.E.; COSTA, A.L.; \textbf{CUNHA, A.L.};
+  VELHO, D.M.C.; ANDALICIO, A. (2023) Exploratory analysis of the VISSIM
+  simulation model for two-lane highways. \emph{Engenharia Civil UM}.
+  DOI: \href{https://doi.org/10.21814/ecum.4493}{10.21814/ecum.4493}
+\item
+  SILVA, F.A.; BESSA JUNIOR, J.E.; COSTA, A.L.; \textbf{CUNHA, A.L.};
+  VELHO, D.M.C. (2022) Analysis of no-passing zones to assess the level
+  of service on two-lane rural highways in Brazil. \emph{Case Studies on
+  Transport Policy}. DOI:
+  \href{https://doi.org/10.1016/j.cstp.2021.12.006}{10.1016/j.cstp.2021.12.006}
+\item
+  \ul{MORELLI, A. B.}; \textbf{CUNHA, A.L.} (2021) Assessing
+  vulnerabilities in transport networks: a graph-theoretic approach.
+  \emph{Transportes}. DOI:
+  \href{https://doi.org/10.14295/transportes.v29i1.2250}{10.14295/transportes.v29i1.2250}
+\item
+  SILVA, F.A.; BESSA JÚNIOR, J.E.; COSTA, A.L.; \textbf{CUNHA, A.L.};
+  ANDALÍCIO, A.F.; DA COSTA VELHO, D.M.; NAZARETH, V.S. (2021)
+  Evaluation of the effect of climbing lanes on segments of two-lane
+  highways. \emph{Transportes}. DOI:
+  \href{https://doi.org/10.14295/transportes.v29i2.2359}{10.14295/transportes.v29i2.2359}
+\item
+  \ul{MORELLI, A.B.}; \textbf{CUNHA, A.L.} (2021) Measuring urban road
+  network vulnerability to extreme events: An application for urban
+  floods. \emph{Transportation Research Part D}. DOI:
+  \href{https://doi.org/10.1016/j.trd.2021.102770}{10.1016/j.trd.2021.102770}
+\item
+  MARTINS, D.O.; \ul{OLIVEIRA, G.J.M.}; MORAES, F.R.; SILVA, I.;
+  \textbf{CUNHA, A.L.} (2020) Geomatics data management system.
+  \emph{Revista Brasileira de Geomática}. DOI:
+  \href{https://doi.org/10.3895/rbgeo.v8n1.10141}{10.3895/rbgeo.v8n1.10141}
+\item
+  PIANUCCI, M.N.; PITOMBO, C.S.; \textbf{CUNHA, A.L.}; LIMA SEGANTINE,
+  P.C. (2019) Forecasting household travel demand through a sequential
+  method based on synthetic population and artificial neural networks.
+  \emph{Transportes}. DOI:
+  \href{https://doi.org/10.14295/transportes.v27i4.1409}{10.14295/transportes.v27i4.1409}
+\item
+  OLIVEIRA, J.V.M.; LAROCCA, A.P.C.; ARAUJO NETO, J.O.; \textbf{CUNHA,
+  A.L.}; SANTOS, M.C.; SCHAAL, R.E. (2019) Rigid Bridges Health Dynamic
+  Monitoring Using 100 Hz GPS Single-Frequency and Accelerometers.
+  \emph{Positioning}. DOI:
+  \href{https://doi.org/10.4236/pos.2019.102002}{10.4236/pos.2019.102002}
+\item
+  DE OLIVEIRA, J.V.M.; LAROCCA, A.P.C.; DE ARAÚJO NETO, J.O.; CUNHA,
+  A.L.; DOS SANTOS, M.C.; SCHAAL, R.E. (2019) Vibration monitoring of a
+  small concrete bridge using wavelet transforms on GPS data.
+  \emph{Journal Of Civil Structural Health Monitoring}. DOI:
+  \href{https://doi.org/10.1007/s13349-019-00341-y}{10.1007/s13349-019-00341-y}
+\item
+  LINDNER, A.; PITOMBO, C.S.; \textbf{CUNHA, A.L.} (2017) Estimating
+  motorized travel mode choice using classifiers: An application for
+  high-dimensional multicollinear data. \emph{Travel Behaviour and
+  Society}. DOI:
+  \href{https://doi.org/10.1016/j.tbs.2016.08.003}{10.1016/j.tbs.2016.08.003}
+\item
+  SOUZA, N.C.; PITOMBO, C.; \textbf{CUNHA, A.L.}; LAROCCA, A.P.C.; DE
+  ALMEIDA FILHO, G.S. (2017) Model for classification of linear erosion
+  processes along railways through decision tree algorithm and
+  geotechnologies. \emph{Boletim de Ciências Geodésicas}. DOI:
+  \href{https://doi.org/10.1590/S1982-21702017000100005}{10.1590/S1982-21702017000100005}
+\item
+  ANDRADE, G.R.; PITOMBO, C.; \textbf{CUNHA, A.L.N.}; SETTI, J.R. (2016)
+  A Model for Estimating Free-Flow Speed on Brazilian Expressways.
+  \emph{Transportation Research Procedia}. DOI:
+  \href{https://doi.org/10.1016/j.trpro.2016.06.032}{10.1016/j.trpro.2016.06.032}
+\item
+  LAROCCA, A.P.C.; ARAUJO NETO, J.O.; BARBOSA, A.C.B.; TRABANCO, J.L.A.;
+  \textbf{CUNHA, A.L.B.N.} (2014) Dynamic Monitoring vertical Deflection
+  of Small Concrete Bridge Using Conventional Sensors And 100 Hz GPS
+  Receivers - Preliminary Results. \emph{IOSRJEN Journal of
+  Engineering}. DOI:
+  \href{https://doi.org/10.9790/3021-04920920}{10.9790/3021-04920920}
+\item
+  \textbf{CUNHA, A.L.}; SETTI, J.R. (2011) Truck equivalence factors for
+  divided, multilane highways in Brazil. \emph{Procedia: Social and
+  Behavioral Sciences}. DOI:
+  \href{https://doi.org/10.1016/j.sbspro.2011.04.447}{10.1016/j.sbspro.2011.04.447}
+\end{enumerate}
+
+\subsection{Selected Conference Proceedings (36 total: 10 most recent
+shown)}\label{selected-conference-proceedings-36-total-10-most-recent-shown}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \ul{MORELLI, A.B.}; \ul{ALIZON, G.B.}; \textbf{CUNHA, A.L.} (2025)
+  Alternative-Route Efficiency in Brazilian Cities: How Flood-Induced
+  Collapse Patterns Differ from Random Blockages. In: XXXIX ANPET --
+  Research and Teaching in Transport Congress, 2025, Goiânia.
+  Proceedings of the 39th ANPET.
+\item
+  \ul{LOURO, T.V.}; ASSIS, L.B.M.; JUNIOR, J.U.P.; \textbf{CUNHA, A.L.};
+  GEURS, K.T (2025) Job Accessibility in the 15-Minute City: A
+  Comparative Analysis of Walking, Cycling, and E-Bikes in Four
+  Brazilian Cities. In: XXXIX ANPET -- Research and Teaching in
+  Transport Congress, 2025, Goiânia. Proceedings of the 39th ANPET.
+\item
+  ISHIHARA, B.A.; \ul{QUINTINO, P.G.}; \textbf{CUNHA, A.L.}; SETTI, J.R.
+  (2025) Operation of Heavy Vehicles on Long, Steep Downgrades: Brake
+  Thermal Simulation Based on ABNT NBR 10966-2. In: XXXIX ANPET --
+  Research and Teaching in Transport Congress, 2025, Goiânia.
+  Proceedings of the 39th ANPET.
+\item
+  RODRIGUES, L.R.; PITOMBO, C.S.; \textbf{CUNHA, A.L.}; LAROCCA, A.P.C.;
+  FERRAZ, A.C.P. (2025) Identification of Crime and Traffic Crash
+  Hotspots in the Vicinity of Bus Stops. In: XXXIX ANPET -- Research and
+  Teaching in Transport Congress, 2025, Goiânia. Proceedings of the 39th
+  ANPET.
+\item
+  DAVOLI, J.P.; PITOMBO, C.S.; \textbf{CUNHA, A.L.} (2025) Application
+  of a Random-Forest--Based Variable Selection Method for the Analysis
+  of Post-COVID-19 Active Transportation. In: XXXIX ANPET -- Research
+  and Teaching in Transport Congress, 2025, Goiânia. Proceedings of the
+  39th ANPET.
+\item
+  \ul{MORELLI, A.B.}; \textbf{CUNHA, A.L.} (2024) Vulnerability to
+  flooding: how long-trip prevalence reduces the efficiency of
+  alternative routes. In: XXXVIII ANPET -- Research and Teaching in
+  Transport Congress, 2024, Florianópolis. Proceedings of the 38th
+  ANPET.
+\item
+  \ul{MARCOMINI, L.A.}; \textbf{CUNHA, A.L.} (2023) Truck axle detection
+  using Neural Networks: analysis of the number of images in the
+  training dataset. In: ANPET -- Research and Teaching in Transport
+  Congress, 2023, Santos. Proceedings of the 37th ANPET.
+\item
+  \ul{MORELLI, A.B.}; \ul{LOURO, T.V.}; \textbf{CUNHA, A.L.} (2022)
+  Proposal of bikeability indicators from an accessibility perspective:
+  identifying roads best suited for cycle lanes using widely available
+  data. In: XXXVI ANPET -- Research and Teaching in Transport Congress,
+  2022, Fortaleza. Proceedings of the XXXVI ANPET.
+\item
+  \ul{MORELLI, A.B.}; \textbf{CUNHA, A.L.} (2021) Pedestrian
+  accessibility: impacts of morphological and demographic
+  characteristics on access to facilities. In: XXXV ANPET -- Research
+  and Teaching in Transport Congress, 2021. Proceedings of the XXXV
+  ANPET.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \ul{BOSCO JUNIOR, A.D.}; \textbf{CUNHA, A.L.} (2020) Street and zonal
+  scale relationship between network centrality and economic activities:
+  case study in Curitiba, Brazil. In: PLURIS -- Luso-Brazilian Congress
+  on Urban, Regional, Integrated and Sustainable Planning, 2020.
+  Proceedings of the 9th PLURIS.
+\end{enumerate}
+
+\hrulefill
+
+\section{TECHNICAL PROFICIENCY \& COMPUTATIONAL
+STACK}\label{technical-proficiency-computational-stack}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Traffic Simulation:} PTV Vissim, AIMSUN, SUMO, MATSim,
+  TSIS-CORSIM (expert: calibration, validation, API scripting)
+\item
+  \textbf{AI \& Data Science:} PyTorch, TensorFlow, OpenCV, Graph Neural
+  Networks, deep learning pipelines
+\item
+  \textbf{Programming:} Python, R, C++, Julia, SQL, MATLAB, HTML/CSS
+\item
+  \textbf{Engineering \& GIS:} AutoCAD, Civil 3D, QGIS
+\item
+  \textbf{E-Learning:} Moodle, Google Classroom, blended/online course
+  design, inverted classroom methodology
+\end{itemize}
+
+\hrulefill
+
+\section{AWARDS \& HONORS}\label{awards-honors}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{ANPET Scientific Production Award} (2023) --- National Agency
+  for Transport Research \& Education
+\item
+  \textbf{Best Professor, Transport Engineering} (2016, 2017) --- USP
+  Civil Engineering Academic Secretariat
+\item
+  \textbf{ABCR Innovation Salon Award} (2015) --- 9th Brazilian Congress
+  on Highways \& Concessions
+\end{itemize}
+
+\subsection{PROFESSIONAL SERVICES}\label{professional-services}
+
+\subsubsection{University of São
+Paulo}\label{university-of-suxe3o-paulo}
+
+\begin{itemize}
+\tightlist
+\item
+  Elected member, Department Council --- faculty hiring, budget,
+  strategic partnerships
+\item
+  Member, Graduate Program Coordinating Committee (CCP-ET) ---
+  admissions, curriculum, scholarships
+\item
+  Member, Research and Innovation Committee (CPqI) --- interdisciplinary
+  grants, industry collaboration
+\item
+  Board member, Center for Educational Technology (CETEPE) ---
+  e-learning strategy
+\item
+  Member, Culture \& Extension Committee (CCEx) --- pedagogical
+  modernisation
+\end{itemize}
+
+\subsubsection{Editorial \& Peer Review}\label{editorial-peer-review}
+
+\begin{itemize}
+\tightlist
+\item
+  Reviewer: \emph{Transportation Research Part E}, \emph{Engineering
+  Applications of AI (EAAI)}, \emph{Sustainable Cities and Society}
+\item
+  Technical Committees: Transportation Research Board (TRB), IEEE ITSS,
+  ANPET
+\end{itemize}
+
+\subsubsection{Industry Engagement}\label{industry-engagement}
+
+\begin{itemize}
+\tightlist
+\item
+  CCR Group \& ARTERIS --- national safety standards for truck escape
+  ramps on Brazilian federal highways
+\item
+  TECTRAN --- Minas Gerais State Logistics Plan (PELT)
+\item
+  Media: research featured on Rede Globo's \emph{Jornal Hoje} (national
+  broadcast)
+\end{itemize}
+
+
+
+
+\end{document}

@@ -1,7 +1,5 @@
 ---
 format:
-  html: default
-  gfm: default
   pdf:
     pdf-engine: xelatex
     mainfont: Candara
@@ -18,15 +16,16 @@ format:
 ---
 
 
-## ANDRÉ LUIZ BARBOSA NUNES DA CUNHA {-}
+# ANDRÉ LUIZ BARBOSA NUNES DA CUNHA
 
-**Tenured Assistant Professor of Civil Engineering | AI & Sustainability in Transport**
+**Tenured Assistant Professor of Civil Engineering | AI & Sustainability in Transport**\
 University of São Paulo ([USP](https://www5.usp.br/en)) • São Carlos School of Engineering ([EESC](https://eesc.usp.br/en/))
-Department of Transport Engineering ([STT](https://eesc.usp.br/ppgs/stt/)) • São Carlos, SP, Brazil
+Department of Transport Engineering ([STT](https://eesc.usp.br/ppgs/stt/))\ 
+São Carlos, SP, Brazil
 
 
   
-[<alcunha@usp.br>] | +55 16 98119 2339 | 
+<alcunha@usp.br> | +55 16 98119 2339 | 
 [[Google Scholar]](https://scholar.google.com.br/citations?user=HI0CQJMAAAAJ&hl=en) |
 [[ORCID]](https://orcid.org/0000-0002-0520-0621)  | 
 <!--[[WoS]](https://www.webofscience.com/wos/author/record/U-4375-2019) · -->
@@ -36,46 +35,43 @@ Department of Transport Engineering ([STT](https://eesc.usp.br/ppgs/stt/)) • S
 
 \hrulefill
 
-## PROFESSIONAL SUMMARY
+### Professional Summary
 
 Tenured civil engineering academic with 12+ years of post-doctoral experience bridging transport infrastructure, sustainability, and AI-driven engineering. Research portfolio of ~USD 3.38 million in competitive grants and industry contracts. Co-PI on a USD 1.45M FAPESP initiative on pavement recycling and decarbonisation. Extensive teaching leadership (6 courses, curriculum redesign, inverted classroom), research supervision (60+ scholars, 3 PhDs and 12 MScs completed), and institutional governance. International research experience in Australia, Germany, Croatia, and Portugal.
 
 
-\hrulefill
 
-# EDUCATION 
+
+## EDUCATION \hrulefill
 
 1. **Ph.D. in Transportation Engineering** \dotfill Nov. 2013\
-    University of São Paulo (USP), São Carlos School of Engineering (EESC), Brazil
-      - *Thesis*: "`Automatic system for vehicular traffic parameters using OpenCV`"
-      - *DOI*: [10.11606/T.18.2013.tde-19112013-165611](https://doi.org/10.11606/T.18.2013.tde-19112013-165611)
+*University of São Paulo (USP), São Carlos School of Engineering (EESC), Brazil*
+      - Thesis: "*Automatic system for vehicular traffic parameters using OpenCV*"
+      - DOI: [10.11606/T.18.2013.tde-19112013-165611](https://doi.org/10.11606/T.18.2013.tde-19112013-165611)
       - Funded by CNPq (National Council for Scientific and Technological Development), Brazil.  
 
 
 2. **M.Sc. in Transportation Engineering** \dotfill Oct. 2007\
-University of São Paulo (USP), São Carlos School of Engineering (EESC), Brazil
-      - *Thesis*: "`Evaluation of performance measurement impact on truck passenger car equivalents`"
-      - *DOI*: [10.11606/D.18.2007.tde-27112007-094400](https://doi.org/10.11606/D.18.2007.tde-27112007-094400)
+*University of São Paulo (USP), São Carlos School of Engineering (EESC), Brazil*
+      - Thesis: "*Evaluation of performance measurement impact on truck passenger car equivalents*"
+      - DOI: [10.11606/D.18.2007.tde-27112007-094400](https://doi.org/10.11606/D.18.2007.tde-27112007-094400)
       - Funded by CNPq, Brazil.
 
 
 3. **B.S. in Civil Engineering** \dotfill Feb. 2004\
-Federal University of Mato Grosso do Sul (UFMS), Brazil
+*Federal University of Mato Grosso do Sul (UFMS), Brazil*
       - *GPA*: 3.79/4.00 $\rightarrow$ (9.5/10.0), (Highest Honors)
 
 
-\hrulefill
 
-# ACADEMIC APPOINTMENTS
+## ACADEMIC APPOINTMENTS \hrulefill
 
 **Tenured Assistant Professor** (equivalent to Associate Professor) \dotfill 2014 – present\
 *University of São Paulo (USP), Dept. of Transport Engineering*, São Carlos, Brazil.
 
-    - Director of the Intelligent Transportation Systems (ITS) Research Group.
-
-    - Tenure awarded 2021; promoted to Senior Faculty status (MS-3.2).
-    
-    - Elected: Department Council, Graduate Coordinating Committee (CCP-ET), Center for Educational Technology in Engineering (CETEPE), Research and Innovation Committee (CPqI), Culture & Extension Committee (CCEx)
+  - Director of the Intelligent Transportation Systems (ITS) Research Group.
+  - Tenure awarded 2021; promoted to Senior Faculty status (MS-3.2).
+  - Elected: Department Council, Graduate Coordinating Committee (CCP-ET), Center for Educational Technology in Engineering (CETEPE), Research and Innovation Committee (CPqI), Culture & Extension Committee (CCEx)
 
     
 **Research Scientist & Laboratory Specialist** \dotfill 2013 – 2014\
@@ -85,8 +81,8 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
 *São Paulo State University (UNESP), College of Engineering of Bauru (FEB)*, Bauru, Brazil.
 
 
-\hrulefill
-# INTERNATIONAL MOBILITY
+
+## INTERNATIONAL MOBILITY \hrulefill
 
 - **University of Melbourne** (Australia) - Visiting Researcher, CAPES-Print (2020)
 
@@ -97,7 +93,7 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
 - **Technical University of Munich** (Germany) - Visiting Professor, FAPESP-BAYLAT (2016, 2017)
 
 
-## RESEARCH AGENDA - Sustainability & Innovation
+## RESEARCH AGENDA - Sustainability & Innovation \hrulefill
 
   - **Pavement Recycling & Decarbonization (SDG 9 & 12)**: Co-PI on FAPESP USD 1.45M initiative. Data-driven modelling and optimisation for recycled pavement materials; engineering technical protocols for net-zero infrastructure.
 
@@ -108,13 +104,11 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
   - **Digital Twins & International Policy (SDG 17)**: Digital twins for highway concessions integrating Edge AI and sensor fusion for smart city policies.
 
 
-\hrulefill
 
-# RESEARCH FUNDING & GRANTS (~USD 3.38 Million Total)
+## RESEARCH FUNDING & GRANTS (~USD 3.38 Million Total) \hrulefill
 
-*Total Funding Secured: ~USD 3.38 Million (BRL 18.6M)*
 
-## Competitive Research Grants (Peer-Reviewed)
+### Competitive Research Grants (Peer-Reviewed)
 
 - **2025–2030:** FAPESP CCD Grant — "Pavement Recycling as a Pillar of Decarbonisation." Co-PI. ~USD 1.45M
 - **2023–2028:** FAPESP CEPID "IARA" — AI Recreating Environments. Research Collaborator. ~USD 1.8M
@@ -127,23 +121,22 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
 - **2013–2016:** CAPES/FCT — Promoting sustainable and safe urban mobility. Co-PI. ~USD 3,600
 
 
-## Industry Contracts & Translational Research
+### Industry Contracts & Translational Research
 
 - **2025:** CCR Group (RioSP) — Redesign truck escape ramp BR-116 (Via Dutra). PI. ~USD 32,700
 - **2023:** CCR Group (RioSP) — Evaluate truck escape ramp BR-116 (Via Dutra). PI. ~USD 16,300
 - **2019:** ARTERIS (ALS) — Site optimisation for truck escape ramps BR-376. PI. ~USD 27,200
 
 
-\hrulefill
 
-# RESEARCH SUPERVISION & MENTORING
-
+## RESEARCH SUPERVISION & MENTORING \hrulefill
+ 
 **Summary**
 : 60+ researchers directed. 6 PhD (3 completed, 3 in progress) | 15 MSc (12 completed, 3 in progress) | 18 scientific initiation (16 completed) | 25 capstone projects completed
 
 
 
-## Completed PhD (3)
+### Completed PhD (3)
 1. [G.J.M. Oliveira]() (2024): "*[Toward a Data-driven Framework to Analyse Temporal and Spatial Distributions of Crashes](https://minerva-access.unimelb.edu.au/items/9d41c43a-a211-41ce-92fe-f081fc49e630)*"
 
 1. [L.A. Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) (2025): "*[Classification of trucks by axles using Deep Learning and a Large Multimodal Model](https://doi.org/10.11606/T.18.2025.tde-11022026-082130)*"
@@ -152,7 +145,7 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
 
 
 
-## PhD in Progress
+### PhD in Progress
 
 1. [E.R. Ribeiro](https://scholar.google.com.br/citations?user=0r-M5IcAAAAJ): "*Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile*"
 
@@ -160,7 +153,7 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
 
 1. [P.H.C. Caliari](https://scholar.google.com.br/citations?user=hy142eUAAAAJ): "*Evaluation of causal inference and spatial effects on travel behavior*" 
 
-## Completed MSc (12)
+### Completed MSc (12)
 
 1. [C.E. Ribeiro]() (2024): "*[Evaluation of deep neural networks for vehicle detection in satellite images](https://doi.org/10.11606/D.18.2024.tde-31102024-114415)*"
 
@@ -187,7 +180,7 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
 1. [E.R. Ribeiro](https://lattes.cnpq.br/4988917064689096) (2017): "*[Exploratory method analysis using Wavelet to detect patterns and anomalies in traffic history data](https://doi.org/10.11606/D.18.2017.tde-07112017-212156)*" 
 
 
-## MSc in Progress
+### MSc in Progress
 1. [A.V. Costa](http://lattes.cnpq.br/7862988333397510) "*Accessibility to Social Services in Belo Horizonte-MG*" 
 
 2. [M.E.S. Michelini](http://lattes.cnpq.br/6355612958124418) "*Development of an Emission Estimation Model for Brazilian Cases*" 
@@ -201,11 +194,10 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
 Graduates placed at national regulatory agencies (ANTT, ARTESP) in Brazil, leading transport consultancies in Brazil and abroad, and the financial sector. 
 
 
-\hrulefill
 
-# TEACHING PORTFOLIO (USP, 2014-present)
+## TEACHING PORTFOLIO (USP, 2014-present) \hrulefill
 
-## Data Science & Computational Engineering
+### Data Science & Computational Engineering
 
   - **Multivariate Data Analysis & Applied Statistics (Graduate):** AI techniques (neural networks, decision trees, genetic algorithms), R programming. Students publish from course datasets.
 - **Computational Tools for Civil Engineering (Undergraduate):** New elective I designed. 20+ students/year. Spreadsheet programming, algorithms, AutoCAD, Civil 3D, GIS.
@@ -225,14 +217,13 @@ Graduates placed at national regulatory agencies (ANTT, ARTESP) in Brazil, leadi
 - Supervised 25+ final-year engineering capstone projects and 15+ internship placements.
 
 
-\hrulefill
-# PUBLICATIONS {#sec-publications}
+## PUBLICATIONS \hrulefill
 
 20 peer-reviewed journal articles | 36 refereed conference proceedings | 3 manuscripts under review.
 
 *Students mentored by Prof. A.L. Cunha are denoted by underlining*.
 
-## Submitted Manuscripts
+### Submitted Manuscripts
 
 1. SALINAS, K., BARELLA, V., **CUNHA, A.L.**, [OLIVEIRA, G.M.]{.underline}, VIERA, T., NONATO, L.G. (2025) "ORDENA: ORigin-DEstiNAtion data exploration". *IEEE Transactions on Visualization and Computer Graphics* <[arXiv:2510.18278](https://arxiv.org/pdf/2510.18278)>
 
@@ -241,7 +232,7 @@ Graduates placed at national regulatory agencies (ANTT, ARTESP) in Brazil, leadi
 1. [LOURO, T. V.]{.underline}, TOMASIELLO, D. B., GRIGOLON, A. B., **CUNHA, A. L.**, GEURS, K. T. (2026). "Integrating e-bikes and bikesharing with public transit: Evaluation of impacts on job accessibility and spatial equity". *Journal of Urban Mobility*.
 
 
-## Peer-Reviewed Journal
+### Peer-Reviewed Journal
 
 1. [LOURO, T.V.]{.underline}; GRIGILON, A.B.; TIRACHINI, A.; **CUNHA, A.L.**; GEURS, K.T. (2026) "How Do E-Bikes Measure Up? Analyzing Speed Differences and Network Impacts of São Paulo’s Bikesharing System". *Transportation*. DOI: [10.1007/s11116-026-10724-y](https://doi.org/10.1007/s11116-026-10724-y)
 
@@ -285,7 +276,7 @@ Graduates placed at national regulatory agencies (ANTT, ARTESP) in Brazil, leadi
 1. **CUNHA, A.L.**; SETTI, J.R. (2011) Truck equivalence factors for divided, multilane highways in Brazil. *Procedia: Social and Behavioral Sciences*. DOI: [10.1016/j.sbspro.2011.04.447](https://doi.org/10.1016/j.sbspro.2011.04.447)
 
 
-## Selected Conference Proceedings (36 total: 10 most recent shown)
+### Selected Conference Proceedings (36 total: 10 most recent shown)
 
 1. [MORELLI, A.B.]{.underline}; [ALIZON, G.B.]{.underline}; **CUNHA, A.L.** (2025) Alternative-Route Efficiency in Brazilian Cities: How Flood-Induced Collapse Patterns Differ from Random Blockages. In: XXXIX ANPET – Research and Teaching in Transport Congress, 2025, Goiânia. Proceedings of the 39th ANPET.
 
@@ -365,9 +356,8 @@ Graduates placed at national regulatory agencies (ANTT, ARTESP) in Brazil, leadi
 -->
 
 
-\hrulefill
 
-# TECHNICAL PROFICIENCY & COMPUTATIONAL STACK
+## TECHNICAL PROFICIENCY & COMPUTATIONAL STACK \hrulefill
 
 - **Traffic Simulation:** PTV Vissim, AIMSUN, SUMO, MATSim, TSIS-CORSIM (expert: calibration, validation, API scripting)
 - **AI & Data Science:** PyTorch, TensorFlow, OpenCV, Graph Neural Networks, deep learning pipelines
@@ -376,15 +366,14 @@ Graduates placed at national regulatory agencies (ANTT, ARTESP) in Brazil, leadi
 - **E-Learning:** Moodle, Google Classroom, blended/online course design, inverted classroom methodology
 
 
-\hrulefill
 
-# AWARDS & HONORS
+## AWARDS & HONORS \hrulefill
 
 - **ANPET Scientific Production Award** (2023) — National Agency for Transport Research & Education
 - **Best Professor, Transport Engineering** (2016, 2017) — USP Civil Engineering Academic Secretariat
 - **ABCR Innovation Salon Award** (2015) — 9th Brazilian Congress on Highways & Concessions
 
-## PROFESSIONAL SERVICES
+## PROFESSIONAL SERVICES \hrulefill
 
 ### University of São Paulo
 

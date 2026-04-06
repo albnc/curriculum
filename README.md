@@ -1,7 +1,7 @@
 # Curriculum Vitae
 André Luiz Barbosa Nunes da Cunha
 
-Last updated on 2025-11-24
+Last updated on 2026-04-06
 
 ## Versions
 

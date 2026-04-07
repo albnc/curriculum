@@ -316,7 +316,7 @@ DOI: [10.11606/T.18.2025.tde-11022026-082130](https://doi.org/10.11606/T.18.2025
 2. [Andre Borgato Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ). **Análise da vulnerabilidade em redes urbanas brasileiras: Explorando o impacto de alagamentos e sua relação com a morfologia e uso do solo**. 2025. Tese (Engenharia de Transportes) - Universidade de São Paulo. Bolsa: CAPES\
 DOI: [ainda sem a referência no teses.usp.br]()
 
-3. [Gabriel Jurado Martins de Oliveira](https://lattes.cnpq.br/1828432370828925). **Toward a data-driven framework to analyse temporal and spatial distributions of crashes**. 2024. Tese (PhD in Infrastructure Engineering) - The University of Melbourne (co-orientador). [**[@Fig:2024-Gabriel-PhD-statement]**]. Acesso em: [https://hdl.handle.net/11343/354471](https://hdl.handle.net/11343/354471)
+3. [Gabriel Jurado Martins de Oliveira](https://lattes.cnpq.br/1828432370828925). **Toward a data-driven framework to analyse temporal and spatial distributions of crashes**. 2024. Tese (PhD in Infrastructure Engineering) - The University of Melbourne (co-orientador). Acesso em: [https://hdl.handle.net/11343/354471](https://hdl.handle.net/11343/354471)
 
 #### Mestrado (12)
 
@@ -789,134 +789,134 @@ O docente usou os repositórios livres para publicação *preprint* dos artigos 
     
 10. NOBREGA, R.A.A.; **CUNHA, A.L.**; FAVARETTO, F.; LEAL, F.; FERRARI, R.M.; LIMA, R.S. Banca de Harlenn dos Santos Lopes. **Análise do escoamento da soja brasileira através da simulação a eventos discretos**, 2017. (Engenharia de Produção) UNIFEI. 
     
-11. TRABANCO, J.L.A.; LAROCCA, A.P.C.; **CUNHA, A.L.**; COSTA, D.C.; FONSECA JUNIOR, E.S. Banca de João Olympio de Araújo Neto. **Uso do GPS no monitoramento dinâmico da infraestrutura de transportes: pontes rodoviárias em concreto**, 2017. (Engenharia Civil) UNICAMP. [**[@Fig:2017_DefesaDO-Joao]**]
+11. TRABANCO, J.L.A.; LAROCCA, A.P.C.; **CUNHA, A.L.**; COSTA, D.C.; FONSECA JUNIOR, E.S. Banca de João Olympio de Araújo Neto. **Uso do GPS no monitoramento dinâmico da infraestrutura de transportes: pontes rodoviárias em concreto**, 2017. (Engenharia Civil) UNICAMP. 
     
-12. SEGANTINE, P.C.L.; **CUNHA, A.L.**; BERTONCINI, B.V.; SIMOES, A.S.A.; SANCHES, S.P. Banca de Marcela Navarro Pianucci. **Uma proposta para obtenção da população sintética através de dados agregados para modelagem de geração de viagens por domicílio**, 2016. (Engenharia de Transportes) USP. [**[@Fig:2016_DefesaDO-Marcela]**]
+12. SEGANTINE, P.C.L.; **CUNHA, A.L.**; BERTONCINI, B.V.; SIMOES, A.S.A.; SANCHES, S.P. Banca de Marcela Navarro Pianucci. **Uma proposta para obtenção da população sintética através de dados agregados para modelagem de geração de viagens por domicílio**, 2016. (Engenharia de Transportes) USP. 
 
 ## Bancas de Mestrado (33)
 
-1. GIANNOTTI, M.A.; **CUNHA, A.L.**; KON, F. Banca de Flávio Soares de Freitas. **Acessibilidade por bicicleta às escolas públicas de ensino médio em São Paulo: uma abordagem qualitativa dos impactos da infraestrutura**, 2025. (Engenharia de Transportes) USP. [**[@Fig:2025_DefesaME-Flavio]**]
+1. GIANNOTTI, M.A.; **CUNHA, A.L.**; KON, F. Banca de Flávio Soares de Freitas. **Acessibilidade por bicicleta às escolas públicas de ensino médio em São Paulo: uma abordagem qualitativa dos impactos da infraestrutura**, 2025. (Engenharia de Transportes) USP. 
     
-2. MARTE, C.L.; BESSA JÚNIOR, J.E.; **CUNHA, A.L.** Banca de Andrey Luis Barbosa Gomes. **Controle semafórico em tempo real para interseções com conflitos entre pedestres e veículos**, 2025. (Engenharia de Transportes) USP. [**[@Fig:2025_DefesaME-Andrey]**]
+2. MARTE, C.L.; BESSA JÚNIOR, J.E.; **CUNHA, A.L.** Banca de Andrey Luis Barbosa Gomes. **Controle semafórico em tempo real para interseções com conflitos entre pedestres e veículos**, 2025. (Engenharia de Transportes) USP. 
     
-3. ALMEIDA FILHO, F.G.V.; **CUNHA, A.L.**; ANDRADE, M.F. Banca de Claudia Cosme Mascarenhas. **Desigualdades de exposição à poluição veicular em São Paulo: mapeamento com base em modelo de demanda de viagens por transporte individual motorizado**, 2025. (Engenharia de Transportes) USP. [**[@Fig:2025_DefesaME-Claudia]**]
+3. ALMEIDA FILHO, F.G.V.; **CUNHA, A.L.**; ANDRADE, M.F. Banca de Claudia Cosme Mascarenhas. **Desigualdades de exposição à poluição veicular em São Paulo: mapeamento com base em modelo de demanda de viagens por transporte individual motorizado**, 2025. (Engenharia de Transportes) USP. 
     
-4. GIANNOTTI, M.A.; LOUREIRO, C.F.G.; **CUNHA, A.L.** Banca de Thiago Silva Espindola Ferraz. **Explorando Registros de Detalhes de Chamadas (CDRs) para Análise da Mobilidade Urbana: Um Estudo Comparativo de Fortaleza, São Paulo e São José dos Campos**, 2025. (Engenharia de Transportes) USP. [**[@Fig:2025_DefesaME-Thiago]**]
+4. GIANNOTTI, M.A.; LOUREIRO, C.F.G.; **CUNHA, A.L.** Banca de Thiago Silva Espindola Ferraz. **Explorando Registros de Detalhes de Chamadas (CDRs) para Análise da Mobilidade Urbana: Um Estudo Comparativo de Fortaleza, São Paulo e São José dos Campos**, 2025. (Engenharia de Transportes) USP. 
     
-5. ALMEIDA FILHO, F.G.V.; **CUNHA, A.L.**; CARNEIRO, M. Banca de João Carlos Brandão Reberte. **Análise da qualidade de produtos cartográficos em escalas cadastrais gerados através da técnica de fotogramétrica de calibração de campos mistos na câmera do VANT equipado com sistema Real Time Kinematic**, 2024. (Engenharia de Transportes) USP. [**[@Fig:2024_DefesaME-Joao]**]
+5. ALMEIDA FILHO, F.G.V.; **CUNHA, A.L.**; CARNEIRO, M. Banca de João Carlos Brandão Reberte. **Análise da qualidade de produtos cartográficos em escalas cadastrais gerados através da técnica de fotogramétrica de calibração de campos mistos na câmera do VANT equipado com sistema Real Time Kinematic**, 2024. (Engenharia de Transportes) USP. 
     
-6. **CUNHA, A.L.**; ALMEIDA FILHO, F.G.V.; CASTRO NETO, M.M. Banca de Crhistian Emilio Ribeiro. **Avaliação de Redes Neurais Profundas para detecção veicular em imagens de satélite**, 2024. (Engenharia de Transportes) USP. [**[@Fig:2024_DefesaME-Crhistian]**]
+6. **CUNHA, A.L.**; ALMEIDA FILHO, F.G.V.; CASTRO NETO, M.M. Banca de Crhistian Emilio Ribeiro. **Avaliação de Redes Neurais Profundas para detecção veicular em imagens de satélite**, 2024. (Engenharia de Transportes) USP. 
     
-7. TACO, P.W.G.; ZANCHETTA, F.; SILVIA, R.C.; **CUNHA, A.L.** Banca de Kevin Masinda Mahema. **Componentes para classificação de corredores rodoviários inteligentes — CRIS no Brasil**, 2023. (Transportes) UnB. [**[@Fig:2023_DefesaME-Kevin]**]
+7. TACO, P.W.G.; ZANCHETTA, F.; SILVIA, R.C.; **CUNHA, A.L.** Banca de Kevin Masinda Mahema. **Componentes para classificação de corredores rodoviários inteligentes — CRIS no Brasil**, 2023. (Transportes) UnB. 
 
-8. LIMA, R.S.; **CUNHA, A.L.**; PINHO, A.F.; FAVARETO, F. Banca de Lucas Gomes Pereira. **Clusterização como técnica de apoio à decisão para um marketplace eletrônico logístico**, 2023. (Engenharia de Produção) UNIFEI. [**[@Fig:2023_DefesaME-Lucas]**]
+8. LIMA, R.S.; **CUNHA, A.L.**; PINHO, A.F.; FAVARETO, F. Banca de Lucas Gomes Pereira. **Clusterização como técnica de apoio à decisão para um marketplace eletrônico logístico**, 2023. (Engenharia de Produção) UNIFEI. 
     
-9. **CUNHA, A.L.**; ISLER, C.A.; BESSA JÚNIOR, J.E. Banca de Paola Yumi Matsumoto. **Calibração de modelo Cellular Automata para simulação do comportamento do tráfego veicular em rodovias paulistas**, 2022. (Engenharia de Transportes) USP. [**[@Fig:2022_DefesaME-Paola]**]
+9. **CUNHA, A.L.**; ISLER, C.A.; BESSA JÚNIOR, J.E. Banca de Paola Yumi Matsumoto. **Calibração de modelo Cellular Automata para simulação do comportamento do tráfego veicular em rodovias paulistas**, 2022. (Engenharia de Transportes) USP. 
 
-10. BESSA JÚNIOR, J.E.; **CUNHA, A.L.**; GARCIA, D.S.P. Banca de Davi Antonio Avelar Brêtas. **Desenvolvimento de método para estimar o nível de serviço em interseções do tipo rotatória alongada não vazada localizadas em rodovias de pista simples**, 2022. (Geotecnia e Transportes) UFMG. [**[@Fig:2022_DefesaME-Davi]**]
+10. BESSA JÚNIOR, J.E.; **CUNHA, A.L.**; GARCIA, D.S.P. Banca de Davi Antonio Avelar Brêtas. **Desenvolvimento de método para estimar o nível de serviço em interseções do tipo rotatória alongada não vazada localizadas em rodovias de pista simples**, 2022. (Geotecnia e Transportes) UFMG. 
 
-11. **CUNHA, A.L.**; BESSA JÚNIOR, J.E.; CASTRO NETO, M.M. Banca de Helena Stein Stefani. **Método de previsão de fluxo de tráfego em rodovias urbanas a partir de dados de velocidade de fontes online**, 2021. (Engenharia de Transportes) USP. [**[@Fig:2021_DefesaME-Helena]**]
+11. **CUNHA, A.L.**; BESSA JÚNIOR, J.E.; CASTRO NETO, M.M. Banca de Helena Stein Stefani. **Método de previsão de fluxo de tráfego em rodovias urbanas a partir de dados de velocidade de fontes online**, 2021. (Engenharia de Transportes) USP. 
 
-12. MELANDA, E.A.; SHIGUEMORI, E.H.; **CUNHA, A.L.**; Banca de Tatiane Ferreira Olivatto. **Identificação automática de rampas de acessibilidade apoiada por visão computacional a partir de imagens panorâmicas Street-Level.”**, 2021. (Engenharia Urbana) UFSCar. [**[@Fig:2021_DefesaME-Tatiane]**]
+12. MELANDA, E.A.; SHIGUEMORI, E.H.; **CUNHA, A.L.**; Banca de Tatiane Ferreira Olivatto. **Identificação automática de rampas de acessibilidade apoiada por visão computacional a partir de imagens panorâmicas Street-Level.”**, 2021. (Engenharia Urbana) UFSCar. 
 
-13. SILVA JUNIOR, C.A.P.; **CUNHA, A.L.**; GUERREIRO, T.C.M.; LOPES, D.D.; TEIXEIRA, R.S. Banca de Thiago Vinicius Louro. **Análise dos fatores que influenciam a distância lateral e a velocidade de ultrapassagem entre veículos motorizados e ciclistas.”**, 2021. (Engenharia Civil) UEL. [**[@Fig:2021_DefesaME-Thiago]**]
+13. SILVA JUNIOR, C.A.P.; **CUNHA, A.L.**; GUERREIRO, T.C.M.; LOPES, D.D.; TEIXEIRA, R.S. Banca de Thiago Vinicius Louro. **Análise dos fatores que influenciam a distância lateral e a velocidade de ultrapassagem entre veículos motorizados e ciclistas.”**, 2021. (Engenharia Civil) UEL. 
     
-14. BAZZAN, A.L.C.; SILVA, B.C.; **CUNHA, A.L.**; SILVA, R. Banca de Camil Samer Zahlan Redwan. **Caracterização de redes de transporte por meio de uma métrica de entropia**, 2020. (PPGC) UFRGS. [**[@Fig:2020_DefesaME-Camil]**]
+14. BAZZAN, A.L.C.; SILVA, B.C.; **CUNHA, A.L.**; SILVA, R. Banca de Camil Samer Zahlan Redwan. **Caracterização de redes de transporte por meio de uma métrica de entropia**, 2020. (PPGC) UFRGS. 
     
-15. **CUNHA, A.L.**; MANZATO, G.G.; BERTONCINI, B.V. Banca de Alceu Dal Bosco Junior. **Usabilidade de pontos de interesse e centralidades de rede de mapas colaborativos para análise de atração de viagens: estudo de caso de Curitiba**, 2020. (Engenharia de Transportes) USP. [**[@Fig:2020_DefesaME-Alceu]**]
+15. **CUNHA, A.L.**; MANZATO, G.G.; BERTONCINI, B.V. Banca de Alceu Dal Bosco Junior. **Usabilidade de pontos de interesse e centralidades de rede de mapas colaborativos para análise de atração de viagens: estudo de caso de Curitiba**, 2020. (Engenharia de Transportes) USP. 
     
-16. MARTE, C.L.; **CUNHA, A.L.**; VIANNA JUNIOR, E.O. Banca de Luca Di Biase. **Análise de sistemas de otimização semafórica em tempo real para a melhoria do desempenho da rede viária: um estudo de caso na cidade de São Paulo**, 2019. (Engenharia de Transportes) USP. [**[@Fig:2019_DefesaME-Luca]**]
+16. MARTE, C.L.; **CUNHA, A.L.**; VIANNA JUNIOR, E.O. Banca de Luca Di Biase. **Análise de sistemas de otimização semafórica em tempo real para a melhoria do desempenho da rede viária: um estudo de caso na cidade de São Paulo**, 2019. (Engenharia de Transportes) USP. 
     
-17. **CUNHA, A.L.**; LIMA, R.S.; ALMEIDA FILHO, F.G.V. Banca de André Borgato Morelli. **Análise exploratória de resiliência em redes viárias urbanas**, 2019. (Engenharia de Transportes) USP. [**[@Fig:2019_DefesaME-Andre]**]
+17. **CUNHA, A.L.**; LIMA, R.S.; ALMEIDA FILHO, F.G.V. Banca de André Borgato Morelli. **Análise exploratória de resiliência em redes viárias urbanas**, 2019. (Engenharia de Transportes) USP. 
     
-18. BESSA JUNIOR, J.E.; **CUNHA, A.L.**; ISLER, C.A. Banca de Frederico Amaral e Silva. **Determinação do impacto de zonas de ultrapassagens proibidas e de faixas adicionais em subida em segmentos de rodovias de pista simples**, 2019. (Geotecnia e Transportes) UFMG. [**[@Fig:2019_DefesaME-Frederico]**]
+18. BESSA JUNIOR, J.E.; **CUNHA, A.L.**; ISLER, C.A. Banca de Frederico Amaral e Silva. **Determinação do impacto de zonas de ultrapassagens proibidas e de faixas adicionais em subida em segmentos de rodovias de pista simples**, 2019. (Geotecnia e Transportes) UFMG. 
     
-19. **CUNHA, A.L.**; BARROS, A.P.B.G.; LIMA, R.S. Banca de Bruna Kuramoto. **Exploração de dados de mapas colaborativos em avaliações de morfologias urbanas brasileiras**, 2019. (Engenharia de Transportes) USP. [**[@Fig:2019_DefesaME-Bruna]**]
+19. **CUNHA, A.L.**; BARROS, A.P.B.G.; LIMA, R.S. Banca de Bruna Kuramoto. **Exploração de dados de mapas colaborativos em avaliações de morfologias urbanas brasileiras**, 2019. (Engenharia de Transportes) USP. 
     
-20. **CUNHA, A.L.**; GONZAGA, A.; CUNTO, F.J.C. Banca de Adriano Belletti Felicio. **Identificação automática de motociclistas através de processamento de imagens de vídeo de tráfego**, 2019. (Engenharia de Transportes) USP. [**[@Fig:2019_DefesaME-Adriano]**]
+20. **CUNHA, A.L.**; GONZAGA, A.; CUNTO, F.J.C. Banca de Adriano Belletti Felicio. **Identificação automática de motociclistas através de processamento de imagens de vídeo de tráfego**, 2019. (Engenharia de Transportes) USP. 
     
-21. MARTE, C.L.; RIBEIRO, P.C.M.; **CUNHA, A.L.** Banca de Arnaldo Luís Santos Pereira. **Intervenções operacionais visando a regularidade e a eficiência de sistemas de ônibus urbanos: resenha de estudos acadêmicos e simulação de aplicações com dados reais**, 2019. (Engenharia de Transportes) USP. [**sem Doc.**]
+21. MARTE, C.L.; RIBEIRO, P.C.M.; **CUNHA, A.L.** Banca de Arnaldo Luís Santos Pereira. **Intervenções operacionais visando a regularidade e a eficiência de sistemas de ônibus urbanos: resenha de estudos acadêmicos e simulação de aplicações com dados reais**, 2019. (Engenharia de Transportes) USP. 
     
-22. CUNTO, F.J.C.; CASTRO NETO, M.M.; **CUNHA, A.L.** Banca de Johny Alves Lira. **Avaliação da qualidade da extração de trajetórias veiculares em áreas urbanas a partir da visão computacional**, 2018. (Engenharia de Transportes) UFC. [**[@Fig:2018_DefesaME-Johny]**]
+22. CUNTO, F.J.C.; CASTRO NETO, M.M.; **CUNHA, A.L.** Banca de Johny Alves Lira. **Avaliação da qualidade da extração de trajetórias veiculares em áreas urbanas a partir da visão computacional**, 2018. (Engenharia de Transportes) UFC. 
     
-23. **CUNHA, A.L.**; BESSA JUNIOR, J.E.; ISLER, C.A. Banca de Gabriel Jurado Martins de Oliveira. **Calibração da relação fluxo-velocidade para autoestradas e rodovias de pista dupla**, 2018. (Engenharia de Transportes) USP. [**[@Fig:2018_DefesaME-Gabriel]**]
+23. **CUNHA, A.L.**; BESSA JUNIOR, J.E.; ISLER, C.A. Banca de Gabriel Jurado Martins de Oliveira. **Calibração da relação fluxo-velocidade para autoestradas e rodovias de pista dupla**, 2018. (Engenharia de Transportes) USP. 
     
-24. **CUNHA, A.L.**; CUNTO, F.J.C.; GONZAGA, A. Banca de Leandro Arab Marcomini. **Identificação automática do comportamento do tráfego a partir de imagens de vídeo**, 2018. (Engenharia de Transportes) USP. [**[@Fig:2018_DefesaME-Leandro]**]
+24. **CUNHA, A.L.**; CUNTO, F.J.C.; GONZAGA, A. Banca de Leandro Arab Marcomini. **Identificação automática do comportamento do tráfego a partir de imagens de vídeo**, 2018. (Engenharia de Transportes) USP. 
     
-25. **CUNHA, A.L.**; GONZAGA, A.; KRAUS JUNIOR, W. Banca de Natália Ribeiro Panice. **Método de detecção automática de eixos de caminhões baseado em imagens**, 2018. (Engenharia de Transportes) USP. [**[@Fig:2018_DefesaME-Natalia]**]
+25. **CUNHA, A.L.**; GONZAGA, A.; KRAUS JUNIOR, W. Banca de Natália Ribeiro Panice. **Método de detecção automática de eixos de caminhões baseado em imagens**, 2018. (Engenharia de Transportes) USP. 
 
-26. **CUNHA, A.L.**; ALMEIDA FILHO, F.G.V.; BERTONCINI, B.V. Banca de Mariana Marçal Thebit. **Reconstrução de matriz O/D sintética a partir de dados de tráfego disponíveis na web**, 2018. (Engenharia de Transportes) USP. [**[@Fig:2018_DefesaME-Mariana]**]
+26. **CUNHA, A.L.**; ALMEIDA FILHO, F.G.V.; BERTONCINI, B.V. Banca de Mariana Marçal Thebit. **Reconstrução de matriz O/D sintética a partir de dados de tráfego disponíveis na web**, 2018. (Engenharia de Transportes) USP. 
 
-27. LAZZARINI, C.M.C.; **CUNHA, A.L.**; ARAUJO, F. Banca de Amilton da Silva Junior. **Meta-heurística baseadas na busca em vizinhança variável para resolução do BPP e VSBPP e aplicação no problema de distribuição física de café torrado e moído**, 2018. (Engenharia Civil) UFU. [**[@Fig:2018_DefesaME-Amilton]**]
+27. LAZZARINI, C.M.C.; **CUNHA, A.L.**; ARAUJO, F. Banca de Amilton da Silva Junior. **Meta-heurística baseadas na busca em vizinhança variável para resolução do BPP e VSBPP e aplicação no problema de distribuição física de café torrado e moído**, 2018. (Engenharia Civil) UFU. 
 
-28. LAZZARINI, C.M.C.; SORRATINI, J.A.; **CUNHA, A.L.** Banca de Gabriel José da Silva. **Microssimulação para avaliação de desempenho operacional da duplicação de uma rodovia: caso da BR-365**, 2017. (Engenharia Civil) UFU. [**[@Fig:2017_DefesaME-Gabriel]**]
+28. LAZZARINI, C.M.C.; SORRATINI, J.A.; **CUNHA, A.L.** Banca de Gabriel José da Silva. **Microssimulação para avaliação de desempenho operacional da duplicação de uma rodovia: caso da BR-365**, 2017. (Engenharia Civil) UFU. 
     
-29. **CUNHA, A.L.**; CASTRO NETO, M.M.; ISLER, C.A. Banca de Elaine Rodrigues Ribeiro. **Análise exploratória de método utilizando Wavelet para detecção de padrões e anomalias em dados históricos do tráfego veicular**, 2017. (Engenharia de Transportes) USP. [**[@Fig:2017_DefesaME-Elaine]**]
+29. **CUNHA, A.L.**; CASTRO NETO, M.M.; ISLER, C.A. Banca de Elaine Rodrigues Ribeiro. **Análise exploratória de método utilizando Wavelet para detecção de padrões e anomalias em dados históricos do tráfego veicular**, 2017. (Engenharia de Transportes) USP. 
     
-30. CUNTO, F.J.C.; CASTRO NETO, M.M.; **CUNHA, A.L.**; CYBIS, H.B.B. Banca de Dênnys Araújo Santos. **Diagramas veiculares espaço-tempo em vias urbanas utilizando a visão computacional**, 2017. (Engenharia de Transportes) UFC. [**[@Fig:2017_DefesaME-Dennys]**]
+30. CUNTO, F.J.C.; CASTRO NETO, M.M.; **CUNHA, A.L.**; CYBIS, H.B.B. Banca de Dênnys Araújo Santos. **Diagramas veiculares espaço-tempo em vias urbanas utilizando a visão computacional**, 2017. (Engenharia de Transportes) UFC. 
         
-31. BEZERRA, B.S.; **CUNHA, A.L.**; RODRIGUES, J.S. Banca de Paulo Roberto Alves. **Fatores na adição da tecnologia RFID no controle de estoque no setor sucroalcooleiro**, 2016. (Engenharia de Produção) UNESP. [**[@Fig:2016_DefesaME-Paulo]**]
+31. BEZERRA, B.S.; **CUNHA, A.L.**; RODRIGUES, J.S. Banca de Paulo Roberto Alves. **Fatores na adição da tecnologia RFID no controle de estoque no setor sucroalcooleiro**, 2016. (Engenharia de Produção) UNESP. 
     
-32. LAZZARINI, C.M.C.; SORRATINI, J.A.; **CUNHA, A.L.** Banca de Jardel Inácio Moreira Vieira. **Estudo para compartilhamento de terminais entre um sistema tronco-alimentador de passageiros e a logística urbana de cargas**, 2015. (Engenharia Civil) UFU. [**[@Fig:2015_DefesaME-Jardel]**]
+32. LAZZARINI, C.M.C.; SORRATINI, J.A.; **CUNHA, A.L.** Banca de Jardel Inácio Moreira Vieira. **Estudo para compartilhamento de terminais entre um sistema tronco-alimentador de passageiros e a logística urbana de cargas**, 2015. (Engenharia Civil) UFU. 
     
-33. MULLER, C.J.; CYBIS, H.B.B.; **CUNHA, A.L.** Banca de Julia Lopes de Oliveira Freitas. **Modelagem de Processos para a Gestão Inteligente das Informações no Controle Centralizado do Tráfego**, 2014. (Engenharia de Produção) UFRGS. [**[@Fig:2014_DefesaME-Julia]**]
+33. MULLER, C.J.; CYBIS, H.B.B.; **CUNHA, A.L.** Banca de Julia Lopes de Oliveira Freitas. **Modelagem de Processos para a Gestão Inteligente das Informações no Controle Centralizado do Tráfego**, 2014. (Engenharia de Produção) UFRGS. 
     
 ## Exames de Qualificação de Doutorado (12)
 
-1. PINHO, A.F.; LEAL, F.; SILVA, J.P.; **CUNHA, A.L.** Banca de José da Silva Ferreira Junior. **Modelo híbrido para racionalização do transporte público urbano por ônibus com aprendizagem de máquina**, 2025. (Engenharia de Produção) UNIFEI. [**[@Fig2025_QuaDO-Jose:]**]
+1. PINHO, A.F.; LEAL, F.; SILVA, J.P.; **CUNHA, A.L.** Banca de José da Silva Ferreira Junior. **Modelo híbrido para racionalização do transporte público urbano por ônibus com aprendizagem de máquina**, 2025. (Engenharia de Produção) UNIFEI. 
     
-2. **CUNHA, A.L.**; ALMEIDA FILHO, F.G.V.; CUNTO, F.J.C. Banca de Elaine Rodrigues Ribeiro. **Análise do comportamento de motociclistas em trechos urbanos**, 2024. (Engenharia de Transportes) USP. [**[@Fig:2024_QuaDO-Elaine]**]
+2. **CUNHA, A.L.**; ALMEIDA FILHO, F.G.V.; CUNTO, F.J.C. Banca de Elaine Rodrigues Ribeiro. **Análise do comportamento de motociclistas em trechos urbanos**, 2024. (Engenharia de Transportes) USP. 
     
-3. **CUNHA, A.L.**; GIANNOTTI, M.; LOUREIRO, C.F.G. Banca de Thiago Vinicius Louro. **Evaluation Potential Accessibility and spatial equity impacts of electric bicycles in São Paulo, Brazil**, 2024. (Engenharia de Transportes) USP. [**[@Fig:2024_QuaDO-Thiago]**]
+3. **CUNHA, A.L.**; GIANNOTTI, M.; LOUREIRO, C.F.G. Banca de Thiago Vinicius Louro. **Evaluation Potential Accessibility and spatial equity impacts of electric bicycles in São Paulo, Brazil**, 2024. (Engenharia de Transportes) USP. 
     
-4. CECY, T.M.; **CUNHA, A.L.**; SILVA, A.N.R.; SILVA, J.P.; BUGS, G.T. Banca de Amanda Christine Gallucci Silva. **Método para concepção de cenários em planos de mobilidade urbana**, 2024. (Sustentabilidade Ambiental Urbana) UTFPR. [**[@Fig:2024_QuaDO-Amanda]**]
+4. CECY, T.M.; **CUNHA, A.L.**; SILVA, A.N.R.; SILVA, J.P.; BUGS, G.T. Banca de Amanda Christine Gallucci Silva. **Método para concepção de cenários em planos de mobilidade urbana**, 2024. (Sustentabilidade Ambiental Urbana) UTFPR. 
     
-5. CYBIS, H.B.B.; **CUNHA, A.L.**; CALEFFI, F.; ANZANELLO, M.J. Banca de Douglas Zechin. **Probabilistic traffic breakdown forecasting through Bayesian approximation using variational LSTMs**, 2023. (Engenharia de Produção) UFRGS. [**[@Fig:2023_QuaDO-Douglas]**]
+5. CYBIS, H.B.B.; **CUNHA, A.L.**; CALEFFI, F.; ANZANELLO, M.J. Banca de Douglas Zechin. **Probabilistic traffic breakdown forecasting through Bayesian approximation using variational LSTMs**, 2023. (Engenharia de Produção) UFRGS. 
     
-6. CASTRO NETO, M.M.; CUNTO, F.J.C.; GOMES, J.P.P.; **CUNHA, A.L.**; TOKUDA, E.K. Banca de Alessandro Macêdo de Araújo. **Modelagem do impacto das motocicletas no tráfego de interseções semaforizadas de Fortaleza**, 2022. (Engenharia de Transportes) UFC. [**[@Fig:2022_QuaDO-Alessandro]**]
+6. CASTRO NETO, M.M.; CUNTO, F.J.C.; GOMES, J.P.P.; **CUNHA, A.L.**; TOKUDA, E.K. Banca de Alessandro Macêdo de Araújo. **Modelagem do impacto das motocicletas no tráfego de interseções semaforizadas de Fortaleza**, 2022. (Engenharia de Transportes) UFC. 
     
-7. LAVIERI, P.S.; GIANNOTTI, M.A.; **CUNHA, A.L.** Banca de André Borgato Morelli. **Proposta de métodos e ferramentas para análise de vulnerabilidade em sistemas de transporte urbano pela ótica da acessibilidade**, 2022. (Engenharia de Transportes) USP. [**[@Fig:2022_QuaDO-Andre]**]
+7. LAVIERI, P.S.; GIANNOTTI, M.A.; **CUNHA, A.L.** Banca de André Borgato Morelli. **Proposta de métodos e ferramentas para análise de vulnerabilidade em sistemas de transporte urbano pela ótica da acessibilidade**, 2022. (Engenharia de Transportes) USP. 
     
-8. **CUNHA, A.L.**; MACIEL, C.D.; KRAUS JUNIOR, W. Banca de Leandro Arab Marcomini. **Método de detecção e classificação de eixos de caminhões baseado em imagens de vídeo**, 2021. (Engenharia de Transportes) USP. [**[@Fig:2021_QuaDO-Leandro]**]
+8. **CUNHA, A.L.**; MACIEL, C.D.; KRAUS JUNIOR, W. Banca de Leandro Arab Marcomini. **Método de detecção e classificação de eixos de caminhões baseado em imagens de vídeo**, 2021. (Engenharia de Transportes) USP. 
     
-9. LAVIERI, P.S.; **CUNHA, A.L.**; THOMPSON, R.G.; NASSIR, N. Banca de Gabriel Jurado Martins de Oliveira. **Toward a data-driven framework to analyse temporal and spatial distributions of crashes**, 2020. (PhD in Infrastructure Engineering) The University of Melbourne. [**sem Doc.**]
+9. LAVIERI, P.S.; **CUNHA, A.L.**; THOMPSON, R.G.; NASSIR, N. Banca de Gabriel Jurado Martins de Oliveira. **Toward a data-driven framework to analyse temporal and spatial distributions of crashes**, 2020. (PhD in Infrastructure Engineering) The University of Melbourne. 
     
-10. WOLF, D.F.; BRANCO, K.R.L.J.C.; ROMERO, R.A.F.; **CUNHA, A.L.** Banca de Tiago Cesar dos Santos. **Uma abordagem descentralizada para negociação de tráfego e resolução de conflitos de veículos inteligentes**, 2018. (Ciências de Computação e Matemática Computacional) USP-ICMC. [**[@Fig:2018_QuaDO-Tiago]**]
+10. WOLF, D.F.; BRANCO, K.R.L.J.C.; ROMERO, R.A.F.; **CUNHA, A.L.** Banca de Tiago Cesar dos Santos. **Uma abordagem descentralizada para negociação de tráfego e resolução de conflitos de veículos inteligentes**, 2018. (Ciências de Computação e Matemática Computacional) USP-ICMC. 
     
-11. FERNANDES JUNIOR, J.L.; PITOMBO, C.S.; **CUNHA, A.L.** Banca de Maria José Ayres Zagatto Penha. **Estudo do financiamento privado de rodovias: Experiências internacionais aplicadas ao Brasil**, 2016. (Engenharia de Transportes) USP. [**[@Fid:2016_QuaDO-Maria]**]
+11. FERNANDES JUNIOR, J.L.; PITOMBO, C.S.; **CUNHA, A.L.** Banca de Maria José Ayres Zagatto Penha. **Estudo do financiamento privado de rodovias: Experiências internacionais aplicadas ao Brasil**, 2016. (Engenharia de Transportes) USP. 
     
-12. SEGANTINE, P.C.L.; **CUNHA, A.L.**; BERTONCINI, B.V. Banca de Marcela Navarro Pianucci. **Modelo baseado em redes neurais para estimar demanda de viagens através de dados de fácil aquisição — apoio ao planejamento de transportes**, 2014. (Engenharia de Transportes) USP. [**[@Fig:2014_QuaDO-Marcela]**]
+12. SEGANTINE, P.C.L.; **CUNHA, A.L.**; BERTONCINI, B.V. Banca de Marcela Navarro Pianucci. **Modelo baseado em redes neurais para estimar demanda de viagens através de dados de fácil aquisição — apoio ao planejamento de transportes**, 2014. (Engenharia de Transportes) USP. 
 
 ## Exames de Qualificação de Mestrado (15)
-1. **CUNHA, A.L.**; GIANNOTTI, M.A.; CALEFFI, F. Banca de Rodrigo Otávio Fraga Peixoto de Oliveira. **Comparação de métodos de previsão de alagamentos para avaliação de resiliência urbana: Estudo aplicado ao transporte público de Curitiba, PR**, 2025. (Engenharia de Transportes) USP-EESC. [**[@Fig:2025_QuaME-Rodrigo]**]
+1. **CUNHA, A.L.**; GIANNOTTI, M.A.; CALEFFI, F. Banca de Rodrigo Otávio Fraga Peixoto de Oliveira. **Comparação de métodos de previsão de alagamentos para avaliação de resiliência urbana: Estudo aplicado ao transporte público de Curitiba, PR**, 2025. (Engenharia de Transportes) USP-EESC. 
 
-2. NONATO, L>G>; **CUNHA, A.L.**; MEDINA< J.L.P. Banca de Raissa Rosa dos Santos. **Explorando a relação entre a malha viária e o roubo de veículos em São Paulo**, 2025. (Ciências da Computação) USP-ICMC. [**[@Fig:2025_QuaME-Raissa]**]
+2. NONATO, L>G>; **CUNHA, A.L.**; MEDINA< J.L.P. Banca de Raissa Rosa dos Santos. **Explorando a relação entre a malha viária e o roubo de veículos em São Paulo**, 2025. (Ciências da Computação) USP-ICMC. 
 
-3. **CUNHA, A.L.**; FARIA, J.R.V.; ANDRADE, M.H. Banca de Maria Eduarda Saquetto Michelini. **Acessibilidade territorial e desigualdade: Um estudo das regionais de Curitiba**, 2025. (Engenharia de Transportes) USP-EESC. [**[@Fig:2025_QuaME-Maria]**]
+3. **CUNHA, A.L.**; FARIA, J.R.V.; ANDRADE, M.H. Banca de Maria Eduarda Saquetto Michelini. **Acessibilidade territorial e desigualdade: Um estudo das regionais de Curitiba**, 2025. (Engenharia de Transportes) USP-EESC. 
 
-4. LAROCCA, A.P.C.; **CUNHA, A.L.**; SILVA, K.C.R. Banca de Fernando Lima de Carvalho. **Modelo de previsão de acidentes aplicado à avaliação de segurança viária em rodovia brasileira**, 2025. (Engenharia de Transportes) USP-EESC. [**[@Fig:2025_QuaME-Fernando]**]
+4. LAROCCA, A.P.C.; **CUNHA, A.L.**; SILVA, K.C.R. Banca de Fernando Lima de Carvalho. **Modelo de previsão de acidentes aplicado à avaliação de segurança viária em rodovia brasileira**, 2025. (Engenharia de Transportes) USP-EESC. 
 
-5. CASTRO NETO, M.M.; CUNTO, F.J.C.; **CUNHA, A.L.** Banca de Daniel Nunes Magalhaes Arruda. **Estimação de fatores de equivalência veicular para motocicletas em interseções semafóricas de Fortaleza**, 2025. (Engenharia de Transportes) UFC. [**[@Fig:2025_QuaME-Daniel]**]
+5. CASTRO NETO, M.M.; CUNTO, F.J.C.; **CUNHA, A.L.** Banca de Daniel Nunes Magalhaes Arruda. **Estimação de fatores de equivalência veicular para motocicletas em interseções semafóricas de Fortaleza**, 2025. (Engenharia de Transportes) UFC. 
 
-6. **CUNHA, A.L.**; NÓBREGA, R.A.; PEDREIRA JUNIOR, J.U. Banca de Andressa Vitório Costa. **Acessibilidade ao CREAS: análise da distância física e social dos cidadãos de Belo Horizonte**, 2025. (Engenharia de Transportes) USP-EESC. [**[@Fig:2025_QuaME-Andressa]**]
+6. **CUNHA, A.L.**; NÓBREGA, R.A.; PEDREIRA JUNIOR, J.U. Banca de Andressa Vitório Costa. **Acessibilidade ao CREAS: análise da distância física e social dos cidadãos de Belo Horizonte**, 2025. (Engenharia de Transportes) USP-EESC. 
 
-7. **CUNHA, A.L.**; CASTRO NETO, M.M.; SILVA, I. Banca de Crhistian Emilio Ribeiro. **Obtenção de parâmetros de tráfego a partir de imagens de satélite usando visão computacional**, 2022. (Engenharia de Transportes) USP-EESC. [**[@Fig:2022_QuaME-Crhistian]**]
+7. **CUNHA, A.L.**; CASTRO NETO, M.M.; SILVA, I. Banca de Crhistian Emilio Ribeiro. **Obtenção de parâmetros de tráfego a partir de imagens de satélite usando visão computacional**, 2022. (Engenharia de Transportes) USP-EESC. 
 
-8. BESSA JUNIOR, J.E.; **CUNHA, A.L.**; GARCIA, D.S.P. Banca de Davi Antônio Avelar Brêtas. **Desenvolvimento de método para cálculo da capacidade e do nível de serviço de interseções alternativas do tipo rotatória alongada não vazada em rodovias de pista simples brasileiras**, 2021. (Geotecnia e Transportes) UFMG. [**[@Fig:2021_QuaME-Davi]**]
+8. BESSA JUNIOR, J.E.; **CUNHA, A.L.**; GARCIA, D.S.P. Banca de Davi Antônio Avelar Brêtas. **Desenvolvimento de método para cálculo da capacidade e do nível de serviço de interseções alternativas do tipo rotatória alongada não vazada em rodovias de pista simples brasileiras**, 2021. (Geotecnia e Transportes) UFMG. 
 
-9. SILVA JUNIOR, C.A.P.; **CUNHA, A.L.**; GUERREIRO, T.C.AM. Banca de Thiago Vinicius Louro. **Análise dos fatores que influenciam na ocorrência de ultrapassagens perigosas entre veículos motorizados e ciclistas**, 2020. (Engenharia Civil) UEL. [**[@Fig:2020_QuaME-Thiago]**]
+9. SILVA JUNIOR, C.A.P.; **CUNHA, A.L.**; GUERREIRO, T.C.AM. Banca de Thiago Vinicius Louro. **Análise dos fatores que influenciam na ocorrência de ultrapassagens perigosas entre veículos motorizados e ciclistas**, 2020. (Engenharia Civil) UEL. 
 
-10. MARTE, C.L.; **CUNHA, A.L.**; CASTRO NETO, M.M. Banca de Olimpio Mendes de Barros. **Caracterização das condições de tráfego em tempo próximo ao real para uso em sistemas de previsão de tráfego em cidades de grande porte**, 2019. (Engenharia de Transportes) USP-EP. [**[@Fig:2019_QuaME-Olimpio]**]
+10. MARTE, C.L.; **CUNHA, A.L.**; CASTRO NETO, M.M. Banca de Olimpio Mendes de Barros. **Caracterização das condições de tráfego em tempo próximo ao real para uso em sistemas de previsão de tráfego em cidades de grande porte**, 2019. (Engenharia de Transportes) USP-EP. 
 
-11. **CUNHA, A.L.**; PITOMBO, C.S.; BERTONCINI; B.V. Banca de Alceu Dal Bosco Junior. **Proposta de modelo de atração de viagens a partir de mapas colaborativos**, 2019. (Engenharia de Transportes) USP-EESC. [**[@Fig:2019_QuaME-Alceu]**]
+11. **CUNHA, A.L.**; PITOMBO, C.S.; BERTONCINI; B.V. Banca de Alceu Dal Bosco Junior. **Proposta de modelo de atração de viagens a partir de mapas colaborativos**, 2019. (Engenharia de Transportes) USP-EESC. 
 
-12. BESSA JUNIOR, J.E.; **CUNHA, A.L.**; ISLER, C.A. Banca de Frederico Amaral e Silva. **Determinação do impacto de zonas de ultrapassagem proibidas e de faixas adicionais de subida em segmentos de rodovias de pista simples**, 2018. (Geotecnia e Transportes) UFMG. [**[@Fig:2018_QuaME-Frederico]**]
+12. BESSA JUNIOR, J.E.; **CUNHA, A.L.**; ISLER, C.A. Banca de Frederico Amaral e Silva. **Determinação do impacto de zonas de ultrapassagem proibidas e de faixas adicionais de subida em segmentos de rodovias de pista simples**, 2018. (Geotecnia e Transportes) UFMG. 
 
-13. **CUNHA, A.L.**; SILVA, A.N.R.; MINGHIM, R. Banca de Bruna Kuramoto. **Análise de aspectos da mobilidade urbana de uma rede real a partir de propriedades topográficas ponderadas**, 2017. (Engenharia de Transportes) USP-EESC. [**[@Fig:2017_QuaME-Bruna]**]
+13. **CUNHA, A.L.**; SILVA, A.N.R.; MINGHIM, R. Banca de Bruna Kuramoto. **Análise de aspectos da mobilidade urbana de uma rede real a partir de propriedades topográficas ponderadas**, 2017. (Engenharia de Transportes) USP-EESC. 
 
-14. **CUNHA, A.L.**; GONZAGA, A.; ISLER, C.A. Banca de Adriano Belletti Felicio. **Análise do comportamento de motociclistas através de sistema de processamento de imagens de vídeo**, 2017. (Engenharia de Transportes) USP-EESC. [**[@Fig:2017_QuaME-Adriano]**]
+14. **CUNHA, A.L.**; GONZAGA, A.; ISLER, C.A. Banca de Adriano Belletti Felicio. **Análise do comportamento de motociclistas através de sistema de processamento de imagens de vídeo**, 2017. (Engenharia de Transportes) USP-EESC. 
 
-15. FERNANDES JUNIOR, J.L.; **CUNHA, A.L.**; FABBRI, G.T.P. Banca de Danilo Rinaldi Bisconsini. **O uso de smartphones para a avaliação da irregularidade longitudinal de pavimentos**, 2015. (Engenharia de Transportes) USP-EESC. [**[@Fig:2015_QuaME-Danilo]**]
+15. FERNANDES JUNIOR, J.L.; **CUNHA, A.L.**; FABBRI, G.T.P. Banca de Danilo Rinaldi Bisconsini. **O uso de smartphones para a avaliação da irregularidade longitudinal de pavimentos**, 2015. (Engenharia de Transportes) USP-EESC. 
 
 ## Bancas de Trabalho de Conclusão de Curso (Graduação) 
 

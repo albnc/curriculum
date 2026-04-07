@@ -1,8 +1,24 @@
-Currículo Acadêmico-Profissional
-=================================
+---
+lang: pt-br
+chapter: false
+numberSections: true
+documentclass: book
+papersize: a4
+geometry: margin=25mm
+mainfont: Candara
+fontsize: 11pt
+urlcolor: "blue"
+nameInLink: true
+tableTitle: "Tabela"
+tblPrefix: "tab."
+---
+
+
+# Currículo Acadêmico-Profissional{-}
+
 
 ## Dados Pessoais
-**Nome completo:** André Luiz Barbosa Nunes da Cunha
+**Nome completo:** André Luiz Barbosa Nunes da Cunha 
 
 **Nascimento:** 29/10/1981, Campo Grande/MS, Brasil
 

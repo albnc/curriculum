@@ -389,12 +389,16 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 1. SALINAS, K., BARELLA, V., **CUNHA, A.L.**, [OLIVEIRA, G.M.]{.underline}, VIERA, T., NONATO, L.G. (2025) "ORDENA: ORigin-DEstiNAtion data exploration". IEEE Transactions on Visualization and Computer Graphics <[arXiv:2510.18278](https://arxiv.org/pdf/2510.18278)>
 
-1. [LOURO, T. V.]{.underline}, GRIGOLON, A. B., **CUNHA, A. L.**, GEURS, K. T. (2025). "Cycling accessibility and equity: A systematic literature review". Manuscript submitted for publication to Transport Reviews.
-
 1. [LOURO, T. V.]{.underline}, TOMASIELLO, D. B., GRIGOLON, A. B., **CUNHA, A. L.**, GEURS, K. T. (2026). "Integrating e-bikes and bikesharing with public transit: Evaluation of impacts on job accessibility and spatial equity". Manuscript submitted for publication to Journal of Urban Mobility.
+
+1. CARVALHO, F.L., LAROCCA, A.P.C., RIBEIRO, R.S., **CUNHA, A.L.B.N.** (2026) "Assessing the Reliability of OpenStreetMap for Highway Horizontal Alignment Extraction: A Comparison with Georeferenced CAD Data". IEEE access. <[10.1109/ACCESS.2024.0429000](http://doi.org/10.1109/ACCESS.2024.0429000)>
 
 
 ## Peer-Reviewed Journal
+
+1. [LOURO, T. V.]{.underline}, GRIGOLON, A. B., **CUNHA, A. L.**, GEURS, K. T. (2026). "Cycling accessibility and equity: A systematic literature review". Transport Reviews. \
+<DOI: [10.1080/01441647.2026.2664409](https://doi.org/10.1080/01441647.2026.2664409)>
+
 
 1. [LOURO, T.V.]{.underline}; GRIGILON, A.B.; TIRACHINI, A.; **CUNHA, A.L.**; GEURS, K.T. (2026) "How Do E-Bikes Measure Up? Analyzing Speed Differences and Network Impacts of São Paulo’s Bikesharing System". Transportation. \
 <DOI: [10.1007/s11116-026-10724-y](https://doi.org/10.1007/s11116-026-10724-y)>

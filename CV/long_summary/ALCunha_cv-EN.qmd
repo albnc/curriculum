@@ -298,6 +298,9 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 
 ## Completed {#sec-completed}
+
+1. Ph.D. (2026-04-02) : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) "*[Estimationg  the Impacts of electric bicycles on accessibility to jobs and spatial equity]()*"
+
 1. Ph.D. (2025-12-08) : [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) "*[Classification of trucks by axles using Deep Learning and a Large Multimodal Model](https://doi.org/10.11606/T.18.2025.tde-11022026-082130)*"
 
 1. Ph.D. (2025-05-23) : [Andre Borgato Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en) "*Analysis of Flood Vulnerability in Brazilian Urban Networks Using Graph Theory Tools.*"
@@ -336,9 +339,7 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 5. Ph.D. : [Elaine Rodrigues Ribeiro]() "*Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile*"
 
-6. Ph.D. : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) "*Examining The Impacts Of Electric Bicycles On Accessibility To Jobs And Spatial Equity*"
-
-7. Ph.D. : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) "*Evaluation of causal inference and spatial effects on travel behavior*" 
+6. Ph.D. : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) "*Evaluation of causal inference and spatial effects on travel behavior*" 
 
 
 

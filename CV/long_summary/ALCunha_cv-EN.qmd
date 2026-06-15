@@ -299,11 +299,11 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 ## Completed {#sec-completed}
 
-1. Ph.D. (2026-04-02) : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) "*[Estimating  the Impacts of electric bicycles on accessibility to jobs and spatial equity]()*"
+1. Ph.D. (2026-04-02) : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) "*[Estimating  the Impacts of electric bicycles on accessibility to jobs and spatial equity](https://doi.org/10.11606/T.18.2026.tde-11062026-104151)*"
 
 1. Ph.D. (2025-12-08) : [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) "*[Classification of trucks by axles using Deep Learning and a Large Multimodal Model](https://doi.org/10.11606/T.18.2025.tde-11022026-082130)*"
 
-1. Ph.D. (2025-05-23) : [Andre Borgato Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en) "*Analysis of Flood Vulnerability in Brazilian Urban Networks Using Graph Theory Tools.*"
+1. Ph.D. (2025-05-23) : [Andre Borgato Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en) "*[Analysis of Flood Vulnerability in Brazilian Urban Networks Using Graph Theory Tools]().*"
 
 1. M.Sc. (2024-08-27): [Crhistian Emilio Ribeiro]() "*[Evaluation of deep neural networks for vehicle detection in satellite images](https://doi.org/10.11606/D.18.2024.tde-31102024-114415)*"
 

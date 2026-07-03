@@ -18,9 +18,9 @@ format:
 
 # ANDRÉ LUIZ BARBOSA NUNES DA CUNHA
 
-**Tenured Assistant Professor of Civil Engineering | AI & Sustainability in Transport**\
+**Tenured Associate Professor of Civil Engineering | AI & Sustainability in Transport**\
 University of São Paulo ([USP](https://www5.usp.br/en)) • São Carlos School of Engineering ([EESC](https://eesc.usp.br/en/))
-Department of Transport Engineering ([STT](https://eesc.usp.br/ppgs/stt/))\ 
+Department of Transport Engineering ([STT](https://eesc.usp.br/ppgs/stt/)) \ 
 São Carlos, SP, Brazil
 
 
@@ -37,8 +37,18 @@ São Carlos, SP, Brazil
 
 ### Professional Summary
 
-Tenured civil engineering academic with 12+ years of post-doctoral experience bridging transport infrastructure, sustainability, and AI-driven engineering. Research portfolio of ~USD 3.38 million in competitive grants and industry contracts. Co-PI on a USD 1.45M FAPESP initiative on pavement recycling and decarbonisation. Extensive teaching leadership (6 courses, curriculum redesign, inverted classroom), research supervision (60+ scholars, 3 PhDs and 12 MScs completed), and institutional governance. International research experience in Australia, Germany, Croatia, and Portugal.
+Tenured researcher and Technical Lead with 12+ years of experience at the intersection of Intelligent Transportation Systems (ITS), Artificial Intelligence, and transport safety. Director of the ITS Research Group at USP-EESC, with a sustained research agenda spanning computer vision for traffic monitoring, traffic simulation, graph-based network vulnerability analysis, and digital twins for highway concessions. Proven track record of translating academic R&D into operational safety standards for major Brazilian highway concessionaires (CCR, ARTERIS). Secured approximately **USD 3.38 million (BRL 18.6M)** in competitive grants and industry contracts. Global academic reach includes visiting appointments in Australia (UoM), Germany (TUM), Croatia (UNIZG), and Portugal (UMinho).
 
+
+
+### Areas of Expertise
+
+- **Intelligent Transportation Systems (ITS):** traffic monitoring, connected/autonomous vehicles, variable speed limits, smart intersections
+- **Artificial Intelligence & Computer Vision:** deep learning (PyTorch, TensorFlow), large multimodal models (LMMs), OpenCV pipelines for vehicle detection and classification
+- **Traffic Simulation & Modelling:** PTV VISSIM, AIMSUN, SUMO, MATSim, TSIS-CORSIM — calibration, validation, API scripting
+- **Network Analysis & Digital Twins:** graph neural networks (GNNs), urban road network vulnerability, prescriptive digital twins for highway management
+- **Highway Safety:** truck escape ramp design, heavy vehicle operations, geometric design, operational speed validation
+- **Data Science:** Python, R, C++, Julia, SQL — applied to crash prediction, travel behaviour, spatial equity
 
 
 
@@ -66,12 +76,12 @@ Tenured civil engineering academic with 12+ years of post-doctoral experience br
 
 ## ACADEMIC APPOINTMENTS \hrulefill
 
-**Tenured Assistant Professor** (equivalent to Associate Professor) \dotfill 2014 – present\
+**Tenured Associate Professor** \dotfill 2014 – present\
 *University of São Paulo (USP), Dept. of Transport Engineering*, São Carlos, Brazil.
 
   - Director of the Intelligent Transportation Systems (ITS) Research Group.
   - Tenure awarded 2021; promoted to Senior Faculty status (MS-3.2).
-  - Elected: Department Council, Graduate Coordinating Committee (CCP-ET), Center for Educational Technology in Engineering (CETEPE), Research and Innovation Committee (CPqI), Culture & Extension Committee (CCEx)
+  - Elected: Deputy Coordinator of Graduate Program, Department Council, Graduate Coordinating Committee (CCP-ET), Center for Educational Technology in Engineering (CETEPE), Research and Innovation Committee (CPqI), Culture & Extension Committee (CCEx)
 
     
 **Research Scientist & Laboratory Specialist** \dotfill 2013 – 2014\
@@ -95,6 +105,12 @@ Tenured civil engineering academic with 12+ years of post-doctoral experience br
 
 ## RESEARCH AGENDA - Sustainability & Innovation \hrulefill
 
+  - **Cognitive Mobility in Transportation Engineering** (CNPq PQ, 2026–2029). Framework for generative AI applied to data imputation and prescriptive digital twins for transport networks, building on prior work in computer vision and graph theory.
+
+  - **RESILIUS — Innovation Network for Resilient, Inclusive and Sustainable Cities** (MCTI/FINEP/FNDCT, 2025–2028). 
+*Coordinator of RESILIUS_IA* — Urban Digital Twin platform based on dynamic graphs, integrating real-time data streams (IoT, drones, hydrological sensors, traffic cameras) to support public managers in disaster response, infrastructure monitoring, and mobility equity decisions. 
+
+
   - **Pavement Recycling & Decarbonization (SDG 9 & 12)**: Co-PI on FAPESP USD 1.45M initiative. Data-driven modelling and optimisation for recycled pavement materials; engineering technical protocols for net-zero infrastructure.
 
    - **Urban Climate Resilience & Social Equity (SDG 11 & 13)**: Assessing multimodal network vulnerability to extreme floods using graph theory. Designing fail-safe transport systems for marginalised communities.
@@ -110,6 +126,7 @@ Tenured civil engineering academic with 12+ years of post-doctoral experience br
 
 ### Competitive Research Grants (Peer-Reviewed)
 
+- **2026-2029:** CNPq Research Productivity - Cognitive Mobility in Transportation Engineering. PI ~USD 8,000
 - **2025–2030:** FAPESP CCD Grant — "Pavement Recycling as a Pillar of Decarbonisation." Co-PI. ~USD 1.45M
 - **2023–2028:** FAPESP CEPID "IARA" — AI Recreating Environments. Research Collaborator. ~USD 1.8M
 - **2023–2026:** CNPq Consolidated Groups — Traffic modelling for smart/connected cities. PI. ~USD 13,900
@@ -136,22 +153,27 @@ Tenured civil engineering academic with 12+ years of post-doctoral experience br
 
 
 
-### Completed PhD (3)
-1. [G.J.M. Oliveira]() (2024): "*[Toward a Data-driven Framework to Analyse Temporal and Spatial Distributions of Crashes](https://minerva-access.unimelb.edu.au/items/9d41c43a-a211-41ce-92fe-f081fc49e630)*"
+### Completed PhD (4)
+1. [T.V. Louro](https://scholar.google.com.br/citations?user=ietBcOUAAAAJ) (2026): "*[Estimating the impacts of electric bicycles on accessibility to jobs and spatial equity](https://doi.org/10.11606/T.18.2026.tde-11062026-104151).*"
 
 1. [L.A. Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) (2025): "*[Classification of trucks by axles using Deep Learning and a Large Multimodal Model](https://doi.org/10.11606/T.18.2025.tde-11022026-082130)*"
 
 1. [A.B. Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en) (2025): "*Analysis of Flood Vulnerability in Brazilian Urban Networks Using Graph Theory Tools.*"
 
+1. [G.J.M. Oliveira]() (2024): "*[Toward a Data-driven Framework to Analyse Temporal and Spatial Distributions of Crashes](https://minerva-access.unimelb.edu.au/items/9d41c43a-a211-41ce-92fe-f081fc49e630)*"
 
 
-### PhD in Progress
+
+
+
+
+
+### PhD in Progress (2)
 
 1. [E.R. Ribeiro](https://scholar.google.com.br/citations?user=0r-M5IcAAAAJ): "*Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile*"
 
-1. [T.V. Louro](https://scholar.google.com.br/citations?user=ietBcOUAAAAJ): "*Examining The Impacts Of Electric Bicycles On Accessibility To Jobs And Spatial Equity*"
-
 1. [P.H.C. Caliari](https://scholar.google.com.br/citations?user=hy142eUAAAAJ): "*Evaluation of causal inference and spatial effects on travel behavior*" 
+
 
 ### Completed MSc (12)
 
@@ -180,13 +202,14 @@ Tenured civil engineering academic with 12+ years of post-doctoral experience br
 1. [E.R. Ribeiro](https://lattes.cnpq.br/4988917064689096) (2017): "*[Exploratory method analysis using Wavelet to detect patterns and anomalies in traffic history data](https://doi.org/10.11606/D.18.2017.tde-07112017-212156)*" 
 
 
-### MSc in Progress
+### MSc in Progress (4) 
 1. [A.V. Costa](http://lattes.cnpq.br/7862988333397510) "*Accessibility to Social Services in Belo Horizonte-MG*" 
 
 2. [M.E.S. Michelini](http://lattes.cnpq.br/6355612958124418) "*Development of an Emission Estimation Model for Brazilian Cases*" 
 
 3. [R.O.F.P. Oliveira](http://lattes.cnpq.br/3660336154224847) "*Urban resilience assessment through a comparative study of flood prediction methods*" 
 
+4. [M.C. da Silveira](http://lattes.cnpq.br/2158424254735233) "*Urban vulnerability indicator based on historical HAND data.*" 
 
 
 **Alumni Placement**
@@ -219,7 +242,7 @@ Graduates placed at national regulatory agencies (ANTT, ARTESP) in Brazil, leadi
 
 ## PUBLICATIONS \hrulefill
 
-20 peer-reviewed journal articles | 36 refereed conference proceedings | 3 manuscripts under review.
+21 peer-reviewed journal articles | 36 refereed conference proceedings | 1 manuscripts under review.
 
 *Students mentored by Prof. A.L. Cunha are denoted by underlining*.
 
@@ -227,12 +250,16 @@ Graduates placed at national regulatory agencies (ANTT, ARTESP) in Brazil, leadi
 
 1. SALINAS, K., BARELLA, V., **CUNHA, A.L.**, [OLIVEIRA, G.M.]{.underline}, VIERA, T., NONATO, L.G. (2025) "ORDENA: ORigin-DEstiNAtion data exploration". *IEEE Transactions on Visualization and Computer Graphics* <[arXiv:2510.18278](https://arxiv.org/pdf/2510.18278)>
 
-1. [LOURO, T. V.]{.underline}, GRIGOLON, A. B., **CUNHA, A. L.**, GEURS, K. T. (2025). "Cycling accessibility and equity: A systematic literature review". *Transport Reviews*.
+1. CARVALHO, F.L., LAROCCA, A.P.C., RIBEIRO, R.S., **CUNHA, A.L.B.N.** (2026) "Assessing the Reliability of OpenStreetMap for Highway Horizontal Alignment Extraction: A Comparison with Georeferenced CAD Data". IEEE access. <[10.1109/ACCESS.2024.0429000](http://doi.org/10.1109/ACCESS.2024.0429000)>
 
-1. [LOURO, T. V.]{.underline}, TOMASIELLO, D. B., GRIGOLON, A. B., **CUNHA, A. L.**, GEURS, K. T. (2026). "Integrating e-bikes and bikesharing with public transit: Evaluation of impacts on job accessibility and spatial equity". *Journal of Urban Mobility*.
 
 
 ### Peer-Reviewed Journal
+
+1. [LOURO, T. V.]{.underline}, TOMASIELLO, D. B., GRIGOLON, A. B., **CUNHA, A. L.**, GEURS, K. T. (2026). "Integrating e-bikes and bikesharing with public transit: Evaluation of impacts on job accessibility and spatial equity". *Journal of Urban Mobility*. DOI: [10.1016/j.urbmob.2026.100244](https://doi.org/10.1016/j.urbmob.2026.100244)
+
+1. [LOURO, T. V.]{.underline}, GRIGOLON, A. B., **CUNHA, A. L.**, GEURS, K. T. (2025). "Cycling accessibility and equity: A systematic literature review". *Transport Reviews*. DOI:  [10.1080/01441647.2026.2664409](doi.org/10.1080/01441647.2026.2664409)
+
 
 1. [LOURO, T.V.]{.underline}; GRIGILON, A.B.; TIRACHINI, A.; **CUNHA, A.L.**; GEURS, K.T. (2026) "How Do E-Bikes Measure Up? Analyzing Speed Differences and Network Impacts of São Paulo’s Bikesharing System". *Transportation*. DOI: [10.1007/s11116-026-10724-y](https://doi.org/10.1007/s11116-026-10724-y)
 
@@ -353,8 +380,6 @@ Graduates placed at national regulatory agencies (ANTT, ARTESP) in Brazil, leadi
 1. **CUNHA, A.L.B.N.**; SETTI, J.R. (2006) Calibration of the CORSIM truck performance model using a genetic algorithm. In: XX ANPET – Research and Teaching in Transport Congress, 2006, Brasília. Proceedings of the XX ANPET, v.I, p.88–99.
 
 
--->
-
 
 
 ## TECHNICAL PROFICIENCY & COMPUTATIONAL STACK \hrulefill
@@ -365,7 +390,7 @@ Graduates placed at national regulatory agencies (ANTT, ARTESP) in Brazil, leadi
 - **Engineering & GIS:** AutoCAD, Civil 3D, QGIS
 - **E-Learning:** Moodle, Google Classroom, blended/online course design, inverted classroom methodology
 
-
+-->
 
 ## AWARDS & HONORS \hrulefill
 
@@ -377,6 +402,7 @@ Graduates placed at national regulatory agencies (ANTT, ARTESP) in Brazil, leadi
 
 ### University of São Paulo
 
+- Deputy Coordinator, Graduate Program in Transportation Engineering
 - Elected member, Department Council — faculty hiring, budget, strategic partnerships
 - Member, Graduate Program Coordinating Committee (CCP-ET) — admissions, curriculum, scholarships
 - Member, Research and Innovation Committee (CPqI) — interdisciplinary grants, industry collaboration

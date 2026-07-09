@@ -20,7 +20,7 @@ format:
 
 ## ANDRÉ LUIZ BARBOSA NUNES DA CUNHA {-}
 
-**Tenured Assistant Professor of Civil Engineering · AI Specialist in Transport Engineering**\
+**Associate Professor of Civil Engineering · AI Specialist in Transport Engineering**\
 *University of São Paulo ([USP](https://www5.usp.br/en)) · São Carlos School of Engineering ([EESC](https://eesc.usp.br/en/))*\
 *Departament of Transport Engineering ([STT](https://eesc.usp.br/ppgs/stt/)) · São Carlos, SP, Brazil*\
 +55 16 3373 9597 | +55 16 98119 2339
@@ -46,7 +46,7 @@ format:
 \hrulefill
 ## Professional profile {-}
 
-Tenured researcher and Technical Lead with 12+ years of experience bridging the gap between advanced academic research and industrial application in Civil Engineering. Specialist in Transport Modelling, Highway Safety, and Artificial Intelligence, with a focus on translating R&D into operational safety standards. Proven track record of securing ~USD 3.38 Million (BRL 18.6M) in competitive grants and contracts [[@sec-budget]]. Global academic experience includes visiting appointments in Australia (UoM), Germany (TUM), Croatia (UNIZG), and Portugal (UMinho) [[@sec-international]].
+Tenured researcher and Technical Lead with 12+ years of experience bridging the gap between advanced academic research and industrial application in Civil Engineering. Specialist in Transport Modelling, Highway Safety, and Artificial Intelligence, with a focus on translating R&D into operational safety standards. Proven track record of securing ~USD 3.5 Million (BRL 18.7M) in competitive grants and contracts [[@sec-budget]]. Global academic experience includes visiting appointments in Australia (UoM), Germany (TUM), Croatia (UNIZG), and Portugal (UMinho) [[@sec-international]].
 
 
 ## Key career highlights {-}
@@ -171,7 +171,7 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
 ## University of São Paulo (USP) {-}
 
 
-1. **Tenured Assistant Professor** (equivalent to Associate Professor) \dotfill 2014 – present\
+1. **Tenured Associate Professor**  \dotfill 2014 – present\
     *Department of Transport Engineering (STT)*, São Carlos, Brazil.
 
     - **Leadership**: Director of the Intelligent Transportation Systems (ITS) Research Group.
@@ -199,9 +199,14 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
 \newpage
 # RESEARCH FUNDING & GRANTS {#sec-budget}
 
-*Total Funding Secured: ~USD 3.38 Million (BRL 18.6M)*
+*Total Funding Secured: ~USD 3.5 Million (BRL 18.7M)*
 
 ## Competitive Research Grants (Peer-Reviewed)
+
+1. **Cognitive Mobility in Transportation Engineering: Generative AI and Prescriptive Digital Twins** \dotfill 2026--2029\
+Role: Principal Investigator \
+Value: ~USD 18,100 (BRL 94,320)\
+Sponsor: CNPq Research Productivity Grant (Process 311964/2022-2), Brazil
 
 1. **CCD Sustainability and Innovation in Road Infrastructure** \dotfill 2025--2030\
 *Pavement Recycling as a Pillar of Decarbonization - Centers for Science for Development (CCD)*\
@@ -299,11 +304,19 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 ## Completed {#sec-completed}
 
+<<<<<<< Updated upstream
 1. Ph.D. (2026-04-02) : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) "*[Estimating  the Impacts of electric bicycles on accessibility to jobs and spatial equity](https://doi.org/10.11606/T.18.2026.tde-11062026-104151)*"
 
 1. Ph.D. (2025-12-08) : [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) "*[Classification of trucks by axles using Deep Learning and a Large Multimodal Model](https://doi.org/10.11606/T.18.2025.tde-11022026-082130)*"
 
 1. Ph.D. (2025-05-23) : [Andre Borgato Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en) "*[Analysis of Flood Vulnerability in Brazilian Urban Networks Using Graph Theory Tools]().*"
+=======
+1. Ph.D. (2026-04-02) : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) "*[Estimating the impacts of electric bicycles on accessibility to jobs and spatial equity](https://doi.org/10.11606/T.18.2026.tde-11062026-104151)*"
+
+1. Ph.D. (2025-12-08) : [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) "*[Classification of trucks by axles using Deep Learning and a Large Multimodal Model](https://doi.org/10.11606/T.18.2025.tde-11022026-082130)*"
+
+1. Ph.D. (2025-05-23) : [Andre Borgato Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en) "*[Analysis of Flood Vulnerability in Brazilian Urban Networks Using Graph Theory Tools]()*"
+>>>>>>> Stashed changes
 
 1. M.Sc. (2024-08-27): [Crhistian Emilio Ribeiro]() "*[Evaluation of deep neural networks for vehicle detection in satellite images](https://doi.org/10.11606/D.18.2024.tde-31102024-114415)*"
 
@@ -390,12 +403,13 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 1. SALINAS, K., BARELLA, V., **CUNHA, A.L.**, [OLIVEIRA, G.M.]{.underline}, VIERA, T., NONATO, L.G. (2025) "ORDENA: ORigin-DEstiNAtion data exploration". IEEE Transactions on Visualization and Computer Graphics <[arXiv:2510.18278](https://arxiv.org/pdf/2510.18278)>
 
-1. [LOURO, T. V.]{.underline}, TOMASIELLO, D. B., GRIGOLON, A. B., **CUNHA, A. L.**, GEURS, K. T. (2026). "Integrating e-bikes and bikesharing with public transit: Evaluation of impacts on job accessibility and spatial equity". Manuscript submitted for publication to Journal of Urban Mobility.
-
 1. CARVALHO, F.L., LAROCCA, A.P.C., RIBEIRO, R.S., **CUNHA, A.L.B.N.** (2026) "Assessing the Reliability of OpenStreetMap for Highway Horizontal Alignment Extraction: A Comparison with Georeferenced CAD Data". IEEE access. <[10.1109/ACCESS.2024.0429000](http://doi.org/10.1109/ACCESS.2024.0429000)>
 
 
 ## Peer-Reviewed Journal
+
+1. [LOURO, T. V.]{.underline}, TOMASIELLO, D. B., GRIGOLON, A. B., **CUNHA, A. L.**, GEURS, K. T. (2026). "Integrating e-bikes and bikesharing with public transport: Impacts on job accessibility and equity". Journal of Urban Mobility. \
+<DOI: [10.1016/j.urbmob.2026.100244](https://doi.org/10.1016/j.urbmob.2026.100244)>
 
 1. [LOURO, T. V.]{.underline}, GRIGOLON, A. B., **CUNHA, A. L.**, GEURS, K. T. (2026). "Cycling accessibility and equity: A systematic literature review". Transport Reviews. \
 <DOI: [10.1080/01441647.2026.2664409](https://doi.org/10.1080/01441647.2026.2664409)>

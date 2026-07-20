@@ -304,19 +304,11 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 ## Completed {#sec-completed}
 
-<<<<<<< Updated upstream
-1. Ph.D. (2026-04-02) : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) "*[Estimating  the Impacts of electric bicycles on accessibility to jobs and spatial equity](https://doi.org/10.11606/T.18.2026.tde-11062026-104151)*"
-
-1. Ph.D. (2025-12-08) : [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) "*[Classification of trucks by axles using Deep Learning and a Large Multimodal Model](https://doi.org/10.11606/T.18.2025.tde-11022026-082130)*"
-
-1. Ph.D. (2025-05-23) : [Andre Borgato Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en) "*[Analysis of Flood Vulnerability in Brazilian Urban Networks Using Graph Theory Tools]().*"
-=======
 1. Ph.D. (2026-04-02) : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) "*[Estimating the impacts of electric bicycles on accessibility to jobs and spatial equity](https://doi.org/10.11606/T.18.2026.tde-11062026-104151)*"
 
 1. Ph.D. (2025-12-08) : [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) "*[Classification of trucks by axles using Deep Learning and a Large Multimodal Model](https://doi.org/10.11606/T.18.2025.tde-11022026-082130)*"
 
 1. Ph.D. (2025-05-23) : [Andre Borgato Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en) "*[Analysis of Flood Vulnerability in Brazilian Urban Networks Using Graph Theory Tools]()*"
->>>>>>> Stashed changes
 
 1. M.Sc. (2024-08-27): [Crhistian Emilio Ribeiro]() "*[Evaluation of deep neural networks for vehicle detection in satellite images](https://doi.org/10.11606/D.18.2024.tde-31102024-114415)*"
 
@@ -344,15 +336,18 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 
 ## In progress
-1. M.Sc. : [Andressa Vitório Costa](http://lattes.cnpq.br/7862988333397510) "*Accessibility to Social Services in Belo Horizonte-MG*" 
+1. M.Sc. : [Andressa Vitório Costa](http://lattes.cnpq.br/7862988333397510) "*Accessibility to CREAS: An analysis of the physical and social distance of citizens in the Belo Horizonte Metropolitan Region*" 
 
-2. M.Sc. : [Maria Eduarda Saquetto Michelini](http://lattes.cnpq.br/6355612958124418) "*Development of an Emission Estimation Model for Brazilian Cases*" 
+1. M.Sc. : [Maria Eduarda Saquetto Michelini](http://lattes.cnpq.br/6355612958124418) "*Development of an Emission Estimation Model for Brazilian Cases*" 
 
-3. M.Sc. : [Rodrigo Otávio Fraga Peixoto de Oliveira](http://lattes.cnpq.br/3660336154224847) "*Urban resilience assessment through a comparative study of flood prediction methods*" 
+1. M.Sc. : [Rodrigo Otávio Fraga Peixoto de Oliveira](http://lattes.cnpq.br/3660336154224847) "*Urban resilience assessment through a comparative study of flood prediction methods*" 
 
-5. Ph.D. : [Elaine Rodrigues Ribeiro]() "*Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile*"
+1. M.Sc. : [Murilo Colin da Silveira]() "*Implementing truck brake fading in SUMO model*" 
 
-6. Ph.D. : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) "*Evaluation of causal inference and spatial effects on travel behavior*" 
+
+1. Ph.D. : [Elaine Rodrigues Ribeiro]() "*Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile*"
+
+1. Ph.D. : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) "*Evaluation of causal inference and spatial effects on travel behavior*" 
 
 
 
@@ -403,10 +398,11 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 1. SALINAS, K., BARELLA, V., **CUNHA, A.L.**, [OLIVEIRA, G.M.]{.underline}, VIERA, T., NONATO, L.G. (2025) "ORDENA: ORigin-DEstiNAtion data exploration". IEEE Transactions on Visualization and Computer Graphics <[arXiv:2510.18278](https://arxiv.org/pdf/2510.18278)>
 
-1. CARVALHO, F.L., LAROCCA, A.P.C., RIBEIRO, R.S., **CUNHA, A.L.B.N.** (2026) "Assessing the Reliability of OpenStreetMap for Highway Horizontal Alignment Extraction: A Comparison with Georeferenced CAD Data". IEEE access. <[10.1109/ACCESS.2024.0429000](http://doi.org/10.1109/ACCESS.2024.0429000)>
-
 
 ## Peer-Reviewed Journal
+
+1. CARVALHO, F.L., LAROCCA, A.P.C., RIBEIRO, R.S., **CUNHA, A.L.B.N.** (2026) "A Comparative Assessment of OpenStreetMap and CAD-Derived Horizontal Alignment Parameters for an Interurban Brazilian Highway". IEEE access. <[10.1109/ACCESS.2026.3714730](https://doi.org/10.1109/ACCESS.2026.3714730)>
+
 
 1. [LOURO, T. V.]{.underline}, TOMASIELLO, D. B., GRIGOLON, A. B., **CUNHA, A. L.**, GEURS, K. T. (2026). "Integrating e-bikes and bikesharing with public transport: Impacts on job accessibility and equity". Journal of Urban Mobility. \
 <DOI: [10.1016/j.urbmob.2026.100244](https://doi.org/10.1016/j.urbmob.2026.100244)>

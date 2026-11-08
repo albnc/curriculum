@@ -116,6 +116,8 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
 \hrulefill
 # INTERNATIONAL MOBILITY {#sec-international}
 
+1. **Beihang University (BUAA)**, China | *Visiting Researcher (BUAA-USP)* \dotfill 2026
+
 1. **University of Melbourne (UoM)**, Australia | *Visiting Researcher (CAPES-Print)* \dotfill 2020
 
 1. **University of Zagreb (UNIZG)**, Croatia | *Visiting Lecturer (ERASMUS+)* \dotfill 2018, 2022
@@ -199,9 +201,15 @@ Federal University of Mato Grosso do Sul (UFMS), Brazil
 \newpage
 # RESEARCH FUNDING & GRANTS {#sec-budget}
 
-*Total Funding Secured: ~USD 3.5 Million (BRL 18.7M)*
+*Total Funding Secured: ~USD 5.5 Million (BRL 29.7M)*
 
 ## Competitive Research Grants (Peer-Reviewed)
+
+1. **Experimental and Computational Simulation Assessment of the Impacts of Using B30 Diesel Fuel in Freight Locomotives: Performance, Maintenance, and Engine Digital Twin** \dotfill 2027--2030\
+Role: Principal Investigator \
+Value: ~USD 2,000,000 (BRL 11,000,000)\
+Sponsor: National Land Transport Agency (ANTT), Technological Development Resource (RDT), (under contracting process), Brazil
+
 
 1. **Cognitive Mobility in Transportation Engineering: Generative AI and Prescriptive Digital Twins** \dotfill 2026--2029\
 Role: Principal Investigator \
@@ -280,7 +288,7 @@ Sponsor: ARTERIS Autopista Litoral Sul (ALS), Brazil
 Summary of Supervision Successfully
 : directed 60+ researchers across all academic levels.
 
-  - **PhD Students**: 6 total (3 completed, 3 in progress)
+  - **PhD Students**: 6 total (4 completed, 2 in progress)
   - **MSc Students**: 15 total (12 completed, 3 in progress)
   - **Scientific Initiation**: 18 total (16 completed, 2 in progress)
   - **Capstone Projects**: 25 completed
@@ -312,6 +320,8 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 1. Ph.D. (2024-12-02): [Gabriel Jurado Martins de Oliveira](https://lattes.cnpq.br/1828432370828925) "*Toward a Data-driven Framework to Analyse Temporal and Spatial Distributions of Crashes*" — *Co-supervision, University of Melbourne (Australia)*
 
+1. M.Sc. (2026-07-31): [Andressa Vitório Costa](http://lattes.cnpq.br/7862988333397510) "*[Accessibility to CREAS: An analysis of the physical and social distance of citizens in the Belo Horizonte Metropolitan Region](https://doi.org/10.11606/D.18.2026.tde-14102026-103054)*" 
+
 1. M.Sc. (2024-08-27): [Crhistian Emilio Ribeiro]() "*[Evaluation of deep neural networks for vehicle detection in satellite images](https://doi.org/10.11606/D.18.2024.tde-31102024-114415)*"
 
 1. M.Sc. (2022-08-19): [Paola Yumi Matsumoto](https://lattes.cnpq.br/6933325479741942) "*[Calibration of Cellular Automata model for simulation of the traffic flow behavior in São Paulo roads](https://doi.org/10.11606/D.18.2022.tde-18102022-103557)*" 
@@ -338,13 +348,12 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 
 ## In progress
-1. M.Sc. : [Andressa Vitório Costa](http://lattes.cnpq.br/7862988333397510) "*Accessibility to CREAS: An analysis of the physical and social distance of citizens in the Belo Horizonte Metropolitan Region*" 
 
 1. M.Sc. : [Maria Eduarda Saquetto Michelini](http://lattes.cnpq.br/6355612958124418) "*Development of an Emission Estimation Model for Brazilian Cases*" 
 
 1. M.Sc. : [Rodrigo Otávio Fraga Peixoto de Oliveira](http://lattes.cnpq.br/3660336154224847) "*Urban resilience assessment through a comparative study of flood prediction methods*" 
 
-1. M.Sc. : [Murilo Colin da Silveira]() "*Implementing truck brake fading in SUMO model*" 
+1. M.Sc. : [Murilo Colin da Silveira]() "*Development of a Socio-Climatic Vulnerability Index Applied to Urban Mobility in Brazil*" 
 
 
 1. Ph.D. : [Elaine Rodrigues Ribeiro]() "*Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile*"
@@ -478,6 +487,15 @@ Graduates have secured strategic roles at National Regulatory Agencies (e.g., AN
 
 
 ## Conference Proceedings
+
+1. [BATISTA, I.C.C.]{.underline}; **CUNHA, A.L.** (2026) Automated Generation of GTFS Data Using Generative AI. In: ANPET – Research and Teaching in Transport Congress, 2026, Buzios/RJ. Proceedings of the 40th ANPET.
+
+1. [COSTA, A.V.]{.underline}; **CUNHA, A.L.**; NOBREGA, R.A.A. (2026) Socio-Spatial Analysis of Accessibility to CREAS in the Belo Horizonte Metropolitan Region. In: ANPET – Research and Teaching in Transport Congress, 2026, Buzios/RJ. Proceedings of the 40th ANPET.
+
+1. **CUNHA, A.L.** (2026) Equity of Access to Leisure and Healthcare in Brazilian Capitals: Automated Analysis via 2022 CNEFE. In: ANPET – Research and Teaching in Transport Congress, 2026, Buzios/RJ. Proceedings of the 40th ANPET.
+
+1. [MICHELINI, M.E.S.]{.underline}; [LOURO, T.V.]{.underline}; **CUNHA, A.L.** (2026) Who Has Access to the 15-Minute City? An Analysis of Socio-Spatial Equity in Curitiba/PR. In: ANPET – Research and Teaching in Transport Congress, 2026, Buzios/RJ. Proceedings of the 40th ANPET.
+
 
 1. [MORELLI, A.B.]{.underline}; [ALIZON, G.B.]{.underline}; **CUNHA, A.L.** (2025) Alternative-Route Efficiency in Brazilian Cities: How Flood-Induced Collapse Patterns Differ from Random Blockages. In: XXXIX ANPET – Research and Teaching in Transport Congress, 2025, Goiânia. Proceedings of the 39th ANPET.
 
